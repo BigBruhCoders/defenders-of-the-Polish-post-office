@@ -1,12 +1,12 @@
 # Westerplatte defenters
-This is a website project for "Śladami Obrońców Westerplatte" competition organized by Zespół Szkół Łączności w Gdańsku im. "Obrońców Poczty Polskiej"
+This is a website project for "Śladami Obrońców Poczty Polskiej w Gdańsku" competition organized by Zespół Szkół Łączności w Gdańsku im. "Obrońców Poczty Polskiej"
 
 ## Requirements
 - node >= v16.15.1 - [download here](https://nodejs.org/en/)
 
 ## Basic Setup
 
-1. Download project and unpack it or clone it using `git clone https://github.com/BigBruhCoders/westerplatte-defenders` with [git](https://git-scm.com/)
+1. Download project and unpack it or clone it using `git clone https://github.com/BigBruhCoders/defenders-of-the-Polish-post-office` with [git](https://git-scm.com/)
 2. Open cmd/terminal
 3. Go inside project's folder using `cd <path to the folder>`
 4. Install all dependencies using `npm install`
