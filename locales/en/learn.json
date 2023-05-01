@@ -4,7 +4,7 @@
   "toTop": "Return to top",
   "war": "War",
   "buildings": "Important buildings",
-  "westerplatte": "Westerplatte areas",
+  "post-office": "todo: Post office area",
   "pageNotFound": "Page not found",
   "clickOnTopic": "Click on topic you would like to choose",
   "toHomePage": "Back to home",
@@ -116,8 +116,8 @@
         ]
       ]
     },
-    "westerplatte": {
-      "name": "Westerplatte areas",
+    "post-office": {
+      "name": "Post office area",
       "introduction": "",
       "parts": [
         "in the past",
