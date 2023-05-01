@@ -47,7 +47,7 @@ const App = ({Component, pageProps}) => {
         <>
             <ThemeProvider theme={getTheme(themeName)}>
                 <Head>
-                    <title>{t("westerplatte-defenders")}</title>
+                    <title>{t("post-office-defenders")}</title>
                 </Head>
                 <Flexbox>
                     <Navbar changeTheme={changeTheme}/>
