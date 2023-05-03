@@ -3,8 +3,9 @@
   "sections": "Sekcje",
   "toTop": "Powrót do góry",
   "war": "Wojna",
-  "buildings": "Ważne budynki",
+  "monuments": "Pomniki",
   "post-office": "Tereny Poczty",
+  "defenders": "Obrońcy oraz towarzyszące im osoby cywilne",
   "pageNotFound": "Nie znaleziono strony",
   "clickOnTopic": "Kliknij temat, który byś chciał wybrac",
   "toHomePage": "Powrót do strony głównej",
@@ -17,7 +18,8 @@
         "przebieg bitwy o budynek poczty",
         "o pocztowcach",
         "proces pocztowców",
-        "rewizja"
+        "rewizja",
+        "wydarzenia powojenne"
       ],
       "sections": [
         [
@@ -49,71 +51,52 @@
         ],
         [
           "Obrońcy byli sądzeni w dwóch procesach przez sąd polowy brygady generała Friedricha Eberhardta, wchodzącej w skład 3 Armii Georga von Küchlera. 8 września sądzono 28 pocztowców, a 30 września pozostałych 10. Wszyscy zostali skazani na śmierć za „partyzantkę” (niem. Freischärlerei). Podstawą oskarżenia było rozporządzenie o specjalnym wojennym prawie karnym w czasie wojny i podczas szczególnych zadań z 17 sierpnia 1938.",
-          "Artykuł trzeci tego rozporządzenia brzmiał: „partyzantem karanym śmiercią jest ten, kto bez posiadania przewidzianych przez prawo międzynarodowe zewnętrznych odznak przynależności do sił zbrojnych nieprzyjacielskiego mocarstwa, broni albo innych środków używa, lub mając w swoim posiadaniu, w zamiarze użycia na szkodę niemieckiego lub zaprzyjaźnionego wojska albo przynależnego do nich zabija lub podejmuje działanie, które na użytek wojenny mogą podejmować tylko członkowie sił zbrojnych w mundurze”[5]. Wyrok wydał przewodniczący sądu Kurt Bode, a oskarżycielem był radca sądu wojskowego dr Hans Giesecke. Wyrok ostatecznie zatwierdził gen. Walther von Brauchitsch, naczelny dowódca wojsk lądowych.",
-          "Wyrok wykonano prawdopodobnie 5 października[6][7], około godziny 4 nad ranem[6], na ćwiczebnym poligonie policji gdańskiej na Zaspie. Pocztowcy zostali rozstrzelani na terenie starej strzelnicy przy lotnisku we Wrzeszczu i w tym samym miejscu pogrzebani. Według zachowanych świadectw prowadzono ich czwórkami, spętanych. Nad wykopanym przez więźniów Stutthofu grobem pozwolono im przyjąć komunię świętą. Mogiłę zasypano gaszonym wapnem i dokładnie pokryto murawą[8]. Jednym z kierujących egzekucją był SS-Sturmbannführer Max Pauly, ówczesny komendant obozu koncentracyjnego Stutthof (w roku 1946 skazany został on przez Brytyjski Trybunał Wojskowy na karę śmierci przez powieszenie)."
+          "Artykuł trzeci tego rozporządzenia brzmiał: „partyzantem karanym śmiercią jest ten, kto bez posiadania przewidzianych przez prawo międzynarodowe zewnętrznych odznak przynależności do sił zbrojnych nieprzyjacielskiego mocarstwa, broni albo innych środków używa, lub mając w swoim posiadaniu, w zamiarze użycia na szkodę niemieckiego lub zaprzyjaźnionego wojska albo przynależnego do nich zabija lub podejmuje działanie, które na użytek wojenny mogą podejmować tylko członkowie sił zbrojnych w mundurze”. Wyrok wydał przewodniczący sądu Kurt Bode, a oskarżycielem był radca sądu wojskowego dr Hans Giesecke. Wyrok ostatecznie zatwierdził gen. Walther von Brauchitsch, naczelny dowódca wojsk lądowych.",
+          "Wyrok wykonano prawdopodobnie 5 października, około godziny 4 nad ranem, na ćwiczebnym poligonie policji gdańskiej na Zaspie. Pocztowcy zostali rozstrzelani na terenie starej strzelnicy przy lotnisku we Wrzeszczu i w tym samym miejscu pogrzebani. Według zachowanych świadectw prowadzono ich czwórkami, spętanych. Nad wykopanym przez więźniów Stutthofu grobem pozwolono im przyjąć komunię świętą. Mogiłę zasypano gaszonym wapnem i dokładnie pokryto murawą. Jednym z kierujących egzekucją był SS-Sturmbannführer Max Pauly, ówczesny komendant obozu koncentracyjnego Stutthof (w roku 1946 skazany został on przez Brytyjski Trybunał Wojskowy na karę śmierci przez powieszenie)."
         ],
         [
           "W 1995 Sąd Krajowy w Lubece przeprowadził rewizję procesu pocztowców, stwierdzając m.in. pogwałcenie reguł postępowania sądowego i naruszenia postanowień IV konwencji haskiej (1907) o prawach i zwyczajach wojny lądowej. W jej wyniku zostali oni przez sąd uniewinnieni. Do rozpoczęcia procesu przyczyniła się wydana w tym samym roku książka Dietera Schenka „Polska Poczta w Gdańsku – historia pewnego niemieckiego morderstwa sądowego”. Wyrok oprócz znaczenia moralnego pozwolił na wystąpienie do rządu niemieckiego o odszkodowanie (zostało ono wypłacone w roku 2001).",
           "Głównymi tezami uzasadniającymi wyrok były:",
           "Obowiązujący do 14 listopada 1939 Kodeks karny Wolnego Miasta Gdańska nie przewidywał kary śmierci.",
           "Rozporządzenie o specjalnym wojennym prawie karnym, na którym oparto wyrok dotyczyło tylko działań popełnionych przeciwko Wehrmachtowi, natomiast pocztę atakowały oddziały policji gdańskiej oraz paramilitarne jednostki SS i SA.",
-          "Rozporządzenie przewidziane było na wypadek wojny, a taki fakt zaistniał po 3 września 1939 kiedy Wielka Brytania i Francja wypowiedziały Niemcom wojnę[9].",
+          "Rozporządzenie przewidziane było na wypadek wojny, a taki fakt zaistniał po 3 września 1939 kiedy Wielka Brytania i Francja wypowiedziały Niemcom wojnę.",
           "Poczta Polska w Gdańsku w myśl art. 104 traktatu wersalskiego była w świetle prawa międzynarodowego terytorium Polski bronionym przez Polaków, więc nie mogli być oni uznani za partyzantów.",
           "Pogwałcone zostały postanowienia ratyfikowanej przez Niemcy IV konwencji haskiej, której artykuł 43 w dziale III stwierdza: „z chwilą przejścia władzy z rąk rządu legalnego do rąk okupanta tenże poweźmie wszelkie będące w jego mocy środki, przestrzegając prawa obowiązujące w tym kraju”. Poczta Polska była częścią terytorium Polski.",
           "Nie zapewniono oskarżonym prawa do obrony.",
           "Odpowiedzialnych za mord sądowy Hansa Giesecke i Kurta Bode nigdy nie spotkała jakakolwiek kara. Zostali po wojnie zdenazyfikowani. Giesecke został dyrektorem Sądu Krajowego Hesji we Frankfurcie nad Menem, a Bode był sędzią, a potem wiceprezesem Wyższego Sądu Krajowego w Bremie. Zmarli w latach siedemdziesiątych jako cenieni prawnicy."
+        ],
+        [
+          "Uchwałą Krajowej Rady Narodowej z 31 października 1946 Orderem Virtuti Militari V klasy za bohaterską obronę Poczty Polskiej w Gdańsku w 1939 r. został odznaczony Związek Zawodowy Pracowników Poczt i Telekomunikacji – Koło Gdańsk 1.",
+          "Po wojnie dawny plac Heweliusza otrzymał nazwę placu Obrońców Poczty Polskiej. Z okazji 40. rocznicy bohaterskiej obrony, 1 września 1979 na placu odsłonięto Pomnik Obrońców Poczty Polskiej w Gdańsku. W tym samym dniu, w bronionym w 1939 budynku, uruchomiono Urząd Pocztowy Gdańsk 1 oraz Muzeum Poczty i Telekomunikacji. To ostatnie stanowiło przez długi czas oddział Muzeum Poczty i Telekomunikacji we Wrocławiu, a od 1 stycznia 2003 włączono je w struktury Muzeum Historycznego Miasta Gdańska (obecnie Muzeum Gdańska) pod nazwą Muzeum Poczty Polskiej w Gdańsku.",
+          "Do 28 sierpnia 1991 nie było znane miejsce egzekucji obrońców Poczty Polskiej. Po 1939 roku Niemcy wykonali prace ziemne, które - mimo istnienia naocznych świadków mordu - przez długie lata uniemożliwiały precyzyjne ustalenie miejsca egzekucji. Na zbiorowy grób 38 pocztowców natrafili przypadkowo robotnicy prowadzący prace ziemne przy budowie garaży banku na osiedlu Zaspa (między ulicą Burzyńskiego a aleją Jana Pawła II). Ekshumowane szczątki zostały ponownie pochowane na znajdującym się w pobliżu Cmentarzu Ofiar Hitleryzmu w Gdańsku, gdzie spoczywają także pomordowani kolejarze i celnicy z Szymankowa oraz działacze polscy Wolnego Miasta Gdańska zamordowani w Wielki Piątek 22 marca 1940 w Stutthofie.",
+          "Podczas prac ekshumacyjnych, obok innych znalezisk świadczących o tym, że jest to mogiła pocztowców, znaleziono jednoznaczny dowód w postaci obrączki Franciszka Klinkosza, ekspedienta pocztowego z panieńskimi inicjałami jego żony (Praksedy Vogel) i datą ich ślubu - \"P.V. 4.4.26\".",
+          "W 1998 roku Rada Miasta Gdańska przyznała obrońcom Poczty Polskiej (łącznie 56 osobom) pośmiertnie tytuły honorowych obywateli Gdańska.",
+          "Jesienią 2015 na wniosek rodzin pocztowców, usunięto pomnik odsłonięty na podwórzu Domu Kombatanta na przełomie lat 1970. i 80. - w miejscu domniemanego rozstrzelania obrońców."
         ]
       ]
     },
-    "buildings": {
-      "name": "Ważne budynki",
-      "introduction": "Placówka składała się z 5 betonowych, wzmocnionych wartowni i przystosowanych do obrony, wzmocnionych, najnowocześniejszych wówczas w Polsce koszar. W sierpniu, w obliczu mnożących się prowokacji niemieckich i wobec groźby wybuchu wojny, na terenie Westerplatte wybudowano drewniano-ziemne umocnienia polowe stanowiące zewnętrzny pas obrony. Wykonano też zaporę przeciwczołgową, rzędy zasieków oraz wycięto niektóre drzewa i krzewy dla zapewnienia lepszej widoczności i pola ostrzału. By ukryć prace przed wzrokiem niemieckich obserwatorów, prowadzono je w nocy.",
+    "monuments": {
+      "name": "Pomniki",
+      "introduction": "W celu upamiętnienia poświęcenia pocztowców zostało postawionych wiele pomników i tablic",
       "parts": [
-        "koszary",
-        "wartownie",
-        "elektrownia",
-        "magazyny amunicyjne",
-        "placówki"
+        "pomniki"
       ],
       "sections": [
         [
-          "Budynek tzw. starych koszar oryginalnie był hotelem wzniesionym w 1890 roku. Miał dwie kondygnacje z niewielką piwnicą.",
-          "Pierwszy projekt, który miał na celu przekształcenie pomieszczeń hotelu na koszary, powstał w 1924 roku.",
-          "Nowe koszary zostały wybudowane na zachód od budynku tzw. starych koszar w 1936 roku. Z czasem stary hotel przekształcono w zaplecze gospodarze oraz potencjalne miejsce zakwaterowania nadliczbowej załogi oraz sezonowych pracowników cywilnych.",
-          "/images/gallery/koszary_zewnatrz_2.jpg",
-          "Stare koszary przetrwały bitwę o Westerplatte jednak już jesienią 1939 r. został skrupulatnie rozebrany. Materiały z rozbiórki, według zachowanych relacji, miały posłużyć rozbudowującym obóz w Stutthof jako materiał budowalny.",
-          "Budynek nowych koszar wybudowany w 1934 roku w kształcie niesymetrycznej litery T. Miał jedno piętro i powierzchnię 654 m2.",
-          "Pełnił on wiele funkcji. W kondygnacji piwnicznej urządzono pomieszczenia przeznaczone na radiostację, kabinę bojowa, elektrownię i magazyn amunicji, kuchnię, stołówkę, magazyn żywności i garaż. Na parterze zlokalizowano centralę telefoniczną, pomieszczenia żołnierskie, umywalnie i centralę szefa kompanii. Na piętrze znajdowała się kancelaria komendanta Składnicy, izba chorych, pokoje oficerów i podoficerów służby czynnej.",
-          "Budynek został uszkodzony w czasie bombardowania, ale nie osłabiły jego zdolności do obrony. Obecnie widoczne zniszczenia są skutkiem celowego wysadzenia obiekty przez sowieckich saperów."
-        ],
-        [
-          "Koncepcja obrony została opracowana przez pułkownika Józefa Siłakowskiego. Rdzeniem obrony stały się koszary obronne (czasami nazywane Wartownią nr 6).",
-          "Pięć wartowni było częścią systemu obrony Wojskowej Składnicy Tranzytowej. Ustawione były w kształcie pięciokąta. Dzięki takiemu rozmieszczeniu każdy spodziewany kierunek natarcia nieprzyjaciela pokryty był ogniem broni maszynowej z co najmniej dwóch wartowni, najbardziej zaś niebezpieczny kierunek wschodni był dodatkowo wspierany ogniem z izby bojowej koszar.",
-          "Jedynie wartownia numer 1 przetrwała do dzisiaj. Funkcjonuje obecnie jako muzeum.",
-          "/images/gallery/wartownia_nr_1_budynek.jpg"
-        ],
-        [
-          "Budynek elektrowni wraz ze znajdującymi się wewnątrz stacją transformatorową i systemem pomp był przewidywany do wzniesienia już w 1924 r. Konieczność uruchomienia własnej stacji elektro-generatorów była podyktowana problemami na wypadek przerw w dostawach energii elektrycznej z Gdańska, które w tamtym czasie były codziennością.",
-          "Polska jednostka wojskowa, która miała być użytkownikiem całego terenu, wraz z magazynami, obiektami koszarowymi i innymi, nie mogła sobie pozwolić na zależność od dostaw prądu. Obiekt mieszczący generatory spalinowe miał sprostać temu zadaniu i zabezpieczać pracę poprzez dostawy prądu, zwłaszcza przy wyładunku i załadunku materiałów wojennych. Dotychczasowe połączenie kablowe dawnego kurortu na Westerplatte z siecią energetyczną miasta Gdańska nie zapewniłoby wystarczającej ilości energii. Należało położyć nowe kable po dnie kanału portowego Wisły. Dzięki temu do codziennego użytku wykorzystywano sieć miejską, a w rezerwie można było bez przeszkód uruchomić znajdujące się na miejscu generatory prądu.",
-          "Sam obiekt wzniesiono pod koniec 1926 r. Jednak przekazany budynek wymagał dalszych prac wyposażających go w specjalistyczne urządzenia, bez których nie można było z niego korzystać. Podpisany 21 grudnia 1926 r. kontrakt zamykający ten etap prac otwierał równocześnie możliwość umieszczenia w obiekcie agregatów spalinowych. Uruchomienie ich, nie bez przeszkód, nastąpiło dopiero w kwietniu 1928 r. Od tego czasu Wojskowa Składnica Towarowa miała możliwość korzystania z dostaw energii elektrycznej w sposób niezależny od gdańszczan.",
-          "Budynek ten w trakcie walk nie był wykorzystywany, ponieważ przewidując ostrzał nieprzyjaciela, w budynku nowych koszar zainstalowano osobny generator.",
-          "Elektrownia jest jedynym obiektem, który zachował się w niemal nie zmienionym stanie od 1939 roku. Po renowacji oraz adaptacji wnętrz będzie to miejsce przyszłej wystawy czasowej muzeum na Westerplatte."
-        ],
-        [
-          "/images/gallery/magazyn_amunicyjny_1.jpg",
-          "Aby przechowywać dostarczane morzem materiały niebezpieczne wybudowano w sumie 22 magazyny amunicyjne, które od strony miasta były osłonięte watami ziemnymi. W latach użytkowania Składnicy do magazynów tych prowadziły dwie równoległe bocznice kolejowe.",
-          "/images/gallery/magazyn_amunicyjny_2.jpg"
-        ],
-        [
-          "„Fort” – Utworzona w betonowym schronie z 1911 roku. Miała za zadanie odpierać natarcie ze strony plaży. Po wyczerpaniu możliwości obronnych miała za zadanie wycofać się do Wartowni nr 5. Obsada placówki odpierała ataki prowadzone wzdłuż morza i bocznicą kolejową, między magazynami.",
-          "/images/gallery/placowka_fort.jpg",
-          "„Prom” – Położona na południowym wschodzie Westerplatte placówka. Przyjęła pierwsze natarcia III Rzeszy. ",
-          "„Wał” – Najbardziej wysunięta na wschód placówka Wojskowej Składnicy Towarowej. Znajdował się na wale ziemnym otaczającym magazyn amunicyjny nr 1 i wraz z placówką „Prom” ubezpieczała linię wartowni przed niespodziewanym atakiem. Godzinę od pierwszego ataku postanowiono opuścić placówkę i wycofać się bez strat do placówki „Fort”",
-          "„Tor kolejowy“ – Utworzona przy ruinach wartowni nr 5. Do końca obrony wypełniała lukę w systemie obrony.",
-          "„Elektrownia“ – Placówka broniąca półwysep od strony basenu amunicyjnego. Wybudowana została przez  Michała Gawlickiego – zmobilizowanego pracownika cywilnego. Umiejscowiona została w połowie odległości między budynkiem elektrowni, a Wartownią nr 4",
-          "/images/gallery/elektrownia.jpg",
-          "„Łazienki“ – Składająca się z dwóch stanowisk placówka była najdalej postawioną na północ. Pierwsze stanowisko stanowił rów strzelecki na skraju lasu, a drugie było umiejscowione na wale magazynu amunicyjnego nr 19. Zamykały one kierunek od strony basenu amunicyjnego oraz plażę",
-          "„Przystań” – Placówka umiejscowiona na skraju lasku, po zachodniej stronie Westerplatte, pełniła zadanie obrony przed ewentualnym desantem jednostek niemieckich. Współdziałała ogniowo z Wartownią nr 2. Dowódcą placówki był ppor. Zdzisław Kręgielski."
+          "[ IMG ]",
+          "Pomnik obrońców poczty polskiej odsłonięty w 1979 przed frontem budynku Poczty Polskiej w Gdańsku",
+          "[ IMG ]",
+          "Tablica umieszczona na murze obok budynku pocztowego, gdzie początkowo zgromadzono wziętych do niewoli Pocztowców, upamiętniająca nadanie im w 1998 honorowego obywatelstwa Gdańska",
+          "[ IMG ]",
+          "Pomnik obok tablicy",
+          "[ IMG ]",
+          "Ten sam mur. Artysta umieścił na nim symboliczne ślady palców tam, gdzie aresztowani pocztowcy trzymali ręce",
+          "[ IMG ]",
+          "Grób pocztowców, cmentearz na Zaspie",
+          "[ IMG ]",
+          "Gdańsk-Zaspa: napis na tablicy - „W tym miejscu odnaleziono w dniu 28.08.1991 r. szczątki 38 obrońców poczty polskiej w Gdańsku, którzy zostali rozstrzelani przez hitlerowców w dniu 05.10.1939 r.”",
+          "[ IMG ]",
+          "Tablica w miejscu rozstrzelania polskich pocztowców przez Niemców w 1939 na gdańskiej Zaspie przy ul. Kombatantów 4 z napisem: „W tym miejscu, na terenie byłej strzelnicy, hitlerowscy oprawcy dokonali 5 października zbrodniczej egzekucji rozstrzelania 38 bohaterskich obrońców Poczty Polskiej. Śmiertelne szczątki Bohaterów znajdują się na terenie Cmentarza Bojowników na Zaspie”"
         ]
       ]
     },
@@ -126,18 +109,101 @@
       ],
       "sections": [
         [
-          "Pierwotnie była to wyspa przy ujściu Martwej Wisły do Zatoki Gdańskiej. Półwysep został uformowany w latach 1845-1847.",
-          "Od 1926 roku do 1939 półwysep był eksklawą Polski wewnątrz terytorium Wolnego Miasta Gdańska. W tym okresie funkcjonowała tam Wojskowa Składnica Tranzytowa. To jej obrona stała się symbolicznym początkiem II Wojny Światowej i polskiego oporu przeciw agresji III Rzeszy.",
-          "Nazwa „Westerplatte” pochodzi z języka niemieckiego. „West” to zachodnia, a „platte” to płyta, w tym przypadku rozumiana jako wyspa. Nazwa tego półwyspu oznacza dosłownie „zachodnią wyspę”.",
-          "Na terenach Westerplatte powstała Wojskowa Składnica Towarowa, która na celu miała zabezpieczenie dostaw dla Polski przez port w Gdańsku. W 1925 roku wybudowano nowy basen portowy, tzw. basen amunicyjny, do którego doprowadzono tor kolejowy. Na nabrzeżach umieszczono sześć dźwigów oraz trzy magazyny."
+          "(temp; check data; only wikipedia)",
+          "[ IMG ] Skrzynka pocztowa Poczty Polskiej w Wolnym Mieście Gdańsku",
+          "Polski Urząd Pocztowo-Telegraficzny w Gdańsku utworzono na mocy postanowień traktatu wersalskiego (paragraf 104 ust. 3) z 1919, konwencji polsko-gdańskiej z 1920 (artykuły 29–32) oraz umowy warszawskiej z 24 października 1921 (artykuły 149–168). Pierwsza placówka w Gdańsku powstała w Nowym Porcie 10 marca 1920. W 1921 utworzono Dyrekcję Poczt i Telegrafów RP w Gdańsku. Mieściła się ona przy placu Heweliusza, w gmachu dawnego pruskiego szpitala wojskowego, zbudowanego w latach 1838–1844[1] (po utworzeniu Wolnego Miasta Gdańska i demilitaryzacji szpital został zamknięty[2]). Podlegały jej trzy urzędy pocztowe: Gdańsk 1 w gmachu przy pl. Heweliusza na Starym Mieście (od 1925), Gdańsk 2 na Dworcu Głównym w pomieszczeniu PKP (obecna restauracja KFC), oraz Gdańsk 3 w gdańskim porcie, tzw. Poczta Morska (gmach przy ul. Wiślnej został zbudowany w 1927, w dzisiejszej dzielnicy Letnica[3]).",
+          "Urząd Gdańsk 1 stał się od 1930 głównym urzędem pocztowym w Gdańsku, mieściła się w nim m.in. centrala telefoniczna z bezpośrednim połączeniem z Polską. Urzędy na dworcu i w porcie nie obsługiwały indywidualnych klientów, ich obsługą zajmował się oddział nr 1. W Gdańsku ustawionych zostało 10 skrzynek pocztowych z polskim godłem państwowym. Szacuje się, że w 1939 na Poczcie Polskiej pracowało nieco ponad 100 osób.",
+          "1 września 1939 główna placówka Poczty Polskiej w Gdańsku stała się miejscem bohaterskiej i tragicznej obrony przed atakiem niemieckich formacji policyjnych i paramilitarnych. Zginęło wtedy, głównie zamordowanych po kapitulacji, około 50 pocztowców. Polscy pocztowcy, którzy nie brali udziału w obronie, zostali w większości aresztowani i osadzeni w obozach koncentracyjnych.",
+          "Obecnie mieści się tam Urząd Pocztowy Gdańsk 1 oraz Muzeum Poczty Polskiej w Gdańsku; w 1979 przed budynkiem urzędu pocztowego ustawiono pomnik Obrońców Poczty Polskiej w Gdańsku."
         ],
         [
           "Obecnie znajduje się tam muzeum obrońców Poczty Polskiej w Gdańsku, sale lekcyjne ZSŁ i bursa szkolna.",
-          "Przed budynkiem, na placu, znajduje się pomnik poświęcowy obrońcom tej poczty.",
-          "Obecnie znajduje się tam muzeum Westerplatte i Wojny 1939. Na jego terenie stoi, zbudowany w latach 1964 - 1966, 25-metrowy Pomnik Obrońców Wybrzeża. Ustawiony na 20-metrowym kopcu monument przypomina wyszczerbiony bagnet wbity w ziemię. W czasie przebudowy terenu wyburzono znaczącą część ruin koszar. W 1967 przy poszerzaniu kanału portowego przesunięto na szynach w całości Wartownię nr 1.",
-          "Od zakończenia II Wojny Światowej na terenie Westerplatte stacjonują jednostki Wojska Polskiego.",
-          "W 2019 uchwalono ustawę mającą na celu budowę do 2026 nowego Muzeum Westerplatte i Wojny 1939, które kosztem 200 mln zł ma zostać zrealizowane na powierzchni 27,5 tys. m kw. Projekt przewiduje odbudowę siedmiu budowli wojskowej składnicy tranzytowej oraz utworzenie wystawy stałej o powierzchni 3,5 tys. m kw.",
-          "W 2020 roku ogłoszono konkurs na koncepcję Cmentarza Wojskowego Żołnierzy Wojska Polskiego na Westerplatte."
+          "Przed budynkiem, na placu, znajduje się pomnik poświęcowy obrońcom tej poczty."
+        ]
+      ]
+    },
+    "defenders": {
+      "name": "Obrońcy oraz towarzyszące im osoby cywilne",
+      "introduction": "",
+      "parts": [
+        "zabici w czasie walk",
+        "zmarli w szpitalu miejskim",
+        "rozstrzelani na Zaspie",
+        "zamęczeni w obozach koncetracyjnych",
+        "zdołali przeżyć"
+      ],
+      "sections": [
+        [
+          "1 września 1939",
+          "Konrad Guderski ur. 19 lutego 1900 – ppor., inż., dowódca obrony",
+          "Brunon Marszałkowski ur. 1 stycznia 1904 – ekspedient – KS Virtuti Militari nr 13755",
+          "Jan Michoń ur. 1 czerwca 1888 – dr, p.o. dyrektora Poczty Polskiej – KS Virtuti Militari nr 13757",
+          "Stanisław Rekowski ur. 17 września 1900 – ekspedient",
+          "Bronisław Suchcitz",
+          "Józef Wąsik ur. 8 lipca 1904 – naczelnik UPT – KS Virtuti Militari nr 13803",
+          "nierozpoznane ciało",
+          "nierozpoznane ciało"
+        ],
+        [
+          "Erwina Barzychowska ur. 16 października 1929, zm. 20 października 1939 – wychowanica dozorcy, zmarła na skutek oparzeń",
+          "Bernard Binnebesel ur. 20 maja 1893, zm. 4 września 1939 – asystent, przyczyna śmierci postrzał w brzuch oraz uszkodzenie czaszki",
+          "Stefan Cywiński ur. 29 maja 1907, zm. 2 września 1939 – asystent, przyczyna śmierci oparzenia 2 i 3 stopnia",
+          "Alojzy Franz ur. 17 lutego 1905, zm. 5 września 1939 – asystent, przyczyna śmierci oparzenia 2 i 3 stopnia",
+          "Józef Mitkowski ur. 15 czerwca 1885, zm. 31 października 1939 – kontroler, przyczyna śmierci oparzenia 2 i 3 stopnia – KS Virtuti Militari nr 13760",
+          "Jan Pipka ur. 20 lipca 1872, zm. 2 września 1939 – dozorca domu, przyczyna śmierci oparzenia 2 i 3 stopnia – KS Virtuti Militari nr 13770"
+        ],
+        [
+          "prawdopodobnie 5 października 1939",
+          "Jan Banaszkowski ur. 17 października 1904 – pocztylion, delegowany",
+          "Władysław Bazgier ur. 22 kwietnia 1911 – st. asystent, delegowany",
+          "Stefan Bączkowski ur. 4 stycznia 1906 – pocztylion, delegowany",
+          "Heliodor Becker ur. 3 lipca 1904 – asystent",
+          "Alojzy Bela ur. 9 czerwca 1899 – pocztylion",
+          "Andrzej Binkowski ur. 11 listopada 1902 – pocztylion, delegowany",
+          "Florian Budziak ur. 1 października 1911 – pocztylion, delegowany",
+          "Maksymilian Cygalski ur. 17 września 1900 – st. asystent",
+          "Jan Ellwardt ur. 3 listopada 1905 – ekspedient",
+          "Alfons Flisykowski ur. 22 września 1902 – dowódca obrony, podreferendarz",
+          "Kazimierz Gdaniec ur. 17 stycznia 1907 – kierowca",
+          "Konrad Grotha ur. 26 lipca 1906 – pocztylion",
+          "Jan Klimek ur. 20 września 1889 – st. ekspedient",
+          "Franciszek Klinkosz ur. 22 grudnia 1899 – ekspedient",
+          "Władysław Koprowiak ur. 21 maja 1897 – st. asystent, delegowany – KS Virtuti Militari nr 13737",
+          "Franciszek Krause ur. 13 sierpnia 1900 – pocztylion – KS Virtuti Militari nr 13741",
+          "Franciszek Kuntz ur. 24 czerwca 1907 – pocztylion",
+          "Władysław Kupka ur. 30 września 1914 - ekspedient",
+          "Wojciech Kurkowski ur. 24 kwietnia 1893 – ekspedient",
+          "Augustyn Lis ur. 27 listopada 1900 – st. pocztylion – KS Virtuti Militari nr 13748",
+          "Franciszek Magulski ur. 2 września 1904 – st. ekspedient – KS Virtuti Militari nr 13752",
+          "Bernard Majewski ur. 7 grudnia 1900 – st. pocztylion – KS Virtuti Militari nr 13753",
+          "Franciszek Mionskowski ur. 13 września 1897 – st. pocztylion – KS Virtuti Militari nr 13759",
+          "Jan Nowak ur. 4 lutego 1890 – kierownik oddziału – KS Virtuti Militari nr 13764",
+          "Stefan Nowakowski ur. 21 sierpnia 1901 – ekspedient – KS Virtuti Militari nr 13765",
+          "Kazimierz Orzechowski ur. 23 listopada 1915 – asystent – KS Virtuti Militari nr 13769",
+          "Brunon Piełowski ur. 29 sierpnia 1902 – kierowca – KS Virtuti Militari nr 13769",
+          "Sylwester Płoszyński ur. 7 grudnia 1906 – pocztylion, delegowany – KS Virtuti Militari nr 13772",
+          "Ignacy Połom ur. 6 lipca 1898 – st. ekspedient – KS Virtuti Militari nr 13773",
+          "Aleksander Racki ur. 14 października 1903 – ekspedient – KS Virtuti Militari nr 13777",
+          "Franciszek Rąbca ur. 4 stycznia 1904 – ekspedient – KS Virtuti Militari nr 13776",
+          "Kazimierz Rogaczewski ur. 25 marca 1903 – ekspedient – KS Virtuti Militari nr 13780",
+          "Józef Rzepka ur. 25 listopada 1899 – st. ekspedient – KS Virtuti Militari nr 13784",
+          "Leon Schreiber ur. 5 września 1912 – mł. pocztylion, delegowany – KS Virtuti Militari nr 13786",
+          "Ignacy Sikorski ur. 23 października 1895 – kierownik referatu – KS Virtuti Militari nr 13787",
+          "Józef Strzelecki ur. 15 marca 1887 – st. ekspedient – KS Virtuti Militari nr 13795",
+          "Leonard Wiśniewski ur. 2 stycznia 1904 – ekspedient – KS Virtuti Militari nr 13805",
+          "Piotr Teshmer ur. 16 listopada 1894 – kancelista I klasy PKP – KS Virtuti Militari nr 13798"
+        ],
+        [
+          "Leon Fuz ur. 21 lutego 1895, zm. grudzień 1939 w Piaśnicy - st. technik,",
+          "Alfons Papka ur. 1 grudnia 1906, zm. 22 marca 1940 w obozie w Stutthofie - st. asystent",
+          "Brunon Dobrzychowski ur. 4 maja 1908 - pocztylion"
+        ],
+        [
+          "Andrzej Górski ur. 21 lipca 1910 – asystent",
+          "Franciszek Mielewczyk ur. 2 grudnia 1910 – kierowca",
+          "Władysław Milewczyk ur. 2 maja 1901 – kierowca",
+          "Augustyn Młyński ur. 25 listopada 1905 – st. pocztylion",
+          "Małgorzata Pipka – dozorczyni, wyszła z poddającymi się, została aresztowana i do 1943 była więziona w różnych więzieniach i obozach Gdańska, zmarła w 1963 r."
         ]
       ]
     }
