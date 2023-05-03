@@ -34,8 +34,10 @@ const About = () => {
 
     const sources = [
         "https://warhist.pl",
-        "https://muzeum1939.pl",
-        "https://pl.wikipedia.org/wiki/Obrona_Westerplatte"
+        "https://historiaposzukaj.pl/",
+        "https://pl.wikipedia.org/wiki/Obrona_Poczty_Polskiej_w_Gdańsku",
+        "https://pl.wikipedia.org/wiki/Poczta_Polska_w_Wolnym_Mieście_Gdańsku",
+        "https://web.archive.org/web/20100103231436/http://mhmg.pl/index.php?view=artykul,32&oddzial=6"
     ]
 
     let cards = [];
@@ -92,7 +94,7 @@ const About = () => {
 
             <Section>{t("aboutProject")}</Section>
             <AboutProject>
-                {t("about")} <LinkColor href="https://github.com/BigBruhCoders/westerplatte-defenders">https://github.com/BigBruhCoders/westerplatte-defenders</LinkColor>
+                {t("about")} <LinkColor href="https://github.com/BigBruhCoders/defenders-of-the-Polish-post-office">https://github.com/BigBruhCoders/defenders-of-the-Polish-post-office</LinkColor>
             </AboutProject>
 
             <Section>{t("sources")}</Section>
