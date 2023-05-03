@@ -1,4 +1,4 @@
-# Westerplatte defenters
+# Defenders of the Polish post office
 This is a website project for "Śladami Obrońców Poczty Polskiej w Gdańsku" competition organized by Zespół Szkół Łączności w Gdańsku im. "Obrońców Poczty Polskiej"
 
 ## Requirements
