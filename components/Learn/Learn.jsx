@@ -22,7 +22,7 @@ const Learn = () => {
     const {t} = useTranslation("learn");
     const router = useRouter();
     const {learn_page} = router.query;
-    const themes = ["war", "buildings", "post-office"];
+    const themes = ["war", "monuments", "post-office", "defenders"];
     let errors = false;
 
     const mainContent = [];
