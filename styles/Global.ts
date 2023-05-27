@@ -1,24 +1,22 @@
 import styled from "styled-components";
 
 export const Footer = styled.footer`
-  align-self: flex-end;
   width: 100%;
   height: var(--footer-height);
-  background-color: ${props => props.theme.footerBackgroundColor};
-  border-top: 2px solid ${props => props.theme.footerTopColor};
-  color: ${props => props.theme.globalTextColor};
+  background-color: var(--global-background-color-alt);
+  border-top: 2px solid var(--footer-border-top-color);
+  color: var(--global-background-text-color);
   text-align: center;
   display: table;
-  overflow: hidden;
 
   p {
-    overflow: hidden;
     display: table-cell;
     vertical-align: middle;
   }
 `;
 
 export const Flexbox = styled.div`
+  flex-wrap: wrap;
   padding-top: var(--navbar-height);
   display: flex;
   flex-direction: column;

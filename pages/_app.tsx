@@ -6,7 +6,7 @@ import {createGlobalStyle, ThemeProvider} from 'styled-components';
 import {getTheme} from "../theme/theme";
 import {Theme, ThemeName} from "../types";
 import {NavbarComponent} from "../components/Navbar";
-import {Footer, Flexbox} from "../styles/Global";
+import {Footer, Flexbox, FlexGrow} from "../styles/Global";
 import useTranslation from "next-translate/useTranslation";
 // import Notification from "../old_components/Notification/Notification";
 //
@@ -14,29 +14,36 @@ import {AppProps} from "next/app";
 
 const GlobalStyles = createGlobalStyle`
   html, body {
-    background: var(--global-background-color);
+    background-image: ${(props: { theme: Theme }) => `linear-gradient(to bottom, ${props.theme.globalBackgroundColor}, ${props.theme.globalBackgroundColor2})`};
+    //background: var(--global-background-color);
   }
   
   // load styles as css variables for ease of use
   * {
     --global-background-color: ${(props: { theme: Theme }) => props.theme.globalBackgroundColor};
+    --global-background-color-alt: ${(props: { theme: Theme }) => props.theme.globalBackgroundColor2};
+    --global-background-text-color: ${(props: { theme: Theme }) => props.theme.globalBackgroundTextColor};
     --global-box-background-color: ${(props: { theme: Theme }) => props.theme.globalBoxBackgroundColor};
     --global-text-color: ${(props: { theme: Theme }) => props.theme.globalTextColor};
-    
-    
-    --primary-background-color: ${(props: { theme: Theme }) => props.theme.primaryBackgroundColor};
-    --primary-text-color: ${(props: { theme: Theme }) => props.theme.primaryTextColor};
-    // --secondary-background-color: ${(props: { theme: Theme }) => props.theme.secondaryBackgroundColor};
-    // --secondary-text-color: ${(props: { theme: Theme }) => props.theme.secondaryTextColor};
+    --main-color: ${(props: { theme: Theme }) => props.theme.mainColor};
+    --main-text-color: ${(props: { theme: Theme }) => props.theme.mainTextColor};
+    --footer-border-top-color: ${(props: { theme: Theme }) => props.theme.footerBorderTopColor};
+    --primary-button-background: ${(props: { theme: Theme }) => props.theme.primaryButtonColor};
+    --primary-button-text-background: ${(props: { theme: Theme }) => props.theme.primaryButtonTextColor};
     --navbar-background-color: ${(props: { theme: Theme }) => props.theme.navbarBackgroundColor};
     --navbar-text-color: ${(props: { theme: Theme }) => props.theme.navbarTextColor};
-    --navbar-menu-button-background-color: ${(props: { theme: Theme }) => props.theme.navbarMenuButtonBackgroundColor};
-    --navbar-menu-button-icon-color: ${(props: { theme: Theme }) => props.theme.navbarMenuButtonIconColor};
-    --navbar-dropdown-border-color: ${(props: { theme: Theme }) => props.theme.navbarDropdownBorderColor};
-    --navbar-dropdown-background-color: ${(props: { theme: Theme }) => props.theme.navbarDropdownBackgroundColor};
-    --navbar-dropdown-text-color: ${(props: { theme: Theme }) => props.theme.navbarDropdownTextColor};
-    --navbar-dropdown-settings-background-color: ${(props: { theme: Theme }) => props.theme.navbarDropdownSettingsBackgroundColor};
-    --navbar-dropdown-settings-text-color: ${(props: { theme: Theme }) => props.theme.navbarDropdownSettingsTextColor};
+    
+    // --primary-background-color: ${(props: { theme: Theme }) => props.theme.primaryBackgroundColor};
+    // --primary-text-color: ${(props: { theme: Theme }) => props.theme.primaryTextColor};
+    // --secondary-background-color: ${(props: { theme: Theme }) => props.theme.secondaryBackgroundColor};
+    // --secondary-text-color: ${(props: { theme: Theme }) => props.theme.secondaryTextColor};
+    // --navbar-menu-button-background-color: ${(props: { theme: Theme }) => props.theme.navbarMenuButtonBackgroundColor};
+    // --navbar-menu-button-icon-color: ${(props: { theme: Theme }) => props.theme.navbarMenuButtonIconColor};
+    // --navbar-dropdown-border-color: ${(props: { theme: Theme }) => props.theme.navbarDropdownBorderColor};
+    // --navbar-dropdown-background-color: ${(props: { theme: Theme }) => props.theme.navbarDropdownBackgroundColor};
+    // --navbar-dropdown-text-color: ${(props: { theme: Theme }) => props.theme.navbarDropdownTextColor};
+    // --navbar-dropdown-settings-background-color: ${(props: { theme: Theme }) => props.theme.navbarDropdownSettingsBackgroundColor};
+    // --navbar-dropdown-settings-text-color: ${(props: { theme: Theme }) => props.theme.navbarDropdownSettingsTextColor};
   }
 `;
 
@@ -62,6 +69,7 @@ const App = ({Component, pageProps}: AppProps) => {
         <Flexbox>
             <GlobalStyles/>
             <Component {...pageProps} />
+            <FlexGrow/>
             <Footer><p>{t("common:project")}</p></Footer>
         </Flexbox>
         {/*<Notification/>*/}

@@ -1,38 +1,22 @@
 import {Theme} from "../../types";
-import {Property} from "csstype";
 
-// todo: change placeholders
 const dark: Theme = {
     type: "dark",
-    globalBackgroundColor: "#595959",
-    globalBoxBackgroundColor: "#505050",
+    globalBackgroundColor: "#5e5e5e",
+    globalBackgroundColor2: "#4b4b4b",
+    globalBackgroundTextColor: "#d0d0d0",
     globalTextColor: "#4b4b4b",
-
-
-
-    footerBackgroundColor: "#4b4b4b",
-    footerTopColor: "#939393",
-    // footerText: "#ddd",
-
-    primaryBackgroundColor: "#646464",
-    primaryTextColor: "#adadad",
-
-    secondaryBackgroundColor: "red", // placeholder
-    secondaryTextColor: "red", // placeholder
-
-
+    globalBoxBackgroundColor: "#505050",
     navbarBackgroundColor: "#4b4b4b",
     navbarTextColor: "#eee",
 
-    navbarMenuButtonBackgroundColor: "#545454",
-    navbarMenuButtonIconColor: "#eee",
+    // light can parent these two colors
+    mainColor: "#2f50cc",
+    mainTextColor: "#ffffff",
 
-    navbarDropdownBorderColor: "#757575",
-    navbarDropdownBackgroundColor: "#626262",
-    navbarDropdownTextColor: "#d7d7d7",
+    footerBorderTopColor: "#939393",
 
-    navbarDropdownSettingsBackgroundColor: "#757575",
-    navbarDropdownSettingsTextColor: "#b7b7b7",
-
+    primaryButtonColor: "#4b4b4b",
+    primaryButtonTextColor: "#c2c2c2",
 }
 export default dark;

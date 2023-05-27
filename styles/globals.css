@@ -6,21 +6,29 @@
 
     /* IDE help */
     --global-background-color: black;
+    --global-background-color-alt: black;
+    --global-background-text-color: black;
     --global-box-background-color: black;
     --global-text-color: black;
-    --primary-background-color: black;
-    --primary-text-color: black;
-    --secondary-background-color: black;
-    --secondary-text-color: black;
+    --main-color: black;
+    --main-text-color: black;
+    --footer-border-top-color: black;
     --navbar-background-color: black;
     --navbar-text-color: black;
-    --navbar-menu-button-background-color: black;
-    --navbar-menu-button-icon-color: black;
-    --navbar-dropdown-border-color: black;
-    --navbar-dropdown-background-color: black;
-    --navbar-dropdown-text-color: black;
-    --navbar-dropdown-settings-background-color: black;
-    --navbar-dropdown-settings-text-color: black;
+    --primary-button-background: black;
+    --primary-button-text-background: black;
+
+    /*--primary-background-color: black;*/
+    /*--primary-text-color: black;*/
+    /*--secondary-background-color: black;*/
+    /*--secondary-text-color: black;*/
+    /*--navbar-menu-button-background-color: black;*/
+    /*--navbar-menu-button-icon-color: black;*/
+    /*--navbar-dropdown-border-color: black;*/
+    /*--navbar-dropdown-background-color: black;*/
+    /*--navbar-dropdown-text-color: black;*/
+    /*--navbar-dropdown-settings-background-color: black;*/
+    /*--navbar-dropdown-settings-text-color: black;*/
 }
 
 html,
@@ -28,11 +36,10 @@ body {
     --navbar-height: 5rem;
     --footer-height: 4rem;
 
-    font-family: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
     background-color: #000;
-    transition: 500ms;
     scroll-behavior: smooth;
-    scroll-padding-top: var(--navbar-height)
+    scroll-padding-top: var(--navbar-height);
 }
 
 /*html,*/

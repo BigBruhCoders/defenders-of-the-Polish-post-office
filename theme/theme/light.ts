@@ -6,28 +6,17 @@ const light: Theme = {
     ...DARK,
     type: "light",
     globalBackgroundColor: "#fff",
+    globalBackgroundColor2: "#a9a9a9",
+    globalBackgroundTextColor: "#000000",
     globalBoxBackgroundColor: "#e5e5e5",
     globalTextColor: "#000",
-
-    primaryBackgroundColor: "#d5d5d5",
-    primaryTextColor: "#000000",
-
-    footerBackgroundColor: "#a9a9a9",
-    footerTopColor: "#808080",
-    // footerText: "#000",
-
     navbarBackgroundColor: "#c5c5c5",
     navbarTextColor: "#000000",
 
-    navbarMenuButtonBackgroundColor: "#b9b9b9",
-    navbarMenuButtonIconColor: "#000000",
+    footerBorderTopColor: "#808080",
 
-    navbarDropdownBorderColor: "#8f8f8f",
-    navbarDropdownBackgroundColor: "#b8b8b8",
-    navbarDropdownTextColor: "#000000",
-
-    navbarDropdownSettingsBackgroundColor: "#a8a8a8",
-    navbarDropdownSettingsTextColor: "#000000",
+    primaryButtonColor: "#d0d0d0",
+    primaryButtonTextColor: "#868686",
 }
 
 export default light;
