@@ -214,5 +214,11 @@
     "year": "2023",
     "author": "Wiktor Polanowski",
     "src": "/images/gallery/znak_3.jpg"
+  },
+  {
+    "nameID": "pomnik-pocztowców",
+    "year": "2023",
+    "author": "Piotr Lempkowski",
+    "src": "/images/gallery/pomnik_pocztowców.jpg"
   }
 ]

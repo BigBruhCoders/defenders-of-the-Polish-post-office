@@ -14,7 +14,7 @@ export const MainComponent = () => {
             <QuoteName>- Sławomir Czarlewski</QuoteName>
         </QuoteBox>
         <ButtonsBox>
-            <ButtonLink href={"/learn/post-office"} tabIndex={0}>
+            <ButtonLink href={"/learn/war"} tabIndex={0}>
                     {t("learn")}
             </ButtonLink>
             <ButtonLink href={"/gallery"} tabIndex={0}>

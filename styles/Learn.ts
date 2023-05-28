@@ -81,7 +81,7 @@ export const Topics = styled.div`
   margin: 1rem;
 `;
 
-export const TopicLink = styled(Link)`
+export const TopicLink = styled(Link)<{$onPage: boolean}>`
   height: 4rem;
   width: 100%;
   align-self: center;
@@ -99,6 +99,7 @@ export const TopicLink = styled(Link)`
   z-index: 1;
   overflow: hidden;
   transition: 200ms;
+  ${props => props.$onPage ? "color: #eee; background-color: ${props => props.theme.main_color};" : ""}
   
   :focus-visible {
     outline: 2px solid royalblue;
@@ -125,6 +126,7 @@ export const TopicLink = styled(Link)`
     z-index: -1;
     transition: 200ms;
     transition-timing-function: ease-out;
+    ${props => props.$onPage ? "transform: translateY(0)" : ""}
   }
 
   :after {
@@ -201,6 +203,7 @@ export const ContentImage = styled.div`
   height: 20rem;
   
   img {
+    cursor: pointer;
     object-fit: contain;
   }
 `;

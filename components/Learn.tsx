@@ -20,12 +20,15 @@ import {
 import Link from "next/link";
 import Image from "next/image";
 import {LearnPageData} from "../types";
+import SelectPicture from "./SelectPicture";
+import {useState} from "react";
 
 export const LearnComponent = () => {
     const {t} = useTranslation("learn");
     const router = useRouter();
     const {learn_page} = router.query;
     const themes = ["war", "post-office", "defenders", "monuments"];
+    const [select, setSelect] = useState<string>("");
 
     if (!themes.includes(learn_page as string)) {
         (async () => {
@@ -40,7 +43,7 @@ export const LearnComponent = () => {
         <TopicsBox>
             <TitleText>{t("topics").toUpperCase()}</TitleText>
             <Topics>
-                {themes.map(theme => <TopicLink key={theme} href={`/learn/${theme}`} scroll={false}>
+                {themes.map((theme, i) => <TopicLink key={theme} href={`/learn/${theme}`} scroll={false} $onPage={themes[i]===learn_page}>
                     {t(theme)}
                 </TopicLink>)}
             </Topics>
@@ -55,7 +58,7 @@ export const LearnComponent = () => {
                     {content.parts[i].toUpperCase()}
                 </ContentSectionTitle>
                 {sections.map((section, j) => section.startsWith("/images/") ?
-                    <ContentImage key={`content.${i}.${j}`}><Image src={section} alt={section} fill/></ContentImage> :
+                    <ContentImage key={`content.${i}.${j}`}><Image src={section} alt={section} fill onClick={() => setSelect(section)}/></ContentImage> :
                     <ContentSectionData key={`content.${i}.${j}`}>{section}</ContentSectionData>)}
             </ContentSectionBox>)}
         </ContentBox>
@@ -68,5 +71,6 @@ export const LearnComponent = () => {
                 </Section>)}
             </Sections>
         </SectionsBox>
+        {select !== "" ? <SelectPicture picture={select} remove={() => setSelect("")}/> : null}
     </MainBox>
 }
