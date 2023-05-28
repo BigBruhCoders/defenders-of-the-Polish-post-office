@@ -1,4 +1,4 @@
-import {SelectBox, SelectImage, SelectRemove} from "../styles/Gallery";
+import {SelectBox, SelectImage, SelectRemove} from "../styles/SelectPicture";
 import Image from "next/image";
 import useTranslation from "next-translate/useTranslation";
 

@@ -22,20 +22,15 @@ export type Theme = {
 
 }
 
-// {
-//     "name": "Post Office",
-//     "introduction": "PLACEHOLDER",
-//     "parts": [
-//     "before the war",
-//     "the course of the Battle of Westerplatte",
-//     "battle effects",
-//     "about the defenders"
-// ],
-//     "sections": [
-
 export type LearnPageData = {
     name: string
     introduction: string
     parts: string[]
     sections: string[][]
+}
+
+export type Question = {
+    question: string
+    good: string
+    wrong: string[]
 }
