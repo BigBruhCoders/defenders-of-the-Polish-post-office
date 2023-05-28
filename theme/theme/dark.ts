@@ -7,6 +7,7 @@ const dark: Theme = {
     globalBackgroundTextColor: "#d0d0d0",
     globalTextColor: "#a6a6a6",
     globalBoxBackgroundColor: "#3f3f3f",
+    globalBoxBackgroundColorAlt: "#4d4d4d",
     navbarBackgroundColor: "#4b4b4b",
     navbarTextColor: "#eee",
 
@@ -15,7 +16,7 @@ const dark: Theme = {
 
     footerBorderTopColor: "#939393",
 
-    primaryButtonColor: "#4b4b4b",
+    primaryButtonColor: "#424242",
     primaryButtonTextColor: "#c2c2c2",
 }
 export default dark;

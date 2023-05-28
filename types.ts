@@ -10,6 +10,7 @@ export type Theme = {
     globalBackgroundColor2: Property.Color
     globalBackgroundTextColor: Property.Color
     globalBoxBackgroundColor: Property.Color
+    globalBoxBackgroundColorAlt: Property.Color
     globalTextColor: Property.Color
     mainColor: Property.Color
     mainTextColor: Property.Color

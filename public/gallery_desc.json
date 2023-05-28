@@ -1,296 +1,134 @@
 [
   {
-    "nameID": "nmw",
-    "year": "2022",
+    "nameID": "citizenship-1",
+    "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/napis_nigdy_wiecej_wojny.jpg"
+    "src": "/images/gallery/citizenship_1.jpg"
   },
   {
-    "nameID": "westerplatte",
-    "year": "2022",
+    "nameID": "citizenship-2",
+    "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/napis_westerplatte.jpg"
+    "src": "/images/gallery/citizenship_2.jpg"
   },
   {
-    "nameID": "statue-1",
-    "year": "2022",
+    "nameID": "mural",
+    "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/pomnik_1.jpg"
+    "src": "/images/gallery/mural.jpg"
   },
   {
-    "nameID": "statue-2",
-    "year": "2022",
+    "nameID": "mural-irl-1",
+    "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/pomnik_2.jpg"
+    "src": "/images/gallery/mural_irl_1.jpg"
   },
   {
-    "nameID": "statue-3",
-    "year": "2022",
+    "nameID": "mural-irl-2",
+    "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/pomnik_3.jpg"
+    "src": "/images/gallery/mural_irl_2.jpg"
   },
   {
-    "nameID": "statue-4",
-    "year": "2015",
+    "nameID": "polish-post-office",
+    "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/pomnik_4.jpg"
+    "src": "/images/gallery/polish_post_office.jpg"
   },
   {
-    "nameID": "statue-from-water",
-    "year": "2012",
+    "nameID": "polish-post-office-back",
+    "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/pomnik_z_wody.jpg"
+    "src": "/images/gallery/polish_post_office_back.jpg"
   },
   {
-    "nameID": "statue-from-lighthouse",
-    "year": "2013",
+    "nameID": "polish-post-office-board-left",
+    "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/pomnik_z_latarni.jpg"
+    "src": "/images/gallery/polish_post_office_board_left.jpg"
   },
   {
-    "nameID": "cemetery",
-    "year": "2011",
+    "nameID": "polish-post-office-board-right",
+    "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/cmentarz.jpg"
+    "src": "/images/gallery/polish_post_office_board_right.jpg"
   },
   {
-    "nameID": "schleswig-holstein",
-    "year": "2011",
+    "nameID": "polish-post-office-front",
+    "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/szlezwik_holsztyn.jpg"
+    "src": "/images/gallery/polish_post_office_front.jpg"
   },
   {
-    "nameID": "bullet",
-    "year": "2011",
+    "nameID": "polish-post-office-monument-1",
+    "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/pociski.jpg"
+    "src": "/images/gallery/polish_post_office_monument_1.jpg"
   },
   {
-    "nameID": "guard-house-1",
-    "year": "2011",
+    "nameID": "polish-post-office-monument-2",
+    "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/wartownia_nr_1_wejscie.jpg"
+    "src": "/images/gallery/polish_post_office_monument_2.jpg"
   },
   {
-    "nameID": "guard-house-1-building",
-    "year": "2022",
+    "nameID": "polish-post-office-monument-3",
+    "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/wartownia_nr_1_budynek.jpg"
+    "src": "/images/gallery/polish_post_office_monument_3.jpg"
   },
   {
-    "nameID": "barracks-outside",
-    "year": "2022",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/koszary_zewnatrz.jpg"
-  },
-  {
-    "nameID": "barracks-outside-1",
-    "year": "2022",
+    "nameID": "polish-post-office-simple-sign",
+    "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/koszary_zewnatrz_1.jpg"
+    "src": "/images/gallery/polish_post_office_simple_sign.jpg"
   },
   {
-    "nameID": "barracks-outside-2",
-    "year": "2022",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/koszary_zewnatrz_2.jpg"
-  },
-  {
-    "nameID": "barracks-model-1",
-    "year": "2011",
+    "nameID": "polish-zsl-school-1",
+    "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/koszary_model.jpg"
+    "src": "/images/gallery/polish_zsl_school_1.jpg"
   },
   {
-    "nameID": "barracks-model-2",
-    "year": "2022",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/koszary_model_dla_niewidomych.jpg"
-  },
-  {
-    "nameID": "barracks-sign",
-    "year": "2022",
+    "nameID": "polish-zsl-school-2",
+    "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/znak_koszary.jpg"
+    "src": "/images/gallery/polish_zsl_school_2.jpg"
   },
   {
-    "nameID": "barracks-ruins-1",
-    "year": "2022",
+    "nameID": "polish-zsl-school-3",
+    "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/koszary_ruiny_1.jpg"
+    "src": "/images/gallery/polish_zsl_school_3.jpg"
   },
   {
-    "nameID": "barracks-ruins-2",
-    "year": "2022",
+    "nameID": "polish-zsl-school-4",
+    "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/koszary_ruiny_2.jpg"
+    "src": "/images/gallery/polish_zsl_school_4.jpg"
   },
   {
-    "nameID": "barracks-ruins-3",
-    "year": "2022",
+    "nameID": "polish-zsl-school-side-1",
+    "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/koszary_ruiny_3.jpg"
+    "src": "/images/gallery/polish_zsl_school_side_1.jpg"
   },
   {
-    "nameID": "barracks-ruins-4",
-    "year": "2022",
+    "nameID": "polish-zsl-school-side-2",
+    "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/koszary_ruiny_4.jpg"
+    "src": "/images/gallery/polish_zsl_school_side_2.jpg"
   },
   {
-    "nameID": "barracks-ruins-5",
-    "year": "2022",
+    "nameID": "pup-plate",
+    "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/koszary_ruiny_5.jpg"
+    "src": "/images/gallery/pup_plate.jpg"
   },
   {
-    "nameID": "barracks-ruins-6",
-    "year": "2022",
+    "nameID": "tablica-dedykowana-obroncom",
+    "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/koszary_ruiny_6.jpg"
-  },
-  {
-    "nameID": "barracks-ruins-7",
-    "year": "2022",
-    "author": "Piotr Lempkowski",
-    "src": "/images/gallery/koszary_ruiny_7.jpg"
-  },
-  {
-    "nameID": "barracks-ruins-8",
-    "year": "2022",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/koszary_ruiny_8.jpg"
-  },
-  {
-    "nameID": "board",
-    "year": "2022",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/tablica.jpg"
-  },
-  {
-    "nameID": "carved-board-1",
-    "year": "2022",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/wyrzezbiona_tablica_1.jpg"
-  },
-  {
-    "nameID": "carved-board-2",
-    "year": "2022",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/wyrzezbiona_tablica_2.jpg"
-  },
-  {
-    "nameID": "100-statues",
-    "year": "2022",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/sto_pomnikow_historii.jpg"
-  },
-  {
-    "nameID": "tank-place-1",
-    "year": "2022",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/miejsce_gdzie_stal_czolg_1.jpg"
-  },
-  {
-    "nameID": "tank-place-2",
-    "year": "2022",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/miejsce_gdzie_stal_czolg_2.jpg"
-  },
-  {
-    "nameID": "fort-1",
-    "year": "2022",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/placowka_fort_gora.jpg"
-  },
-  {
-    "nameID": "fort-2",
-    "year": "2022",
-    "author": "Piotr Lempkowski",
-    "src": "/images/gallery/placowka_fort.jpg"
-  },
-  {
-    "nameID": "secret",
-    "year": "2022",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/tajemnicze_przejscie.jpg"
-  },
-  {
-    "nameID": "guardhouse-3-sign",
-    "year": "2022",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/napis_wartownia_nr_3.jpg"
-  },
-  {
-    "nameID": "guardhouse-3-sign-fundaments",
-    "year": "2022",
-    "author": "Piotr Lempkowski",
-    "src": "/images/gallery/wartownia_nr_3_z_napisem.jpg"
-  },
-  {
-    "nameID": "guardhouse-3",
-    "year": "2022",
-    "author": "Piotr Lempkowski",
-    "src": "/images/gallery/wartownia_nr_3.jpg"
-  },
-  {
-    "nameID": "guardhouse-4",
-    "year": "2022",
-    "author": "Piotr Lempkowski",
-    "src": "/images/gallery/wartownia_nr_4.jpg"
-  },
-  {
-    "nameID": "board-from-church",
-    "year": "2011",
-    "author": "Piotr Lempkowski",
-    "src": "/images/gallery/tablica_z_kosciola_mariackiego.jpg"
-  },
-  {
-    "nameID": "energy",
-    "year": "2022",
-    "author": "Piotr Lempkowski",
-    "src": "/images/gallery/elektrownia.jpg"
-  },
-  {
-    "nameID": "observation-tower",
-    "year": "2022",
-    "author": "Piotr Lempkowski",
-    "src": "/images/gallery/wieza_obserwacyjna.jpg"
-  },
-  {
-    "nameID": "shelter",
-    "year": "2022",
-    "author": "Piotr Lempkowski",
-    "src": "/images/gallery/schron_pogotowia_25_BAS.jpg"
-  },
-  {
-    "nameID": "train-gate",
-    "year": "2022",
-    "author": "Piotr Lempkowski",
-    "src": "/images/gallery/brama_kolejowa.jpg"
-  },
-  {
-    "nameID": "train-station",
-    "year": "2022",
-    "author": "Piotr Lempkowski",
-    "src": "/images/gallery/stacja_kolejowa.jpg"
-  },
-  {
-    "nameID": "jp2-quote",
-    "year": "2022",
-    "author": "Piotr Lempkowski",
-    "src": "/images/gallery/jp2_cytat.jpg"
-  },
-  {
-    "nameID": "ammunition-store-1",
-    "year": "2022",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/magazyn_amunicyjny_1.jpg"
-  },
-  {
-    "nameID": "ammunition-store-2",
-    "year": "2022",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/magazyn_amunicyjny_2.jpg"
+    "src": "/images/gallery/tablica_dedykowana_obroncom.jpg"
   }
 ]

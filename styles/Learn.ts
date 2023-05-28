@@ -28,7 +28,7 @@ export const TopicsBox = styled.div`
   color: ${props => props.theme.type === "light" ? "var(--main-color)" : "var(--global-text-color)"};
   border-top: var(--main-color) solid .5rem;
   border-bottom: var(--main-color) solid .5rem;
-  background-color: var(--global-box-background-color);
+  background-color: var(--global-box-background-color-alt);
   padding: 1rem;
   top: calc(var(--navbar-height) + 1rem);
 
@@ -216,7 +216,7 @@ export const SectionsBox = styled.div`
   color: ${props => props.theme.type === "light" ? "var(--main-color)" : "var(--global-text-color)"};
   border-top: var(--main-color) solid .5rem;
   border-bottom: var(--main-color) solid .5rem;
-  background-color: var(--global-box-background-color);
+  background-color: var(--global-box-background-color-alt);
   padding: 1rem;
 
   @media (max-width: 1000px) {
