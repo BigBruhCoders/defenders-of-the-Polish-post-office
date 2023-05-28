@@ -5,7 +5,7 @@ export const E404Component = () => {
     const {t} = useTranslation("common");
 
     return <MainBox>
-        <ErrorText>404 - {t("not-found")}</ErrorText>
+        <ErrorText>{t("not-found")}</ErrorText>
         <ErrorSubText>{t("couldnt-find")}</ErrorSubText>
         <ButtonLinkRedirect href={"/"} tabIndex={0}>{t("navbar:home")}</ButtonLinkRedirect>
         <ButtonLinkRedirect href={"/learn/war"} tabIndex={0}>{t("learn")}</ButtonLinkRedirect>
