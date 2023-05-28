@@ -73,6 +73,7 @@ export const ButtonLinkRedirect = styled(Link)`
   display: flex;
   justify-content: center;
   align-items: center;
+  font-size: clamp(1rem, 1vw, 20rem);
   background-color: var(--primary-button-background);
   color: ${props => props.theme.type === "light" ? "var(--main-color)" : "var(--primary-button-text-background)"};
   text-align: center;
