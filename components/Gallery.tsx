@@ -1,4 +1,4 @@
-import {ImageBox, MainBox, PictureBox, PictureText, SelectImage, SelectBox, SelectRemove} from "../styles/Gallery";
+import {ImageBox, MainBox, PictureBox, PictureText} from "../styles/Gallery";
 import gallery from "../public/gallery_desc.json";
 import useTranslation from "next-translate/useTranslation";
 import Image from "next/image";
