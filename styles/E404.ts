@@ -4,13 +4,14 @@ import Link from "next/link";
 export const MainBox = styled.div`
   position: relative;
   background-color: var(--global-box-background-color);
-  color: var(--global-text-color);
+  color: ${props => props.theme.type === "light" ? "var(--main-color)" : "var(--global-text-color)"};
   padding-top: 1rem;
   margin: 1rem 30rem 5rem;
   flex-grow: 2;
   display: flex;
   flex-direction: column;
   gap: 1rem;
+  text-align: center;
   
   border-top: var(--main-color) solid .5rem;
   border-bottom: var(--main-color) solid .5rem;
@@ -37,10 +38,6 @@ export const MainBox = styled.div`
     transform: skewX(-45deg);
     border-left: var(--main-color) solid .75rem;
     border-right: var(--main-color) solid .75rem;
-  }
-  
-  & {
-    text-align: center;
   }
   
    @media (max-width: 1500px) {

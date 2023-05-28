@@ -10,8 +10,7 @@ const dark: Theme = {
     navbarBackgroundColor: "#4b4b4b",
     navbarTextColor: "#eee",
 
-    // light can parent these two colors
-    mainColor: "#2f50cc",
+    mainColor: "#112669",
     mainTextColor: "#ffffff",
 
     footerBorderTopColor: "#939393",
