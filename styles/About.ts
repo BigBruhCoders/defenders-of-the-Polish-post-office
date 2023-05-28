@@ -5,11 +5,23 @@ export const MainBox = styled.div`
   background-color: var(--global-box-background-color);
   color: ${props => props.theme.type === "light" ? "var(--main-color)" : "var(--global-text-color)"};
   padding-top: 1rem;
-  margin: .5rem 30rem;
+  padding-bottom: 1.5rem;
+  margin: .5rem auto;
   flex-grow: 2;
   display: flex;
   flex-direction: column;
   gap: 1rem;
+  width: 50%;
+  
+  @media (max-width: 800px) {
+    width: 70%;
+  }
+
+  @media (max-width: 600px) {
+    width: calc(100vw - 1rem);
+    margin-left: .5rem;
+    margin-right: .5rem;
+  }
   
   border-top: var(--main-color) solid .5rem;
   border-bottom: var(--main-color) solid .5rem;
@@ -38,22 +50,22 @@ export const MainBox = styled.div`
     border-right: var(--main-color) solid .75rem;
   }
   
-   @media (max-width: 1500px) {
-     margin-left: 15rem;
-     margin-right: 15rem;
-   }
-
-   @media (max-width: 800px) {
-     margin-left: 2rem;
-     margin-right: 2rem;
-     margin-bottom: 1rem;
-   }
-
-   @media (max-width: 500px) {
-     margin-left: .5rem;
-     margin-right: .5rem;
-     padding: 1rem 2rem;
-   }
+   //@media (max-width: 1500px) {
+   //  margin-left: 15rem;
+   //  margin-right: 15rem;
+   //}
+   //
+   //@media (max-width: 800px) {
+   //  margin-left: 2rem;
+   //  margin-right: 2rem;
+   //  margin-bottom: 1rem;
+   //}
+   //
+   //@media (max-width: 500px) {
+   //  margin-left: .5rem;
+   //  margin-right: .5rem;
+   //  padding: 1rem 2rem;
+   //}
 `;
 
 export const SectionTitle = styled.p`
@@ -67,8 +79,9 @@ export const CreatorFlex = styled.div`
   flex-direction: row;
   justify-content: space-around;
   gap: 1rem;
+  align-items: center;
 
-  @media (max-width: 800px) {
+  @media (max-width: 1000px) {
     flex-direction: column;
   }
 `;
@@ -85,8 +98,17 @@ export const CreatorBox = styled.div`
 
   border-top: var(--main-color) solid .5rem;
   border-bottom: var(--main-color) solid .5rem;
-  @media (max-width: 800px) {
-    width: 100%;
+  
+  @media (max-width: 1400px) {
+    width: 15rem;
+  }
+  
+  @media (max-width: 1000px) {
+    width: 70%;
+  }
+
+  @media (max-width: 600px) {
+    width: 90%;
   }
 
   :before {
@@ -121,7 +143,7 @@ export const CreatorImage = styled.div`
 
   img {
     object-fit: cover;
-    border-radius: 2rem 4rem;
+    border-radius: 2rem 3rem;
   }
 `;
 
@@ -151,6 +173,10 @@ export const StyledSocialLink = styled.a`
 
 export const AboutProject = styled.p`
   padding: 0 3rem;
+  
+  @media (max-width: 1000px) {
+    padding: 0 1rem;
+  }
 
   a {
     color: ${props => props.theme.type === "light" ? "" : "royalblue"};

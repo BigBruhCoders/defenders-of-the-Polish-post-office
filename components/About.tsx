@@ -48,24 +48,27 @@ export const AboutComponent = () => {
         <SectionTitle>{t("authors")}</SectionTitle>
         <CreatorFlex>
             {authors.map(a => <CreatorBox key={a.name}>
-                <CreatorImage><Image src={a.imageSRC} alt={a.name} blurDataURL={a.imageSRC} placeholder="blur" fill/></CreatorImage>
+                <CreatorImage><Image src={a.imageSRC} alt={a.name} blurDataURL={a.imageSRC} placeholder="blur"
+                                     fill/></CreatorImage>
                 <CreatorName>{a.name}</CreatorName>
                 <CreatorLinks>{a.links.map(l => <StyledSocialLink key={l.name} href={l.link}>
-                    {l.name[0].toUpperCase()+l.name.slice(1)}
+                    {l.name[0].toUpperCase() + l.name.slice(1)}
                 </StyledSocialLink>)}</CreatorLinks>
             </CreatorBox>)}
         </CreatorFlex>
         <SectionTitle>{t("aboutProject")}</SectionTitle>
         <AboutProject>{t("about")} <Link
             href="https://github.com/BigBruhCoders/defenders-of-the-Polish-post-office">https://github.com/BigBruhCoders/defenders-of-the-Polish-post-office</Link></AboutProject>
-        <SectionTitle>{t("sources")}</SectionTitle>
-        <Sources>
-            {lang === "en" && <PLWarn>Sources are in Polish!!!</PLWarn>}
-            {sources.map(source => <li key={source}>
-                <FocusStyledLink href={source}>
-                    {source}
-                </FocusStyledLink>
-            </li>)}
-        </Sources>
+        <div>
+            <SectionTitle>{t("sources")}</SectionTitle>
+            <Sources>
+                {lang === "en" && <PLWarn>Sources are in Polish!!!</PLWarn>}
+                {sources.map(source => <li key={source}>
+                    <FocusStyledLink href={source}>
+                        {source}
+                    </FocusStyledLink>
+                </li>)}
+            </Sources>
+        </div>
     </MainBox>
 }
