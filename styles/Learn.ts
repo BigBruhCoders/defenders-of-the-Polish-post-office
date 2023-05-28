@@ -17,7 +17,7 @@ export const MainBox = styled.main`
 
   @media (max-width: 500px) {
     grid-template-columns: auto;
-    grid-template-areas: "topics" "content" "sections";
+    grid-template-areas: "topics" "sections" "content";
   }
 `;
 
