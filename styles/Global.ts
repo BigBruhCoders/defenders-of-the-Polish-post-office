@@ -4,7 +4,7 @@ export const Footer = styled.footer`
   width: 100%;
   height: var(--footer-height);
   background-color: var(--global-background-color-alt);
-  border-top: 2px solid var(--footer-border-top-color);
+  border-top: 2px solid var(--main-color);
   color: var(--global-background-text-color);
   text-align: center;
   display: table;
