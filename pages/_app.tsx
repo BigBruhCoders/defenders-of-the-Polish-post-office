@@ -32,18 +32,6 @@ const GlobalStyles = createGlobalStyle`
     --primary-button-text-background: ${(props: { theme: Theme }) => props.theme.primaryButtonTextColor};
     --navbar-background-color: ${(props: { theme: Theme }) => props.theme.navbarBackgroundColor};
     --navbar-text-color: ${(props: { theme: Theme }) => props.theme.navbarTextColor};
-    
-    // --primary-background-color: ${(props: { theme: Theme }) => props.theme.primaryBackgroundColor};
-    // --primary-text-color: ${(props: { theme: Theme }) => props.theme.primaryTextColor};
-    // --secondary-background-color: ${(props: { theme: Theme }) => props.theme.secondaryBackgroundColor};
-    // --secondary-text-color: ${(props: { theme: Theme }) => props.theme.secondaryTextColor};
-    // --navbar-menu-button-background-color: ${(props: { theme: Theme }) => props.theme.navbarMenuButtonBackgroundColor};
-    // --navbar-menu-button-icon-color: ${(props: { theme: Theme }) => props.theme.navbarMenuButtonIconColor};
-    // --navbar-dropdown-border-color: ${(props: { theme: Theme }) => props.theme.navbarDropdownBorderColor};
-    // --navbar-dropdown-background-color: ${(props: { theme: Theme }) => props.theme.navbarDropdownBackgroundColor};
-    // --navbar-dropdown-text-color: ${(props: { theme: Theme }) => props.theme.navbarDropdownTextColor};
-    // --navbar-dropdown-settings-background-color: ${(props: { theme: Theme }) => props.theme.navbarDropdownSettingsBackgroundColor};
-    // --navbar-dropdown-settings-text-color: ${(props: { theme: Theme }) => props.theme.navbarDropdownSettingsTextColor};
   }
 `;
 
