@@ -82,6 +82,7 @@ export const ButtonLinkRedirect = styled(Link)`
   border-bottom: var(--main-color) solid .5rem;
   z-index: 1;
   overflow: hidden;
+  transition: 200ms;
 
   @media (max-width: 500px) {
     width: 90%;
@@ -110,7 +111,8 @@ export const ButtonLinkRedirect = styled(Link)`
     transform: translateY(100%);
     background-color: var(--main-color);
     z-index: -1;
-    transition: 500ms;
+    transition: 200ms;
+    transition-timing-function: ease-out;
   }
 
   :after {

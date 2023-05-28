@@ -71,6 +71,7 @@ export const ButtonLink = styled(Link)`
   border-bottom: var(--main-color) solid .5rem;
   z-index: 1;
   overflow: hidden;
+  transition: 200ms;
 
   @media (max-width: 550px) {
     font-size: 1rem;
@@ -89,7 +90,7 @@ export const ButtonLink = styled(Link)`
       transform: translateY(0);
     }
   }
-  
+
   :before {
     content: "";
     position: absolute;
@@ -100,9 +101,10 @@ export const ButtonLink = styled(Link)`
     transform: translateY(100%);
     background-color: var(--main-color);
     z-index: -1;
-    transition: 500ms;
+    transition: 200ms;
+    transition-timing-function: ease-out;
   }
-  
+
   :after {
     content: "";
     position: absolute;
@@ -113,6 +115,5 @@ export const ButtonLink = styled(Link)`
     transform: skewX(-45deg);
     border-left: var(--main-color) solid .75rem;
     border-right: var(--main-color) solid .75rem;
-    
   }
 `;

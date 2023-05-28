@@ -18,7 +18,7 @@ const light: Theme = {
 
     footerBorderTopColor: "#808080",
 
-    primaryButtonColor: "#d0d0d0",
+    primaryButtonColor: "#bdbdbd",
     primaryButtonTextColor: "#868686",
 }
 
