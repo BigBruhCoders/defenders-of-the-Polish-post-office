@@ -130,5 +130,89 @@
     "year": "2023",
     "author": "Piotr Lempkowski",
     "src": "/images/gallery/tablica_dedykowana_obroncom.jpg"
+  },
+  {
+    "nameID": "image",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/obraz.jpg"
+  },
+  {
+    "nameID": "fingertips-1",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/palce_1.jpg"
+  },
+  {
+    "nameID": "fingertips-2",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/palce_2.jpg"
+  },
+  {
+    "nameID": "post-office-1",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/poczta_1.jpg"
+  },
+  {
+    "nameID": "post-office-2",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/poczta_2.jpg"
+  },
+  {
+    "nameID": "post-office-3",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/poczta_3.jpg"
+  },
+  {
+    "nameID": "monument-1",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/pomnik_1.jpg"
+  },
+  {
+    "nameID": "monument-2",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/pomnik_2.jpg"
+  },
+  {
+    "nameID": "board",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/tablica.jpg"
+  },
+  {
+    "nameID": "plate",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/plyta.jpg"
+  },
+  {
+    "nameID": "entrance",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/wejscie.jpg"
+  },
+  {
+    "nameID": "sign-1",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/znak_1.jpg"
+  },
+  {
+    "nameID": "sign-2",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/znak_2.jpg"
+  },
+  {
+    "nameID": "sign-3",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/znak_3.jpg"
   }
 ]
