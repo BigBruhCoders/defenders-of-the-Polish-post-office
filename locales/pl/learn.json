@@ -5,7 +5,7 @@
   "war": "Wojna",
   "monuments": "Pomniki",
   "post-office": "Tereny Poczty",
-  "defenders": "Obrońcy oraz towarzyszące im osoby cywilne",
+  "defenders": "Obrońcy",
   "pageNotFound": "Nie znaleziono strony",
   "clickOnTopic": "Kliknij temat, który byś chciał wybrac",
   "toHomePage": "Powrót do strony głównej",
@@ -126,8 +126,11 @@
           "1 września 1939 główna placówka Poczty Polskiej w Gdańsku stała się miejscem bohaterskiej i tragicznej obrony przed atakiem niemieckich formacji policyjnych i paramilitarnych."
         ],
         [
+          "/images/gallery/polish_zsl_school_1.jpg",
           "Obecnie mieści się tam Urząd Pocztowy \"Gdańsk 1\" oraz Muzeum Poczty Polskiej w Gdańsku. Pozostałą część budynku zajmują sale lekcyjne Zespołu Szkół Łączności i bursa szkolna.",
-          "W 1979 przed budynkiem urzędu pocztowego ustawiono pomnik Obrońców Poczty Polskiej w Gdańsku."
+          "/images/gallery/polish_zsl_school_side_1.jpg",
+          "W 1979 przed budynkiem urzędu pocztowego ustawiono pomnik Obrońców Poczty Polskiej w Gdańsku.",
+          "/images/gallery/polish_post_office_monument_3.jpg"
         ]
       ]
     },

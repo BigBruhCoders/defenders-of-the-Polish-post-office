@@ -198,8 +198,11 @@ export const ContentSectionTitle = styled.p`
 
 export const ContentImage = styled.div`
   position: relative;
-  width: 10rem;
-  height: 10rem;
+  height: 20rem;
+  
+  img {
+    object-fit: contain;
+  }
 `;
 
 export const ContentSectionData = styled.p`

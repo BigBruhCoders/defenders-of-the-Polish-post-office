@@ -25,7 +25,7 @@ export const LearnComponent = () => {
     const {t} = useTranslation("learn");
     const router = useRouter();
     const {learn_page} = router.query;
-    const themes = ["post-office", "war", "post-office-now"];
+    const themes = ["war", "post-office", "defenders", "monuments"];
 
     if (!themes.includes(learn_page as string)) {
         (async () => {
