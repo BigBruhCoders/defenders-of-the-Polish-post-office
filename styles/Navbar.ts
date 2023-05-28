@@ -15,9 +15,7 @@ export const NavbarIcon = styled(Link)`
   width: calc(var(--navbar-height) - .5rem);
   height: calc(var(--navbar-height) - .5rem);
   margin: auto 4px;
-  img {
-    position: relative !important;
-  }
+  position: relative;
 `;
 
 export const NavbarItem = styled(Link)`
@@ -86,6 +84,7 @@ export const NavbarIconBox = styled.div`
   
   > :nth-child(${props => props.theme.type === "dark" ? 1 : 2}) {
     display: none;
+    position: relative;
   }
 `;
 
