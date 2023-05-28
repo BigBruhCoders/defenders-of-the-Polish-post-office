@@ -2,16 +2,18 @@
   "topics": "Tematy",
   "sections": "Sekcje",
   "toTop": "Powrót do góry",
+  "post-office": "Poczta",
   "war": "Wojna",
   "buildings": "Ważne budynki",
   "westerplatte": "Tereny Westerplatte",
   "pageNotFound": "Nie znaleziono strony",
   "clickOnTopic": "Kliknij temat, który byś chciał wybrac",
   "toHomePage": "Powrót do strony głównej",
+
   "content": {
-    "war": {
-      "name": "Wojna",
-      "introduction": "",
+    "post-office": {
+      "name": "Poczta",
+      "introduction": "poczta była spoko",
       "parts": [
         "przed wojną",
         "przebieg bitwy o Westerplatte",
@@ -64,8 +66,8 @@
         ]
       ]
     },
-    "buildings": {
-      "name": "Ważne budynki",
+    "war": {
+      "name": "Wojna",
       "introduction": "Placówka składała się z 5 betonowych, wzmocnionych wartowni i przystosowanych do obrony, wzmocnionych, najnowocześniejszych wówczas w Polsce koszar. W sierpniu, w obliczu mnożących się prowokacji niemieckich i wobec groźby wybuchu wojny, na terenie Westerplatte wybudowano drewniano-ziemne umocnienia polowe stanowiące zewnętrzny pas obrony. Wykonano też zaporę przeciwczołgową, rzędy zasieków oraz wycięto niektóre drzewa i krzewy dla zapewnienia lepszej widoczności i pola ostrzału. By ukryć prace przed wzrokiem niemieckich obserwatorów, prowadzono je w nocy.",
       "parts": [
         "koszary",

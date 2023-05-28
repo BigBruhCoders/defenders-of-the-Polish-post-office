@@ -2,16 +2,17 @@
   "topics": "Topics",
   "sections": "Sections",
   "toTop": "Return to top",
+  "post-office": "Post Office",
   "war": "War",
-  "buildings": "Important buildings",
   "westerplatte": "Westerplatte areas",
   "pageNotFound": "Page not found",
   "clickOnTopic": "Click on topic you would like to choose",
   "toHomePage": "Back to home",
+
   "content": {
-    "war": {
-      "name": "War",
-      "introduction": "",
+    "post-office": {
+      "name": "Post Office",
+      "introduction": "PLACEHOLDER",
       "parts": [
         "before the war",
         "the course of the Battle of Westerplatte",
@@ -64,8 +65,8 @@
         ]
       ]
     },
-    "buildings": {
-      "name": "Important buildings",
+    "war": {
+      "name": "War",
       "introduction": "The facility consisted of 5 concrete, reinforced guardhouses and adapted for defense, reinforced, then the most modern barracks in Poland. In August, in the face of increasing German provocations and the threat of a war, timber and earth field fortifications were built in the area of Westerplatte as an external defense line. An anti-tank dam, rows of wire entanglements were also made, and some trees and bushes were cut to ensure better visibility and the field of fire. In order to hide the works from the eyes of German observers, they were carried out at night.",
       "parts": [
         "barracks",

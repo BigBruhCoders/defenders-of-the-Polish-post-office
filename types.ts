@@ -16,27 +16,25 @@ export type Theme = {
     footerBorderTopColor: Property.Color
     navbarBackgroundColor: Property.Color
     navbarTextColor: Property.Color
-
     primaryButtonColor: Property.Color
     primaryButtonTextColor: Property.Color
 
+}
 
+// {
+//     "name": "Post Office",
+//     "introduction": "PLACEHOLDER",
+//     "parts": [
+//     "before the war",
+//     "the course of the Battle of Westerplatte",
+//     "battle effects",
+//     "about the defenders"
+// ],
+//     "sections": [
 
-
-    // primaryBackgroundColor: Property.Color
-    // primaryTextColor: Property.Color
-    //
-    // secondaryBackgroundColor: Property.Color
-    // secondaryTextColor: Property.Color
-    // navbarMenuButtonBackgroundColor: Property.Color
-    // navbarMenuButtonIconColor: Property.Color
-    //
-    // navbarDropdownBorderColor: Property.Color
-    // navbarDropdownBackgroundColor: Property.Color
-    // navbarDropdownTextColor: Property.Color
-    //
-    // navbarDropdownSettingsBackgroundColor: Property.Color
-    // navbarDropdownSettingsTextColor: Property.Color
-
-
+export type LearnPageData = {
+    name: string
+    introduction: string
+    parts: string[]
+    sections: string[][]
 }
