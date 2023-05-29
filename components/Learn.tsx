@@ -39,7 +39,7 @@ export const LearnComponent = () => {
 
     let content: LearnPageData = t(`content.${learn_page}`, {count: 0}, {returnObjects: true});
 
-    return <MainBox>
+    return <MainBox $bigSection={content.parts.length > 1}>
         <TopicsBox>
             <TitleText>{t("topics").toUpperCase()}</TitleText>
             <Topics>
@@ -62,7 +62,7 @@ export const LearnComponent = () => {
                     <ContentSectionData key={`content.${i}.${j}`}>{section}</ContentSectionData>)}
             </ContentSectionBox>)}
         </ContentBox>
-        <SectionsBox>
+        {content.parts.length > 1 ? <SectionsBox>
             <TitleText>{t("sections").toUpperCase()}</TitleText>
             <Sections>
                 {content.parts.map(section => <Section key={section}>
@@ -70,7 +70,7 @@ export const LearnComponent = () => {
                           tabIndex={0} scroll={false}>{section}</Link>
                 </Section>)}
             </Sections>
-        </SectionsBox>
+        </SectionsBox> : null}
         {select !== "" ? <SelectPicture picture={select} remove={() => setSelect("")}/> : null}
     </MainBox>
 }

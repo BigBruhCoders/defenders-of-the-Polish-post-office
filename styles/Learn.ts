@@ -1,23 +1,25 @@
 import styled from "styled-components";
 import Link from "next/link";
 
-export const MainBox = styled.main`
+export const MainBox = styled.main<{$bigSection: boolean}>`
   display: grid;
   margin: 1rem;
   gap: 1rem;
-  grid-template-areas: "topics content sections";
+  grid-template-areas: ${props => props.$bigSection ? '"topics content sections"' : '"topics content content"'};
   grid-template-columns: 15rem 1fr 20rem;
   align-items: flex-start;
   
   @media (max-width: 1000px) {
     grid-template-columns: 1fr 1fr;
-    grid-template-areas: "topics sections" "content content";
+    grid-template-areas: ${props => props.$bigSection ? '"topics sections" "content content"' : '"topics topics" "content content"'};
+    //grid-template-areas: "topics sections" "content content";
     align-items: initial;
   }
 
   @media (max-width: 500px) {
     grid-template-columns: auto;
-    grid-template-areas: "topics" "sections" "content";
+    grid-template-areas: ${props => props.$bigSection ? '"topics" "sections" "content"' : '"topics" "content"'};
+    //grid-template-areas: "topics" "sections" "content";
   }
 `;
 
