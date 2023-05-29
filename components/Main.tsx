@@ -7,15 +7,14 @@ export const MainComponent = () => {
 
     return <Main>
         <MainImageBox>
-            {/* TODO: replace with own images */}
-            <Image src="/images/PLACEHOLDER_REPLACE.jpg" alt="Post Office" fill/>
+            <Image src="/images/gallery/polish_post_office_front.jpg" alt="Post Office" fill/>
         </MainImageBox>
         <QuoteBox>
             <p>{t("quote")}</p>
             <QuoteName>- Sławomir Czarlewski</QuoteName>
         </QuoteBox>
         <ButtonsBox>
-            <ButtonLink href={"/learn/post-office"} tabIndex={0}>
+            <ButtonLink href={"/learn/war"} tabIndex={0}>
                     {t("learn")}
             </ButtonLink>
             <ButtonLink href={"/gallery"} tabIndex={0}>

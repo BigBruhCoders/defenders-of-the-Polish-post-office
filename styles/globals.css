@@ -2,13 +2,14 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    transition: 500ms;
+    transition: 250ms;
 
     /* IDE help */
     --global-background-color: black;
     --global-background-color-alt: black;
     --global-background-text-color: black;
     --global-box-background-color: black;
+    --global-box-background-color-alt: black;
     --global-text-color: black;
     --main-color: black;
     --main-text-color: black;

@@ -9,6 +9,7 @@ const light: Theme = {
     globalBackgroundColor2: "#c4c4c4",
     globalBackgroundTextColor: "#000000",
     globalBoxBackgroundColor: "#e5e5e5",
+    globalBoxBackgroundColorAlt: "#d5d5d5",
     globalTextColor: "#000",
     navbarBackgroundColor: "#c5c5c5",
     navbarTextColor: "#000000",

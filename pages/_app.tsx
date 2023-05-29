@@ -24,6 +24,7 @@ const GlobalStyles = createGlobalStyle`
     --global-background-color-alt: ${(props: { theme: Theme }) => props.theme.globalBackgroundColor2};
     --global-background-text-color: ${(props: { theme: Theme }) => props.theme.globalBackgroundTextColor};
     --global-box-background-color: ${(props: { theme: Theme }) => props.theme.globalBoxBackgroundColor};
+    --global-box-background-color-alt: ${(props: { theme: Theme }) => props.theme.globalBoxBackgroundColorAlt};
     --global-text-color: ${(props: { theme: Theme }) => props.theme.globalTextColor};
     --main-color: ${(props: { theme: Theme }) => props.theme.mainColor};
     --main-text-color: ${(props: { theme: Theme }) => props.theme.mainTextColor};

@@ -10,33 +10,27 @@ export type Theme = {
     globalBackgroundColor2: Property.Color
     globalBackgroundTextColor: Property.Color
     globalBoxBackgroundColor: Property.Color
+    globalBoxBackgroundColorAlt: Property.Color
     globalTextColor: Property.Color
     mainColor: Property.Color
     mainTextColor: Property.Color
     footerBorderTopColor: Property.Color
     navbarBackgroundColor: Property.Color
     navbarTextColor: Property.Color
-
     primaryButtonColor: Property.Color
     primaryButtonTextColor: Property.Color
 
+}
 
+export type LearnPageData = {
+    name: string
+    introduction: string
+    parts: string[]
+    sections: string[][]
+}
 
-
-    // primaryBackgroundColor: Property.Color
-    // primaryTextColor: Property.Color
-    //
-    // secondaryBackgroundColor: Property.Color
-    // secondaryTextColor: Property.Color
-    // navbarMenuButtonBackgroundColor: Property.Color
-    // navbarMenuButtonIconColor: Property.Color
-    //
-    // navbarDropdownBorderColor: Property.Color
-    // navbarDropdownBackgroundColor: Property.Color
-    // navbarDropdownTextColor: Property.Color
-    //
-    // navbarDropdownSettingsBackgroundColor: Property.Color
-    // navbarDropdownSettingsTextColor: Property.Color
-
-
+export type Question = {
+    question: string
+    good: string
+    wrong: string[]
 }

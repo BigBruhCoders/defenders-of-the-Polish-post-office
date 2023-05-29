@@ -3,8 +3,9 @@
   "sections": "Sekcje",
   "toTop": "Powrót do góry",
   "war": "Wojna",
-  "buildings": "Ważne budynki",
-  "westerplatte": "Tereny Westerplatte",
+  "monuments": "Pomniki",
+  "post-office": "Tereny Poczty",
+  "defenders": "Obrońcy",
   "pageNotFound": "Nie znaleziono strony",
   "clickOnTopic": "Kliknij temat, który byś chciał wybrac",
   "toHomePage": "Powrót do strony głównej",
@@ -13,128 +14,208 @@
       "name": "Wojna",
       "introduction": "",
       "parts": [
-        "przed wojną",
-        "przebieg bitwy o Westerplatte",
-        "skutki bitwy",
-        "o obrońcach"
+        "poczta polska w Wolnym Mieście Gdańsku",
+        "przebieg bitwy o budynek poczty",
+        "o pocztowcach",
+        "proces pocztowców",
+        "rewizja",
+        "wydarzenia powojenne"
       ],
       "sections": [
         [
-          "W 1920 roku na małym półwyspie Westerplatte w Wolnym Mieście Gdańsku powstała Wojskowa Składnica Towarowa.",
-          "Jesienią 1925 roku Liga Narodów przekazała Polakom, do własnego użytku, teren Westerplatte. Początkowo stacjonowało tam 88 żołnierzy. Zagrożenie ze strony niemieckiej spowodowało jednak, iż krótko przed wybuchem wojny załogę Składnicy wzmocniono do 182 ludzi.",
-          "25 sierpnia 1939 roku pancernik „Schleswig-Holstein” wypłynął do Gdańska z „wizytą kurtuazyjną”. Zacumował w kanale portowym 150 m od Westerplatte, jednak w rzeczywistości pancernik miał rozkaz tam być w momencie wybuchu wojny, która pierwotnie miała się rozpocząć 26 sierpnia.",
-          "W dniu 26 sierpnia kmdr Gustav Kleikamp przesunął „Schleswiga-Holsteina” w górę kanału pomiędzy Gdańskiem a Westerplatte. Major Henryk Sucharski postawił swój garnizon w stan najwyższej gotowości.",
-          "Z powodu przesunięcia daty ataku na Polskę z 26 sierpnia na 1 września pancernik był zmuszony pozostać tam przez kolejne sześć dni, zanim hasło „Fiske” zostało wysłane i zajęcie Gdańska mogło się rozpocząć.",
-          "W nocy z 31 sierpnia na 1 września żołnierze polscy broniący Westerplatte czuwali, na stanowiskach znajdowała się ⅓ załogi. Reszta spała i była gotowa do akcji w przeciągu kilku minut od ogłoszenia alarmu. Tymczasem ok. 400 m od polskiej placówki przy twierdzy Wisłoujście pod osłoną nocy zeszła na ląd z pokładu „Schleswiga-Holsteina” kompania szturmowa Kriegsmarine. Wyokrętowani żołnierze zajęli pozycje wyjściowe do ataku przy murze okalającym składnicę od południowego wschodu. Niemieccy saperzy w kilku miejscach podłożyli ładunki wybuchowe, aby tuż przed rozpoczęciem się ataku wykonać wyłomy w ogrodzeniu.",
-          "Około godz. 4:00 „Schleswig-Holstein” podniósł cumy i przemieścił się do Zakrętu Pięciu Gwizdków, skąd miał lepsze pole ostrzału. O godz. 4:43 w dzienniku pokładowym zapisano: „Okręt idzie do ataku na Westerplatte”."
+          "Traktat wersalski, kończący I wojnę światową, powoływał do życia Wolne Miasto Gdańsk, pod nadzorem ligi narodów. We władzach państewka dominowali Niemcy, którzy stanowili zdecydowaną większość jego mieszkańców. Polsce zagwarantowano między innymi dostęp do gdańskiego portu oraz prawo posiadania poczty polskiej.",
+          "Trzy polskie urzędy pocztowe podlegały Rzeczypospolitej i posiadały status eksterytorialności. Zapewniały swobodne przekazywanie wszelkiego rodzaju przesyłek oraz komunikację telefoniczną i telegraficzną z Polską. Jako główny urząd wyznaczono oddział \"Gdańsk 1\", w którym mieściła się centrala telefoniczna",
+          "/images/gallery/znak_1.jpg",
+          "W różnych punktach miasta umieszczono skrzynki pocztowe z polskim orłem, przeznaczone dla listów do Polski. Listonosze dostarczali nadchodzącą z kraju korespondencję. Pocztowcy nosili zielone uniformy, przypominające mundury wojskowe. Systematycznie przechodzili szkolenia, mające przygotować ich do zbrojnej obrony placówek.",
+          "Niebezpieczeństwo stało się realne po dojściu do władzy w Niemczech w 1933 roku Adolfa Hitlera. Znacznie wówczas wzrosła aktywność nazistów na terenie Wolnego Miasta. Konflikty z niemieckimi mieszkańcami uległy zaostrzeniu.",
+          "Do kwietnia 1939 komórką samoobrony oddziału kierował Alfons Flisykowski, a większość pocztowców należała do polskiej organizacji paramilitarnej - Związku Strzeleckiego. W jej ramach i zgodnie z jej statutem organizacyjnym byli szkoleni bojowo na kursach w Polsce.",
+          "Od kwietnia dowództwo przejął ppor. Konrad Guderski, przysłany do Gdańska przez Sztab Główny Wojska Polskiego. Zajął się on dodatkowym szkoleniem bojowym pocztowców oraz przygotowaniem gmachu do obrony. W tym celu wycięte zostały drzewa otaczające gmach poczty oraz zabezpieczone wejście do budynku. Zgromadzono broń, a w tym karabiny, pistolety, granaty oraz trzy karabiny maszynowe.",
+          "W połowie sierpnia załogę poczty wzmocniono dziesięcioma pracownikami, którzy zostali oddelegowani z oddziałów w Gdyni i w Bydgoszczy. Szacuje się, że we wrześniu 1939 na w gdańskim oddziale Poczty Polskiej pracowało nieco ponad 100 osób, a 50 z nich było gotowych do walki."
         ],
         [
-          "/images/gallery/napis_westerplatte.jpg",
-          "Często mówi się, że bitwa o Westerplatte rozpoczęła II Wojnę Światową. Prawdą jednak jest, że zaczęła się kilka minut wcześniej atakami w kilku punktach granicznych.",
-          "Pierwsze ostrzeliwanie rozpoczęło się 1 września, o godzinie 4:45 przez niemiecki pancernik „Schleswig-Holstein”. Zwiastowało ono piekło, jakie mieli przeżyć na Westerplatte polscy Obrońcy. 18 dział pancernika umilkło dopiero wtedy, gdy przeniósł się on w rejon Helu, z taktycznego punktu widzenia znacznie ważniejszy dla Niemców. W czasie ataku zniszczone zostały brama kolejowa oraz fragmenty muru.",
-          "Pierwszym punktem, wokół którego toczono zaciekłe walki, była placówka „Prom”, którą dowodził Leon Pająk. Polacy pozwolili zbliżyć się Niemcom na możliwie najmniejszą odległość, po czym otworzyli ogień ze swoich karabinów maszynowych. Nieprzygotowani na tak skuteczną obronę Niemcy, zmuszeni zostali do wycofania się, zostawiając za sobą wielu zabitych i rannych. Również innym placówkom udało się przetrzymać pierwszy atak. Po załamaniu ofensywy zaskoczeni Niemcy postanowili „zmiękczyć” obronę. „Schleswig-Holstein” podpłynął na odległość zaledwie 500 metrów i zaczął razić Składnicę ogniem.",
-          "1 września zameldowano o pierwszych stratach po polskiej stronie. Zginęli st. sierż. Wojciech Najsarek, kpr. Kowalczyk, st. leg. Ziemba oraz strzelec Bronisław Uss, a rannych zostało 10 osób. Po stronie niemieckiej tego dnia zmarło 20 żołnierzy i 140 zostało rannych. W tym dniu Niemcy aż trzykrotnie podejmowali się przeprowadzenia ataku, lecz wszystkie próby zakończyły się niepowodzeniem.",
-          "Według wstępnych założeń dowództwa polska placówka miała wytrzymać 12 godzin, aż do nadejścia wsparcia. Taki był plan obrony, który i tak uznawano za optymistyczny, wziąwszy pod uwagę liczebność załogi Westerplatte i spodziewaną przewagę Niemców.",
-          "Liczono jednak na to, iż po wyhamowaniu pierwszego impetu natarcia uda się przeprowadzić ofensywę pomocniczą, która oswobodzi zamkniętych w okrążeniu żołnierzy. Kontrofensywa nigdy nie nadeszła. Realia wojny, dodajmy: zdecydowanie na korzyść będących w przewadze liczebnej i sprzętowej Niemców, zmusiły Polaków do trwania na pozycjach znacznie dłużej niż zakładane 12 godzin.",
-          "Fatalna sytuacja wokół Westerplatte doprowadziła do rozłamu w gronie dowódców Składnicy. Od 2 września na Westerplatte dowodził faktycznie kpt. Franciszek Dąbrowski, który będąc zastępcą Sucharskiego, zmienił go na stanowisku. Sucharski przeszedł ciężkie załamanie nerwowe, był gotowy się poddać. Z czasem zaczął siać niebezpieczny defetyzm wśród kolegów, co skłoniło Dąbrowskiego do podjęcia dramatycznej decyzji i odizolowania Sucharskiego od reszty załogi.",
-          "Drugiego dnia wojny Niemcy ponowili ataki lądowe. Mimo naporu wroga, podciągającego coraz liczniejsze oddziały, żołnierze polscy wytrzymali natarcie. Dramat rozpoczął się około godz. 17.00, gdy nad Westerplatte nadleciały niemieckie bombowce. Obrońcy usłyszeli przeraźliwy gwizd kilkudziesięciu samolotów Luftwaffe, które zrzuciły swój śmiercionośny ładunek, obracając w gruzy wartownię nr 5. Trafione zostały również koszary niszcząc, kuchnię i radiostację, wszystkie moździerze oraz została przerwana łączność telefoniczna. Nalot trwał 40 minut.",
-          "/images/gallery/koszary_zewnatrz_1.jpg",
-          "Straty tego dnia wyniosły 9 zabitych i wielu rannych. Wieczorem niemieckie oddziały jeszcze raz spróbowały wedrzeć się do placówki. I tym razem górą była polska załoga. Mjr Sucharski rozkazał zniszczyć dokumenty przechowywane na Westerplatte.",
-          "W kolejnych dniach walk o Westerplatte coraz bardziej wyczerpani Polacy trwali na stanowiskach, odpierając niemieckie natarcia oraz znosząc ostrzał artyleryjski. Morale załogi na krótko poprawiła wiadomość o tym, iż Wielka Brytania i Francja wypowiedziały wojnę III Rzeszy. Jednak pomoc, zarówno ze strony państw Europy Zachodniej, jak i Armii „Pomorze”, nie nadchodziła i słabła nadzieja, że w ogóle nadejdzie.",
-          "Tymczasem Niemcy przygotowywali się do generalnego szturmu. 4 września do ostrzeliwania Westerplatte przystąpiły dwa torpedowce. Niemcy ściągnęli także kompanię pionierów wyposażoną m.in. w miotacze ognia, a także ciężkie moździerze kal. 211 mm.",
-          "5 września Sucharski zwołał naradę dowódców, na której postanowiono trwać na stanowiskach. Według niektórych relacji szlochający Sucharski prosił o poddanie Westerplatte. Dąbrowski prawdopodobnie zagroził, że jeśli major nie przestanie namawiać żołnierzy do kapitulacji, rozkaże go aresztować. Sucharski nadal pozostawał faktycznym dowódcą obrony, a co za tym idzie zwierzchnikiem Dąbrowskiego, który winien mu był posłuszeństwo, niezależnie od warunków bojowych. Istnieją relacje, które przekazują, iż Sucharski faktycznie na krótko znalazł się „pod kluczem”, co miało być akcją co bardziej bojowo nastawionych obrońców Składnicy. Wydarzenia te kładą się cieniem na historii obrony Westerplatte, ale pokazują też, w jakich warunkach działali polscy Obrońcy.",
-          "6 września Niemcy dwukrotnie podjęli próbę podpalenia lasu porastającego Westerplatte za pomocą cystern, wypełnionych ropą, wtoczonych na teren składnicy po linii kolejowej. Pierwsza próba zakończyła się porażką i została powstrzymana ogniem broni maszynowej i działka przeciwpancernego 37 mm, które zniszczyły cysternę, a za drugim razem pożar nie rozprzestrzenił się.",
-          "Rankiem 7 września niemiecka artyleria rozpoczęła potężną kanonadę. Tego samego dnia na teren walki przybyły niemieckie uzupełnienia – szkolny batalion saperów i oddział policji. Po godzinnym ostrzale do ataku ruszyli saperzy, którzy za pomocą miotaczy ognia podpalili las, a za nimi piechota. Pociski moździerzowe poważnie uszkodziły wartownię nr 2, ale polskie karabiny maszynowe jeszcze raz powstrzymały atakujących.",
-          "Był to jednak ostatni wysiłek obronny załogi Westerplatte. Około godz. 10:15 mjr Henryk Sucharski, który już w poprzednich dniach domagał się kapitulacji, wydał rozkaz poddania się, argumentując to stratami, beznadziejnym położeniem, wyczerpaniem żołnierzy, fatalnym stanem rannych i przewagą liczebną oraz wobec wypełnienia rozkazu obrony placówki przez jeden dzień. Część obrońców chciała walczyć dalej, ale rozkaz został potwierdzony. Załoga zebrała się przy koszarach, a mjr Sucharski z dwoma żołnierzami udał się do Niemców. Dowódca wojsk niemieckich gen. Friedrich Eberhardt w uznaniu męstwa Polaków pozwolił majorowi przebrać się w mundur galowy oraz zachować szablę."
+          "/images/gallery/poczta_2.jpg",
+          "Przed rozpoczęciem natarcia, ok. godz. 4:00, budynek Poczty Polskiej pozbawiono prądu oraz wszelkich połączeń telefonicznych. Atak na gmach poczty rozpoczął się o godz. 4:45, równocześnie z rozpoczęciem ostrzału Westerplatte przez pancernik Schleswig-Holstein.",
+          "W skład atakujących sił niemieckich wchodziły: specjalny oddział gdańskiej Policji Porządkowej (Schutzpolizei) oraz pododdziały SS Wachsturmbann „E” i SS-Heimwehr Danzig.",
+          "Oddziały te dysponowały oprócz broni ręcznej trzema samochodami pancernymi ADGZ. Atakiem dowodził SS-Untersturmführer Alfred Heinrich, zaś odpowiedzialność operacyjną za akcje formacji paramilitarnych ponosił ówczesny szef gdańskiej policji SS-Oberführer Johannes Schäfer.",
+          "W gmachu Poczty Polskiej przy ówczesnym placu Heweliusza w Gdańsku w chwili ataku przebywało 43 pocztowców tegoż oddziału, 10 pocztowców delegowanych z Gdyni i z Bydgoszczy oraz jeden kolejarz polski z Gdańska. Dysponowali oni trzema lekkimi karabinami maszynowymi Browning wz. 1928, pistoletami i karabinami oraz pewną liczbą granatów ręcznych. Poza tym w budynku przebywali jeszcze dozorca domu, jego żona i ich 10-letnia wychowanica. Pracowników, którzy mieli podjąć pracę o godzinie 8:00, zatrzymał przed budynkiem kordon policji.",
+          "Plan ataku Niemców (opracowany w lipcu 1939) zakładał zdobycie budynku poprzez przebicie otworu w ścianie z sąsiadującego z nim Krajowego Urzędu Pracy. Równocześnie trzy grupy szturmowe miały związać siły obrońców i wedrzeć się do gmachu od frontu.",
+          "Według założeń opracowanych przez Sztab Główny Wojska Polskiego pocztowcy mieli się utrzymać przez ok. 6 godzin, do czasu przybycia z odsieczą wydzielonych pododdziałów Armii \"Pomorze\". Pocztowcom, w przeciwieństwie do dowódcy załogi Westerplatte, nie przekazano informacji o wycofaniu Korpusu Interwencyjnego z Pomorza, ani nie odwołano polecenia obrony.",
+          "Pierwszy atak niemiecki zakończył się niepowodzeniem; zostali odparci. Podczas tej próby śmiertelną ranę odniósł jego dowódca - SS-Untersturmführer, Alfred Heinrich. Równocześnie został odparty atak od strony Urzędu Pracy, gdzie zostały wybite dziury w ścianach. Tu z kolei śmierć poniósł (od wybuchu własnego granatu, którym zlikwidował grupę Niemców atakujących przez dziurę w ścianie) dowódca obrony ppor. Konrad Guderski.",
+          "Około godz. 10:00, by zorientować się jak przebiegają walki, na placu Heweliusza pojawili się gauleiter Albert Forster i SS-Oberführer Johannes Schäfer. Do tego celu Forster posłużył się jednym z samochodów pancernych.",
+          "Około godz. 11:00 niemieckie siły atakujące zostały wzmocnione dwoma lekkimi działami kalibru 75 mm. Pomimo tego drugi atak także zakończył się niepowodzeniem napastników.",
+          "Około 13.00 ruszyło kolejne uderzenie. Wspierani ogniem dwóch samochodów pancernych i haubicy 105 mm Niemcy, znowu nie poradzili sobie ze świetnie zorganizowanymi pocztowcami. Było to oczywiście zasługa Guderskiego, który swoje życie złożył w ofierze dla dobra defensywy. Skoro budynku nie można było sforsować, rozpoczęło się oblężenie placówki.",
+          "Około godz. 15:00 niemiecki nowy dowódca ataku zarządził przerwę w szturmie i dał pocztowcom dwie godziny na kapitulację. Równocześnie saperzy wykonali podkop pod ścianą poczty, w którym założyli 600-kilogramowy ładunek wybuchowy. Mimo tego, że obiecywana pomoc ze strony Wojska Polskiego nie nadeszła, pocztowcy odrzucili propozycję kapitulacji",
+          "Po upływie ultimatum (o godz. 17:00) ładunek został odpalony burząc część ściany budynku, a oddziały niemieckie przy wsparciu trzech dział ruszyły do szturmu zajmując część budynku pocztowego. W tym czasie obrona została ograniczona do piwnic, gdzie przed ostrzałem schronili się obrońcy.",
+          "Około 18:00 pod pocztę sprowadzono motopompy, którymi do piwnic Niemcy wpompowali benzynę i benzol. Następnie oblaną placówkę podpalili przy pomocy miotaczy ognia. W wyniku tych działań żywcem spłonęło prawdopodobnie pięciu pocztowców (m.in. Brunon Marszałkowski i Stanisław Rekowski).",
+          "O godz. 19:00 Obrońcy podjęli decyzję o kapitulacji. Jako pierwszy z płonącego budynku wyszedł dyrektor dr Jan Michoń. Mimo że niósł tylko białą flagę został przez napastników zastrzelony. Wychodzący za nim naczelnik poczty Józef Wąsik został żywcem spalony miotaczem płomieni. Prawdopodobnie w czasie opuszczania budynku przez Michonia i Wąsika próbę ucieczki podjął Bronisław Szulc. Według wspomnień Augustyna Młyńskiego został on najprawdopodobniej zastrzelony. W swojej książce Dieter Schenk uwzględnił fakt, że spalonego ciała Szulca nie udało się później zidentyfikować. Prawdopodobnie został najpierw zastrzelony, a później podpalony miotaczem ognia."
         ],
         [
-          "Mimo iż żołnierze cały czas byli zorganizowanym oddziałem i skutecznie stawiali opór wielokrotnie silniejszemu przeciwnikowi, ich zmagania musiały zostać zakończone. Na skutek wyczerpania amunicji oraz fatalnej sytuacji sanitarnej mjr Sucharski decyduje się poddać placówkę.",
-          "Polacy skorzystali z możliwości honorowej kapitulacji. Walczyli dopóki mogli, dalszy opór byłby pewną śmiercią. W dowód uznania dla bohaterskiej postawy Polaków gen. Eberhardt, kierujący niemieckim natarciem, pozwolił Sucharskiemu zachować oficerską szablę.",
-          "/images/gallery/cmentarz.jpg",
-          "Straty niemieckie w bitwie o Westerplatte według oryginalnych szacunków polskich wynoszą ok. 300 zabitych i 700–1000 rannych, jednak według nowszych danych wynoszą one około 30–50 zabitych i co najmniej 120 rannych, wobec ok. 15 poległych i ok. 50 rannych po stronie polskiej obrońców. Krzysztof Komorowski podaje 50 zabitych i 150 rannych po stronie niemieckiej.",
-          "Obrońcy Westerplatte, którzy wytrwali na straceńczej placówce do 7 września, odpierając 13 szturmów, swą postawą i determinacją zyskali nie tylko sławę, ale i demonstracyjnie okazywany szacunek przeciwnika, co w całej kampanii było czymś wyjątkowym. Niemcy nazywali nawet Westerplatte „małym Verdun”, co miało obrazować furię natarcia ich żołnierzy na placówkę.",
-          "Polskie oddziały na Westerplatte miały bronić się 12 godzin, a utrzymały się aż 7 dni, budując wokół siebie mit nieustępliwości i bohaterstwa polskiego żołnierza. Stały się symbolem Wojska Polskiego, które zawsze walczy do końca.",
-          "Mit Polaków na Westerplatte szybko został rozpowszechniony. Niebagatelne znaczenie na tym polu miały audycje Polskiego Radia na bieżąco informującego o wydarzeniach w placówce. Drugim elementem budowania legendy była wiersz napisany przez Konstantego Ildefonsa Gałczyńskiego jeszcze w trakcie trwania kampanii wrześniowej. Warto przytoczyć jego słowa, choć w rzeczywistości obrona Składnicy wyglądała nieco inaczej. Mit o żołnierzach z Westerplatte, którzy „czwórkami do nieba szli”, poszedł w świat."
+          "Z budynku udało się uciec sześciu pocztowcom. Dwóch z nich: Franciszka Mionskowskiego oraz rannego Alfonsa Flisykowskiego, aresztowano już 2 września i osadzono z pozostałymi obrońcami; pozostała czwórka: (Andrzej Górski, Franciszek Mielewczyk, Władysław Milewczyk i Augustyn Młyński) zdołała uciec i przeżyć wojnę. Jeden z pocztowców, Władysław Kupka, również podjął próbę ucieczki, ale w niewyjaśnionych okolicznościach został złapany przez Niemców.",
+          "Pozostali obrońcy zostali aresztowani i umieszczeni najpierw w gmachu Prezydium Policji w Gdańsku (28 osób), a rannych i poparzonych (16 osób) umieszczono w szpitalu miejskim. Spośród osób odesłanych do szpitala w wyniku obrażeń zmarło 6 osób (5 w wyniku poparzeń). Najmłodszą ofiarą ataku na pocztę była 10-letnia Erwina Barzychowska, wychowanica dozorcy Jana Pipki i jego żony Małgorzaty. Silnie poparzona miotaczem płomieni (przy próbie opuszczenia gmachu poczty) zmarła w szpitalu po 7 tygodniach.",
+          "Grupę więzioną w Prezydium Policji przeniesiono po kilku dniach do Victoriaschule, więzienia w którym w pierwszych dniach wojny przetrzymywano i torturowano gdańskich Polaków. Grupa ta była sądzona w pierwszym procesie pocztowców już 8 września 1939.",
+          "Dalsze losy pocztowców były różne. Prawie wszyscy, którzy ocaleli zostali później rozstrzelani na Zaspie pod Gdańskiem. Ciała tych, którzy zginęli pochowane zostały na cmentarzu na Zaspie (dzisiejszy Cmentarz Ofiar Hitleryzmu przy ul. Bolesława Chrobrego). Ci, którzy nie zdołali uciec i zostali aresztowani, skazani zostali przez Niemców na karę śmierci i także rozstrzelani. Polscy pocztowcy, którzy nie brali udziału w obronie, zostali w większości aresztowani i osadzeni w obozach koncentracyjnych.",
+          "/images/gallery/palce_1.jpg"
         ],
         [
-          "Załoga Westerplatte przed 1939 rokiem składała się z dwóch oficerów, 20 podoficerów i 66 żołnierzy (zatrudniono także ok. 20 pracowników cywilnych, m.in. obsługujących elektrownię, urządzenia kolejowe, portowe i magazyny).",
-          "Wiosną i latem 1939 roku zwiększono stan załogi. We wrześniu 1939 roku składnicy strzegło 182 żołnierzy, w tym 5 oficerów i lekarz (inne źródła podają 205–210 żołnierzy, w tym ponad 70 podoficerów). Z drugiej strony Bogusław Kubisz określa siły polskie na Westerplatte w dniu 31 sierpnia 1939 roku na 205–225 ludzi, w tym sześciu oficerów i 30 pracowników kontraktowych (w większości byłych wojskowych, którzy zostali zmobilizowani i wzięli potem udział w obronie).",
-          "Załoga placówki uzbrojona była w broń ciężką – 4 moździerze 81 mm, 2 działka przeciwpancerne 37 mm i działo piechoty 75 mm. W wyposażeniu obrońców znajdowało się także 18 ckm, 17 rkm i 8 lkm. Żołnierze dysponowali ok. 160 karabinami, ok. 40 pistoletami i około tysiącem granatów.",
-          "Zapasy żywności mogły wystarczyć na miesiąc. Według planów Westerplatte miało bronić się przez dwanaście godzin, a w rzeczywistości broniło się aż 7 dni."
+          "Obrońcy byli sądzeni w dwóch procesach przez sąd polowy brygady generała Friedricha Eberhardta, wchodzącej w skład 3 Armii Georga von Küchlera. 8 września sądzono 28 pocztowców, a 30 września pozostałych 10. Wszyscy zostali skazani na śmierć za „partyzantkę” (niem. Freischärlerei). Podstawą oskarżenia było rozporządzenie o specjalnym wojennym prawie karnym w czasie wojny i podczas szczególnych zadań z 17 sierpnia 1938.",
+          "Artykuł trzeci tego rozporządzenia brzmiał: „partyzantem karanym śmiercią jest ten, kto bez posiadania przewidzianych przez prawo międzynarodowe zewnętrznych odznak przynależności do sił zbrojnych nieprzyjacielskiego mocarstwa, broni albo innych środków używa, lub mając w swoim posiadaniu, w zamiarze użycia na szkodę niemieckiego lub zaprzyjaźnionego wojska albo przynależnego do nich zabija lub podejmuje działanie, które na użytek wojenny mogą podejmować tylko członkowie sił zbrojnych w mundurze”. Wyrok wydał przewodniczący sądu Kurt Bode, a oskarżycielem był radca sądu wojskowego dr Hans Giesecke. Wyrok ostatecznie zatwierdził gen. Walther von Brauchitsch, naczelny dowódca wojsk lądowych.",
+          "Wyrok wykonano prawdopodobnie 5 października, około godziny 4 nad ranem, na ćwiczebnym poligonie policji gdańskiej na Zaspie. Pocztowcy zostali rozstrzelani na terenie starej strzelnicy przy lotnisku we Wrzeszczu i w tym samym miejscu pogrzebani. Według zachowanych świadectw prowadzono ich czwórkami, spętanych. Nad wykopanym przez więźniów Stutthofu grobem pozwolono im przyjąć komunię świętą. Mogiłę zasypano gaszonym wapnem i dokładnie pokryto murawą. Jednym z kierujących egzekucją był SS-Sturmbannführer Max Pauly, ówczesny komendant obozu koncentracyjnego Stutthof (w roku 1946 skazany został on przez Brytyjski Trybunał Wojskowy na karę śmierci przez powieszenie)."
+        ],
+        [
+          "W 1995 Sąd Krajowy w Lubece przeprowadził rewizję procesu pocztowców, stwierdzając m.in. pogwałcenie reguł postępowania sądowego i naruszenia postanowień IV konwencji haskiej (1907) o prawach i zwyczajach wojny lądowej. W jej wyniku zostali oni przez sąd uniewinnieni. Do rozpoczęcia procesu przyczyniła się wydana w tym samym roku książka Dietera Schenka „Polska Poczta w Gdańsku – historia pewnego niemieckiego morderstwa sądowego”. Wyrok oprócz znaczenia moralnego pozwolił na wystąpienie do rządu niemieckiego o odszkodowanie (zostało ono wypłacone w roku 2001).",
+          "Głównymi tezami uzasadniającymi wyrok były:",
+          "Obowiązujący do 14 listopada 1939 Kodeks karny Wolnego Miasta Gdańska nie przewidywał kary śmierci.",
+          "Rozporządzenie o specjalnym wojennym prawie karnym, na którym oparto wyrok dotyczyło tylko działań popełnionych przeciwko Wehrmachtowi, natomiast pocztę atakowały oddziały policji gdańskiej oraz paramilitarne jednostki SS i SA.",
+          "Rozporządzenie przewidziane było na wypadek wojny, a taki fakt zaistniał po 3 września 1939 kiedy Wielka Brytania i Francja wypowiedziały Niemcom wojnę.",
+          "Poczta Polska w Gdańsku w myśl art. 104 traktatu wersalskiego była w świetle prawa międzynarodowego terytorium Polski bronionym przez Polaków, więc nie mogli być oni uznani za partyzantów.",
+          "Pogwałcone zostały postanowienia ratyfikowanej przez Niemcy IV konwencji haskiej, której artykuł 43 w dziale III stwierdza: „z chwilą przejścia władzy z rąk rządu legalnego do rąk okupanta tenże poweźmie wszelkie będące w jego mocy środki, przestrzegając prawa obowiązujące w tym kraju”. Poczta Polska była częścią terytorium Polski.",
+          "Nie zapewniono oskarżonym prawa do obrony.",
+          "Odpowiedzialnych za mord sądowy Hansa Giesecke i Kurta Bode nigdy nie spotkała jakakolwiek kara. Zostali po wojnie zdenazyfikowani. Giesecke został dyrektorem Sądu Krajowego Hesji we Frankfurcie nad Menem, a Bode był sędzią, a potem wiceprezesem Wyższego Sądu Krajowego w Bremie. Zmarli w latach siedemdziesiątych jako cenieni prawnicy."
+        ],
+        [
+          "/images/gallery/znak_3.jpg",
+          "Uchwałą Krajowej Rady Narodowej z 31 października 1946 Orderem Virtuti Militari V klasy za bohaterską obronę Poczty Polskiej w Gdańsku w 1939 r. został odznaczony Związek Zawodowy Pracowników Poczt i Telekomunikacji – Koło Gdańsk 1.",
+          "Po wojnie dawny plac Heweliusza otrzymał nazwę placu Obrońców Poczty Polskiej. Z okazji 40. rocznicy bohaterskiej obrony, 1 września 1979 na placu odsłonięto Pomnik Obrońców Poczty Polskiej w Gdańsku. W tym samym dniu, w bronionym w 1939 budynku, uruchomiono Urząd Pocztowy Gdańsk 1 oraz Muzeum Poczty i Telekomunikacji. To ostatnie stanowiło przez długi czas oddział Muzeum Poczty i Telekomunikacji we Wrocławiu, a od 1 stycznia 2003 włączono je w struktury Muzeum Historycznego Miasta Gdańska (obecnie Muzeum Gdańska) pod nazwą Muzeum Poczty Polskiej w Gdańsku.",
+          "Do 28 sierpnia 1991 nie było znane miejsce egzekucji obrońców Poczty Polskiej. Po 1939 roku Niemcy wykonali prace ziemne, które - mimo istnienia naocznych świadków mordu - przez długie lata uniemożliwiały precyzyjne ustalenie miejsca egzekucji. Na zbiorowy grób 38 pocztowców natrafili przypadkowo robotnicy prowadzący prace ziemne przy budowie garaży banku na osiedlu Zaspa (między ulicą Burzyńskiego a aleją Jana Pawła II). Ekshumowane szczątki zostały ponownie pochowane na znajdującym się w pobliżu Cmentarzu Ofiar Hitleryzmu w Gdańsku, gdzie spoczywają także pomordowani kolejarze i celnicy z Szymankowa oraz działacze polscy Wolnego Miasta Gdańska zamordowani w Wielki Piątek 22 marca 1940 w Stutthofie.",
+          "Podczas prac ekshumacyjnych, obok innych znalezisk świadczących o tym, że jest to mogiła pocztowców, znaleziono jednoznaczny dowód w postaci obrączki Franciszka Klinkosza, ekspedienta pocztowego z panieńskimi inicjałami jego żony (Praksedy Vogel) i datą ich ślubu - \"P.V. 4.4.26\".",
+          "W 1998 roku Rada Miasta Gdańska przyznała obrońcom Poczty Polskiej (łącznie 56 osobom) pośmiertnie tytuły honorowych obywateli Gdańska.",
+          "/images/gallery/tablica.jpg",
+          "Jesienią 2015 na wniosek rodzin pocztowców, usunięto pomnik odsłonięty na podwórzu Domu Kombatanta na przełomie lat 1970. i 80. - w miejscu domniemanego rozstrzelania obrońców."
         ]
       ]
     },
-    "buildings": {
-      "name": "Ważne budynki",
-      "introduction": "Placówka składała się z 5 betonowych, wzmocnionych wartowni i przystosowanych do obrony, wzmocnionych, najnowocześniejszych wówczas w Polsce koszar. W sierpniu, w obliczu mnożących się prowokacji niemieckich i wobec groźby wybuchu wojny, na terenie Westerplatte wybudowano drewniano-ziemne umocnienia polowe stanowiące zewnętrzny pas obrony. Wykonano też zaporę przeciwczołgową, rzędy zasieków oraz wycięto niektóre drzewa i krzewy dla zapewnienia lepszej widoczności i pola ostrzału. By ukryć prace przed wzrokiem niemieckich obserwatorów, prowadzono je w nocy.",
+    "monuments": {
+      "name": "Pomniki",
+      "introduction": "W celu upamiętnienia poświęcenia pocztowców zostało postawionych wiele pomników i tablic",
       "parts": [
-        "koszary",
-        "wartownie",
-        "elektrownia",
-        "magazyny amunicyjne",
-        "placówki"
+        "pomniki"
       ],
       "sections": [
         [
-          "Budynek tzw. starych koszar oryginalnie był hotelem wzniesionym w 1890 roku. Miał dwie kondygnacje z niewielką piwnicą.",
-          "Pierwszy projekt, który miał na celu przekształcenie pomieszczeń hotelu na koszary, powstał w 1924 roku.",
-          "Nowe koszary zostały wybudowane na zachód od budynku tzw. starych koszar w 1936 roku. Z czasem stary hotel przekształcono w zaplecze gospodarze oraz potencjalne miejsce zakwaterowania nadliczbowej załogi oraz sezonowych pracowników cywilnych.",
-          "/images/gallery/koszary_zewnatrz_2.jpg",
-          "Stare koszary przetrwały bitwę o Westerplatte jednak już jesienią 1939 r. został skrupulatnie rozebrany. Materiały z rozbiórki, według zachowanych relacji, miały posłużyć rozbudowującym obóz w Stutthof jako materiał budowalny.",
-          "Budynek nowych koszar wybudowany w 1934 roku w kształcie niesymetrycznej litery T. Miał jedno piętro i powierzchnię 654 m2.",
-          "Pełnił on wiele funkcji. W kondygnacji piwnicznej urządzono pomieszczenia przeznaczone na radiostację, kabinę bojowa, elektrownię i magazyn amunicji, kuchnię, stołówkę, magazyn żywności i garaż. Na parterze zlokalizowano centralę telefoniczną, pomieszczenia żołnierskie, umywalnie i centralę szefa kompanii. Na piętrze znajdowała się kancelaria komendanta Składnicy, izba chorych, pokoje oficerów i podoficerów służby czynnej.",
-          "Budynek został uszkodzony w czasie bombardowania, ale nie osłabiły jego zdolności do obrony. Obecnie widoczne zniszczenia są skutkiem celowego wysadzenia obiekty przez sowieckich saperów."
-        ],
-        [
-          "Koncepcja obrony została opracowana przez pułkownika Józefa Siłakowskiego. Rdzeniem obrony stały się koszary obronne (czasami nazywane Wartownią nr 6).",
-          "Pięć wartowni było częścią systemu obrony Wojskowej Składnicy Tranzytowej. Ustawione były w kształcie pięciokąta. Dzięki takiemu rozmieszczeniu każdy spodziewany kierunek natarcia nieprzyjaciela pokryty był ogniem broni maszynowej z co najmniej dwóch wartowni, najbardziej zaś niebezpieczny kierunek wschodni był dodatkowo wspierany ogniem z izby bojowej koszar.",
-          "Jedynie wartownia numer 1 przetrwała do dzisiaj. Funkcjonuje obecnie jako muzeum.",
-          "/images/gallery/wartownia_nr_1_budynek.jpg"
-        ],
-        [
-          "Budynek elektrowni wraz ze znajdującymi się wewnątrz stacją transformatorową i systemem pomp był przewidywany do wzniesienia już w 1924 r. Konieczność uruchomienia własnej stacji elektro-generatorów była podyktowana problemami na wypadek przerw w dostawach energii elektrycznej z Gdańska, które w tamtym czasie były codziennością.",
-          "Polska jednostka wojskowa, która miała być użytkownikiem całego terenu, wraz z magazynami, obiektami koszarowymi i innymi, nie mogła sobie pozwolić na zależność od dostaw prądu. Obiekt mieszczący generatory spalinowe miał sprostać temu zadaniu i zabezpieczać pracę poprzez dostawy prądu, zwłaszcza przy wyładunku i załadunku materiałów wojennych. Dotychczasowe połączenie kablowe dawnego kurortu na Westerplatte z siecią energetyczną miasta Gdańska nie zapewniłoby wystarczającej ilości energii. Należało położyć nowe kable po dnie kanału portowego Wisły. Dzięki temu do codziennego użytku wykorzystywano sieć miejską, a w rezerwie można było bez przeszkód uruchomić znajdujące się na miejscu generatory prądu.",
-          "Sam obiekt wzniesiono pod koniec 1926 r. Jednak przekazany budynek wymagał dalszych prac wyposażających go w specjalistyczne urządzenia, bez których nie można było z niego korzystać. Podpisany 21 grudnia 1926 r. kontrakt zamykający ten etap prac otwierał równocześnie możliwość umieszczenia w obiekcie agregatów spalinowych. Uruchomienie ich, nie bez przeszkód, nastąpiło dopiero w kwietniu 1928 r. Od tego czasu Wojskowa Składnica Towarowa miała możliwość korzystania z dostaw energii elektrycznej w sposób niezależny od gdańszczan.",
-          "Budynek ten w trakcie walk nie był wykorzystywany, ponieważ przewidując ostrzał nieprzyjaciela, w budynku nowych koszar zainstalowano osobny generator.",
-          "Elektrownia jest jedynym obiektem, który zachował się w niemal nie zmienionym stanie od 1939 roku. Po renowacji oraz adaptacji wnętrz będzie to miejsce przyszłej wystawy czasowej muzeum na Westerplatte."
-        ],
-        [
-          "/images/gallery/magazyn_amunicyjny_1.jpg",
-          "Aby przechowywać dostarczane morzem materiały niebezpieczne wybudowano w sumie 22 magazyny amunicyjne, które od strony miasta były osłonięte watami ziemnymi. W latach użytkowania Składnicy do magazynów tych prowadziły dwie równoległe bocznice kolejowe.",
-          "/images/gallery/magazyn_amunicyjny_2.jpg"
-        ],
-        [
-          "„Fort” – Utworzona w betonowym schronie z 1911 roku. Miała za zadanie odpierać natarcie ze strony plaży. Po wyczerpaniu możliwości obronnych miała za zadanie wycofać się do Wartowni nr 5. Obsada placówki odpierała ataki prowadzone wzdłuż morza i bocznicą kolejową, między magazynami.",
-          "/images/gallery/placowka_fort.jpg",
-          "„Prom” – Położona na południowym wschodzie Westerplatte placówka. Przyjęła pierwsze natarcia III Rzeszy. ",
-          "„Wał” – Najbardziej wysunięta na wschód placówka Wojskowej Składnicy Towarowej. Znajdował się na wale ziemnym otaczającym magazyn amunicyjny nr 1 i wraz z placówką „Prom” ubezpieczała linię wartowni przed niespodziewanym atakiem. Godzinę od pierwszego ataku postanowiono opuścić placówkę i wycofać się bez strat do placówki „Fort”",
-          "„Tor kolejowy“ – Utworzona przy ruinach wartowni nr 5. Do końca obrony wypełniała lukę w systemie obrony.",
-          "„Elektrownia“ – Placówka broniąca półwysep od strony basenu amunicyjnego. Wybudowana została przez  Michała Gawlickiego – zmobilizowanego pracownika cywilnego. Umiejscowiona została w połowie odległości między budynkiem elektrowni, a Wartownią nr 4",
-          "/images/gallery/elektrownia.jpg",
-          "„Łazienki“ – Składająca się z dwóch stanowisk placówka była najdalej postawioną na północ. Pierwsze stanowisko stanowił rów strzelecki na skraju lasu, a drugie było umiejscowione na wale magazynu amunicyjnego nr 19. Zamykały one kierunek od strony basenu amunicyjnego oraz plażę",
-          "„Przystań” – Placówka umiejscowiona na skraju lasku, po zachodniej stronie Westerplatte, pełniła zadanie obrony przed ewentualnym desantem jednostek niemieckich. Współdziałała ogniowo z Wartownią nr 2. Dowódcą placówki był ppor. Zdzisław Kręgielski."
+          "/images/gallery/polish_post_office_monument_2.jpg",
+          "Pomnik obrońców poczty polskiej odsłonięty w 1979 przed frontem budynku Poczty Polskiej w Gdańsku",
+          "/images/gallery/tablica.jpg",
+          "Tablica umieszczona na murze obok budynku pocztowego, gdzie początkowo zgromadzono wziętych do niewoli Pocztowców, upamiętniająca nadanie im w 1998 honorowego obywatelstwa Gdańska",
+          "/images/gallery/pomnik_pocztowców.jpg",
+          "Pomnik obok tablicy",
+          "/images/gallery/palce_1.jpg",
+          "Ten sam mur. Artysta umieścił na nim symboliczne ślady palców tam, gdzie aresztowani pocztowcy trzymali ręce",
+          "[ IMG ]",
+          "Grób pocztowców, cmentarz na Zaspie",
+          "[ IMG ]",
+          "Gdańsk-Zaspa: napis na tablicy - „W tym miejscu odnaleziono w dniu 28.08.1991 r. szczątki 38 obrońców poczty polskiej w Gdańsku, którzy zostali rozstrzelani przez hitlerowców w dniu 05.10.1939 r.”",
+          "[ IMG ]",
+          "Tablica w miejscu rozstrzelania polskich pocztowców przez Niemców w 1939 na gdańskiej Zaspie przy ul. Kombatantów 4 z napisem: „W tym miejscu, na terenie byłej strzelnicy, hitlerowscy oprawcy dokonali 5 października zbrodniczej egzekucji rozstrzelania 38 bohaterskich obrońców Poczty Polskiej. Śmiertelne szczątki Bohaterów znajdują się na terenie Cmentarza Bojowników na Zaspie”"
         ]
       ]
     },
-    "westerplatte": {
-      "name": "Tereny Westerplatte",
+    "post-office": {
+      "name": "Tereny Poczty",
       "introduction": "",
       "parts": [
         "w przeszłości",
-        "dziś i jutro"
+        "obecnie"
       ],
       "sections": [
         [
-          "Pierwotnie była to wyspa przy ujściu Martwej Wisły do Zatoki Gdańskiej. Półwysep został uformowany w latach 1845-1847.",
-          "Od 1926 roku do 1939 półwysep był eksklawą Polski wewnątrz terytorium Wolnego Miasta Gdańska. W tym okresie funkcjonowała tam Wojskowa Składnica Tranzytowa. To jej obrona stała się symbolicznym początkiem II Wojny Światowej i polskiego oporu przeciw agresji III Rzeszy.",
-          "Nazwa „Westerplatte” pochodzi z języka niemieckiego. „West” to zachodnia, a „platte” to płyta, w tym przypadku rozumiana jako wyspa. Nazwa tego półwyspu oznacza dosłownie „zachodnią wyspę”.",
-          "Na terenach Westerplatte powstała Wojskowa Składnica Towarowa, która na celu miała zabezpieczenie dostaw dla Polski przez port w Gdańsku. W 1925 roku wybudowano nowy basen portowy, tzw. basen amunicyjny, do którego doprowadzono tor kolejowy. Na nabrzeżach umieszczono sześć dźwigów oraz trzy magazyny."
+          "[ IMG ] ",
+          "Skrzynka pocztowa Poczty Polskiej w Wolnym Mieście Gdańsku",
+          "Polski Urząd Pocztowo-Telegraficzny w Gdańsku utworzono na mocy postanowień traktatu wersalskiego (paragraf 104 ust. 3) z 1919, konwencji polsko-gdańskiej z 1920 (artykuły 29–32) oraz umowy warszawskiej z 24 października 1921 (artykuły 149–168).",
+          "W 1921 utworzono Dyrekcję Poczt i Telegrafów RP w Gdańsku. Mieściła się ona przy placu Heweliusza, w gmachu dawnego pruskiego szpitala wojskowego, zbudowanego w latach 1838–1844, który po utworzeniu Wolnego Miasta Gdańska i demilitaryzacji został zamknięty.",
+          "Urząd Gdańsk 1 stał się od 1930 głównym urzędem pocztowym w Gdańsku, mieściła się w nim m.in. centrala telefoniczna z bezpośrednim połączeniem z Polską. W Gdańsku ustawionych zostało 10 skrzynek pocztowych z polskim godłem państwowym. Szacuje się, że w 1939 na Poczcie Polskiej pracowało nieco ponad 100 osób.",
+          "1 września 1939 główna placówka Poczty Polskiej w Gdańsku stała się miejscem bohaterskiej i tragicznej obrony przed atakiem niemieckich formacji policyjnych i paramilitarnych."
         ],
         [
-          "Obecnie znajduje się tam muzeum Westerplatte i Wojny 1939. Na jego terenie stoi, zbudowany w latach 1964 - 1966, 25-metrowy Pomnik Obrońców Wybrzeża. Ustawiony na 20-metrowym kopcu monument przypomina wyszczerbiony bagnet wbity w ziemię. W czasie przebudowy terenu wyburzono znaczącą część ruin koszar. W 1967 przy poszerzaniu kanału portowego przesunięto na szynach w całości Wartownię nr 1.",
-          "Od zakończenia II Wojny Światowej na terenie Westerplatte stacjonują jednostki Wojska Polskiego.",
-          "W 2019 uchwalono ustawę mającą na celu budowę do 2026 nowego Muzeum Westerplatte i Wojny 1939, które kosztem 200 mln zł ma zostać zrealizowane na powierzchni 27,5 tys. m kw. Projekt przewiduje odbudowę siedmiu budowli wojskowej składnicy tranzytowej oraz utworzenie wystawy stałej o powierzchni 3,5 tys. m kw.",
-          "W 2020 roku ogłoszono konkurs na koncepcję Cmentarza Wojskowego Żołnierzy Wojska Polskiego na Westerplatte."
+          "/images/gallery/polish_zsl_school_1.jpg",
+          "Obecnie mieści się tam Urząd Pocztowy \"Gdańsk 1\" oraz Muzeum Poczty Polskiej w Gdańsku. Pozostałą część budynku zajmują sale lekcyjne Zespołu Szkół Łączności i bursa szkolna.",
+          "/images/gallery/polish_zsl_school_side_1.jpg",
+          "W 1979 przed budynkiem urzędu pocztowego ustawiono pomnik Obrońców Poczty Polskiej w Gdańsku.",
+          "/images/gallery/polish_post_office_monument_3.jpg"
+        ]
+      ]
+    },
+    "defenders": {
+      "name": "Obrońcy oraz towarzyszące im osoby cywilne",
+      "introduction": "",
+      "parts": [
+        "zabici w czasie walk",
+        "zmarli w szpitalu miejskim",
+        "rozstrzelani na Zaspie",
+        "zamęczeni w obozach koncetracyjnych",
+        "zdołali przeżyć"
+      ],
+      "sections": [
+        [
+          "1 września 1939",
+          "Konrad Guderski ur. 19 lutego 1900 – ppor., inż., dowódca obrony",
+          "Brunon Marszałkowski ur. 1 stycznia 1904 – ekspedient – KS Virtuti Militari nr 13755",
+          "Jan Michoń ur. 1 czerwca 1888 – dr, p.o. dyrektora Poczty Polskiej – KS Virtuti Militari nr 13757",
+          "Stanisław Rekowski ur. 17 września 1900 – ekspedient",
+          "Bronisław Suchcitz",
+          "Józef Wąsik ur. 8 lipca 1904 – naczelnik UPT – KS Virtuti Militari nr 13803",
+          "nierozpoznane ciało",
+          "nierozpoznane ciało"
+        ],
+        [
+          "Erwina Barzychowska ur. 16 października 1929, zm. 20 października 1939 – wychowanica dozorcy, zmarła na skutek oparzeń",
+          "Bernard Binnebesel ur. 20 maja 1893, zm. 4 września 1939 – asystent, przyczyna śmierci postrzał w brzuch oraz uszkodzenie czaszki",
+          "Stefan Cywiński ur. 29 maja 1907, zm. 2 września 1939 – asystent, przyczyna śmierci oparzenia 2 i 3 stopnia",
+          "Alojzy Franz ur. 17 lutego 1905, zm. 5 września 1939 – asystent, przyczyna śmierci oparzenia 2 i 3 stopnia",
+          "Józef Mitkowski ur. 15 czerwca 1885, zm. 31 października 1939 – kontroler, przyczyna śmierci oparzenia 2 i 3 stopnia – KS Virtuti Militari nr 13760",
+          "Jan Pipka ur. 20 lipca 1872, zm. 2 września 1939 – dozorca domu, przyczyna śmierci oparzenia 2 i 3 stopnia – KS Virtuti Militari nr 13770"
+        ],
+        [
+          "prawdopodobnie 5 października 1939",
+          "Jan Banaszkowski ur. 17 października 1904 – pocztylion, delegowany",
+          "Władysław Bazgier ur. 22 kwietnia 1911 – st. asystent, delegowany",
+          "Stefan Bączkowski ur. 4 stycznia 1906 – pocztylion, delegowany",
+          "Heliodor Becker ur. 3 lipca 1904 – asystent",
+          "Alojzy Bela ur. 9 czerwca 1899 – pocztylion",
+          "Andrzej Binkowski ur. 11 listopada 1902 – pocztylion, delegowany",
+          "Florian Budziak ur. 1 października 1911 – pocztylion, delegowany",
+          "Maksymilian Cygalski ur. 17 września 1900 – st. asystent",
+          "Jan Ellwardt ur. 3 listopada 1905 – ekspedient",
+          "Alfons Flisykowski ur. 22 września 1902 – dowódca obrony, podreferendarz",
+          "Kazimierz Gdaniec ur. 17 stycznia 1907 – kierowca",
+          "Konrad Grotha ur. 26 lipca 1906 – pocztylion",
+          "Jan Klimek ur. 20 września 1889 – st. ekspedient",
+          "Franciszek Klinkosz ur. 22 grudnia 1899 – ekspedient",
+          "Władysław Koprowiak ur. 21 maja 1897 – st. asystent, delegowany – KS Virtuti Militari nr 13737",
+          "Franciszek Krause ur. 13 sierpnia 1900 – pocztylion – KS Virtuti Militari nr 13741",
+          "Franciszek Kuntz ur. 24 czerwca 1907 – pocztylion",
+          "Władysław Kupka ur. 30 września 1914 - ekspedient",
+          "Wojciech Kurkowski ur. 24 kwietnia 1893 – ekspedient",
+          "Augustyn Lis ur. 27 listopada 1900 – st. pocztylion – KS Virtuti Militari nr 13748",
+          "Franciszek Magulski ur. 2 września 1904 – st. ekspedient – KS Virtuti Militari nr 13752",
+          "Bernard Majewski ur. 7 grudnia 1900 – st. pocztylion – KS Virtuti Militari nr 13753",
+          "Franciszek Mionskowski ur. 13 września 1897 – st. pocztylion – KS Virtuti Militari nr 13759",
+          "Jan Nowak ur. 4 lutego 1890 – kierownik oddziału – KS Virtuti Militari nr 13764",
+          "Stefan Nowakowski ur. 21 sierpnia 1901 – ekspedient – KS Virtuti Militari nr 13765",
+          "Kazimierz Orzechowski ur. 23 listopada 1915 – asystent – KS Virtuti Militari nr 13769",
+          "Brunon Piełowski ur. 29 sierpnia 1902 – kierowca – KS Virtuti Militari nr 13769",
+          "Sylwester Płoszyński ur. 7 grudnia 1906 – pocztylion, delegowany – KS Virtuti Militari nr 13772",
+          "Ignacy Połom ur. 6 lipca 1898 – st. ekspedient – KS Virtuti Militari nr 13773",
+          "Aleksander Racki ur. 14 października 1903 – ekspedient – KS Virtuti Militari nr 13777",
+          "Franciszek Rąbca ur. 4 stycznia 1904 – ekspedient – KS Virtuti Militari nr 13776",
+          "Kazimierz Rogaczewski ur. 25 marca 1903 – ekspedient – KS Virtuti Militari nr 13780",
+          "Józef Rzepka ur. 25 listopada 1899 – st. ekspedient – KS Virtuti Militari nr 13784",
+          "Leon Schreiber ur. 5 września 1912 – mł. pocztylion, delegowany – KS Virtuti Militari nr 13786",
+          "Ignacy Sikorski ur. 23 października 1895 – kierownik referatu – KS Virtuti Militari nr 13787",
+          "Józef Strzelecki ur. 15 marca 1887 – st. ekspedient – KS Virtuti Militari nr 13795",
+          "Leonard Wiśniewski ur. 2 stycznia 1904 – ekspedient – KS Virtuti Militari nr 13805",
+          "Piotr Teshmer ur. 16 listopada 1894 – kancelista I klasy PKP – KS Virtuti Militari nr 13798"
+        ],
+        [
+          "Leon Fuz ur. 21 lutego 1895, zm. grudzień 1939 w Piaśnicy - st. technik,",
+          "Alfons Papka ur. 1 grudnia 1906, zm. 22 marca 1940 w obozie w Stutthofie - st. asystent",
+          "Brunon Dobrzychowski ur. 4 maja 1908 - pocztylion"
+        ],
+        [
+          "Andrzej Górski ur. 21 lipca 1910 – asystent",
+          "Franciszek Mielewczyk ur. 2 grudnia 1910 – kierowca",
+          "Władysław Milewczyk ur. 2 maja 1901 – kierowca",
+          "Augustyn Młyński ur. 25 listopada 1905 – st. pocztylion",
+          "Małgorzata Pipka – dozorczyni, wyszła z poddającymi się, została aresztowana i do 1943 była więziona w różnych więzieniach i obozach Gdańska, zmarła w 1963 r."
         ]
       ]
     }

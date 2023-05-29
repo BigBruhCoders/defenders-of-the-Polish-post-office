@@ -49,23 +49,6 @@ export const MainBox = styled.div`
     border-left: var(--main-color) solid .75rem;
     border-right: var(--main-color) solid .75rem;
   }
-  
-   //@media (max-width: 1500px) {
-   //  margin-left: 15rem;
-   //  margin-right: 15rem;
-   //}
-   //
-   //@media (max-width: 800px) {
-   //  margin-left: 2rem;
-   //  margin-right: 2rem;
-   //  margin-bottom: 1rem;
-   //}
-   //
-   //@media (max-width: 500px) {
-   //  margin-left: .5rem;
-   //  margin-right: .5rem;
-   //  padding: 1rem 2rem;
-   //}
 `;
 
 export const SectionTitle = styled.p`

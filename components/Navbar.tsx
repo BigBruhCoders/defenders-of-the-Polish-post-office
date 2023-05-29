@@ -40,8 +40,8 @@ export const NavbarComponent = ({themeChange}: NavbarComponentType) => {
             getCookie("NEXT_THEME") === "dark" ? themeChange("light") : themeChange("dark")
         }}>
             <NavbarIconBox>
-                <span><Image src={sun} alt={t("changeTheme")} fill/></span>
-                <span><Image src={moon} alt={t("changeTheme")} fill/></span>
+                <Image src={sun} alt={t("changeTheme")} fill/>
+                <Image src={moon} alt={t("changeTheme")} fill/>
             </NavbarIconBox>
         </NavbarThemeButton>
         <NavbarLangButton onClick={() => {

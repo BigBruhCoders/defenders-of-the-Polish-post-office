@@ -16,7 +16,7 @@ module.exports = nextTranslate({
     return [
       {
         source: "/learn",
-        destination: "/learn/post-office",
+        destination: "/learn/war",
         permanent: false,
       },
     ]
