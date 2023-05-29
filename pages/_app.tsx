@@ -8,16 +8,17 @@ import {Theme, ThemeName} from "../types";
 import {NavbarComponent} from "../components/Navbar";
 import {Footer, Flexbox, FlexGrow} from "../styles/Global";
 import useTranslation from "next-translate/useTranslation";
-// import Notification from "../old_components/Notification/Notification";
-//
+import {Notification} from "../components/Notification";
 import {AppProps} from "next/app";
 
 const GlobalStyles = createGlobalStyle`
   html, body {
-    background-image: ${(props: { theme: Theme }) => `linear-gradient(to bottom, ${props.theme.globalBackgroundColor}, ${props.theme.globalBackgroundColor2})`};
+    background-image: ${(props: {
+      theme: Theme
+    }) => `linear-gradient(to bottom, ${props.theme.globalBackgroundColor}, ${props.theme.globalBackgroundColor2})`};
     //background: var(--global-background-color);
   }
-  
+
   // load styles as css variables for ease of use
   * {
     --global-background-color: ${(props: { theme: Theme }) => props.theme.globalBackgroundColor};
@@ -60,8 +61,8 @@ const App = ({Component, pageProps}: AppProps) => {
             <Component {...pageProps} />
             <FlexGrow/>
             <Footer><p>{t("common:project")}</p></Footer>
+            <Notification/>
         </Flexbox>
-        {/*<Notification/>*/}
     </ThemeProvider>
 }
 
