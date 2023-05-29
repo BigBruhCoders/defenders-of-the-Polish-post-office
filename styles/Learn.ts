@@ -12,14 +12,12 @@ export const MainBox = styled.main<{$bigSection: boolean}>`
   @media (max-width: 1000px) {
     grid-template-columns: 1fr 1fr;
     grid-template-areas: ${props => props.$bigSection ? '"topics sections" "content content"' : '"topics topics" "content content"'};
-    //grid-template-areas: "topics sections" "content content";
     align-items: initial;
   }
 
   @media (max-width: 500px) {
     grid-template-columns: auto;
     grid-template-areas: ${props => props.$bigSection ? '"topics" "sections" "content"' : '"topics" "content"'};
-    //grid-template-areas: "topics" "sections" "content";
   }
 `;
 

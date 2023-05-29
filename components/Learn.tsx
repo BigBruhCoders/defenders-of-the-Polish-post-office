@@ -18,7 +18,7 @@ import {
     ContentImage
 } from "../styles/Learn";
 import Link from "next/link";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import {LearnPageData} from "../types";
 import SelectPicture from "./SelectPicture";
 import {useState} from "react";
@@ -58,7 +58,7 @@ export const LearnComponent = () => {
                     {content.parts[i].toUpperCase()}
                 </ContentSectionTitle>
                 {sections.map((section, j) => section.startsWith("/images/") ?
-                    <ContentImage key={`content.${i}.${j}`}><Image src={section} alt={section} fill onClick={() => setSelect(section)}/></ContentImage> :
+                    <ContentImage key={`content.${i}.${j}`}><Image src={section} alt={section} layout="fill" placeholder="blur" blurDataURL={section} onClick={() => setSelect(section)}/></ContentImage> :
                     <ContentSectionData key={`content.${i}.${j}`}>{section}</ContentSectionData>)}
             </ContentSectionBox>)}
         </ContentBox>
