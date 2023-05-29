@@ -15,7 +15,7 @@ import {Question} from "../types";
 export const QuizComponent = () => {
     const {t} = useTranslation("quiz");
     const [allQuestions, _setAllQuestions] = useState<Question[]>(t("questions", {count: 0}, {returnObjects: true}));
-    const [questions, setQuestions] = useState<Question[]>([]);
+    const [questions, setQuestions] = useState<Question[]>(allQuestions);
     const [question, setQuestion] = useState<Question | null>(null);
     const [points, setPoints] = useState(0);
 
