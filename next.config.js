@@ -6,9 +6,7 @@ module.exports = nextTranslate({
   swcMinify: true,
   compiler: {
     styledComponents: {
-      displayName: true,
       ssr: true,
-      fileName: true,
       cssProp: true,
     },
   },
