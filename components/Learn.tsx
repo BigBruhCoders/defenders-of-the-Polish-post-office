@@ -15,7 +15,7 @@ import {
     ContentSectionTitle,
     ContentSectionData,
     ContentSectionBox,
-    ContentImage
+    ContentImage, ContentImageUnderText
 } from "../styles/Learn";
 import Link from "next/link";
 import Image from "next/legacy/image";
@@ -59,7 +59,9 @@ export const LearnComponent = () => {
                 </ContentSectionTitle>
                 {sections.map((section, j) => section.startsWith("/images/") ?
                     <ContentImage key={`content.${i}.${j}`}><Image src={section} alt={section} layout="fill" placeholder="blur" blurDataURL={section} onClick={() => setSelect(section)}/></ContentImage> :
-                    <ContentSectionData key={`content.${i}.${j}`}>{section}</ContentSectionData>)}
+                    section.startsWith("http") ?
+                        <ContentImageUnderText key={`content.${i}.${j}`}><a href={section} target="_blank" rel="noreferrer">{section}</a></ContentImageUnderText> :
+                        <ContentSectionData key={`content.${i}.${j}`}>{section}</ContentSectionData>)}
             </ContentSectionBox>)}
         </ContentBox>
         {content.parts.length > 1 ? <SectionsBox>

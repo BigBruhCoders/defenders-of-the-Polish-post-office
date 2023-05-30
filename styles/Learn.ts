@@ -208,6 +208,21 @@ export const ContentImage = styled.div`
   }
 `;
 
+export const ContentImageUnderText = styled.p`
+  margin-left: 5rem;
+  a {
+    color: ${props => props.theme.type === "light" ? "" : "royalblue"};
+
+    :is(:hover, :focus-visible) {
+      text-decoration: underline;
+    }
+
+    :focus-visible {
+      outline: 2px solid royalblue;
+    }
+  }
+`;
+
 export const ContentSectionData = styled.p`
   margin: .5rem 0 .5rem .5rem;
   text-indent: 1rem;
