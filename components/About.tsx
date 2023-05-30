@@ -14,6 +14,7 @@ import {
 import useTranslation from "next-translate/useTranslation";
 import Link from "next/link";
 import Image from "next/image";
+import {Component} from "react";
 
 export const AboutComponent = () => {
     const {t, lang} = useTranslation("about");
@@ -44,6 +45,8 @@ export const AboutComponent = () => {
         "https://pl.wikipedia.org/wiki/Poczta_Polska_w_Wolnym_Mieście_Gdańsku",
         "https://web.archive.org/web/20100103231436/http://mhmg.pl/index.php?view=artykul,32&oddzial=6"
     ]
+    let about = t("about").split("#LINK#");
+    let aboutString: JSX.Element = <>{about[0]}<a href="https://www.DeepL.com/Translator" target="_blank" rel="noreferrer">https://www.DeepL.com/Translator</a>{about[1]} </>;
 
     return <MainBox>
         <SectionTitle>{t("authors")}</SectionTitle>
@@ -58,8 +61,9 @@ export const AboutComponent = () => {
             </CreatorBox>)}
         </CreatorFlex>
         <SectionTitle>{t("aboutProject")}</SectionTitle>
-        <AboutProject>{t("about")} <a
-            href="https://github.com/BigBruhCoders/defenders-of-the-Polish-post-office" target="_blank" rel="noreferrer">https://github.com/BigBruhCoders/defenders-of-the-Polish-post-office</a></AboutProject>
+        <AboutProject>{aboutString}
+            <a href="https://github.com/BigBruhCoders/defenders-of-the-Polish-post-office" target="_blank"
+               rel="noreferrer">https://github.com/BigBruhCoders/defenders-of-the-Polish-post-office</a></AboutProject>
         <div>
             <SectionTitle>{t("sources")}</SectionTitle>
             <Sources>
