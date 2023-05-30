@@ -59,10 +59,151 @@
       ]
     },
     {
-      "question": "Czy w 2022 Poczta Polska w Gdańsku funkcjonowała jako poczta polska?",
+      "question": "Czy w 2022 oddział 'Gdańsk 1' Poczty Polskiej w Gdańsku funkcjonowała jako poczta polska?",
       "good": "tak",
       "wrong": [
         "nie"
+      ]
+    },
+    {
+      "question":"O której godzinie rozpoczął się pierwszy atak na gmach poczty?",
+      "good":"4:45",
+      "wrong": [
+        "4:00",
+        "5:30",
+        "11:25",
+        "3:45"
+      ]
+    },
+    {
+      "question":"Który z podanych oddziałów i pododdziałów niemieckich NIE wziął udziału w ataku na pocztę?",
+      "good":"Dywizja Pancerna Holstein",
+      "wrong": [
+        "Policja porządkowa (Schutzpolizei)",
+        "SS Wachsturmbann \"E\"",
+        "SS-Heimwehr Danzig"
+      ]
+    },
+    {
+      "question":"Jak długo miała utrzymać się obrona poczty polskiej",
+      "good":"około 6 godzin",
+      "wrong": [
+        "około 5 godzin",
+        "4 godziny i 30 minut"
+        "około 8 godzin"
+      ]
+    },
+    {
+      "question":"Co zakładał plan ataku niemców na pocztę?",
+      "good":"Przebicie otworu w ścianie od strony Krajowego Urzędu Pracy",
+      "wrong": [
+        "Przebicie otworu w ścianie od boku budynku",
+        "Wejście do budynku przez okna",
+        "Zrobienie otworu w dachu"
+      ]
+    },
+    {
+      "question":"Kiedy utworzono Dyrekcję Poczt i Telegrafów Rzeczpostpolitej Polskiej",
+      "good":"W 1921",
+      "wrong": [
+        "W 1919",
+        "W 1930",
+        "W 1939"
+      ]
+    },
+    {
+      "question":"Gdzie mieściła się Dyrekcja Poczt i Telegrafów w Gdańsku",
+      "good":"Przy placu Heweliusza, w gmachu dawnego dawnego pruskiego szpitala wojskowego",
+      "wrong": [
+        "Przy targu rybnym, w gmachu byłej niemieckiej szkoły",
+        "Przy ulicy Podwale Staromiejskie",
+        "Przy ulicy Podwale Przedmiejskie"
+      ]
+    },
+    {
+      "question":"Ile skrzynek pocztowych z Polskim godłem pocztowym",
+      "good":"10",
+      "wrong": [
+        "5",
+        "15",
+        "20"
+      ]
+    },
+    {
+      "question":"Co znajduje się obecnie w budynku urzędu pocztowego \"Gdańsk 1\"",
+      "good":"Muzeum Poczty Polskiej",
+      "wrong": [
+        "Muzeum Deutche Post",
+        "Muzeum II Wojny Światowej",
+        "Muzeum Poczt i Telegrafów",
+        "Hewelianum"
+      ]
+    },
+    {
+      "question":"Kiedy postawiono pomnik obrońców poczty polskiej",
+      "good":"W 1979",
+      "wrong": [
+        "W 1989",
+        "W 1945",
+        "W 1939"
+      ]
+    },
+    {
+      "question":"Gdzie umieszczono rannych i poparzonych pocztowców?",
+      "good":"W szpitalu miejskim",
+      "wrong": [
+        "W gmachu prezydium policji",
+        "W obozach koncentracyjnych"
+      ]
+    },
+    {
+      "question":"Dlaczego pocztowcy zostali skazani na śmierć?",
+      "good":"Za partyzantkę",
+      "wrong": [
+        "Za ucieczkę",
+        "Za dezercję"
+      ]
+    },
+    {
+      "question":"Jaki był skutek rewizji procesu pocztowców w 1995?",
+      "good":"Uniewinnienie",
+      "wrong": [
+        "Przedłużenie kary",
+        "Rozstrzelanie"
+      ]
+    },
+    {
+      "question":"Jaki traktat powołał do życia Wolne Miato Gdańsk?",
+      "good":"Traktat wersalski",
+      "wrong": [
+        "Traktat paryski",
+        "Traktat wiedeński",
+        "Traktat warszawski"
+      ]
+    },
+    {
+      "question":"Jaki był status trzech polskich urzęów pocztowych na terenie Wolnego Miasta Gdańska?",
+      "good":"Esterytorialność",
+      "wrong": [
+        "Samorządność",
+        "Suwerenność",
+        "Indywidualność"
+      ]
+    },
+    {
+      "question":"Jaki był główny urząd pocztowy w Wolnym Mieście Gdańsku",
+      "good":"Gdańsk 1",
+      "wrong": [
+        "Gdańsk 2",
+        "Gdańsk 3"
+      ]
+    },
+    {
+      "question":"Kto przejął dowódctwo nad obroną gmachu poczty polskiej w 1939?",
+      "good":"Konrad Guderski",
+      "wrong": [
+        "Alfons Flisykowski",
+        "Adolf Hitler"
       ]
     }
   ]
