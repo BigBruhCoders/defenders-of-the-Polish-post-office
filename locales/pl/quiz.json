@@ -33,14 +33,6 @@
       ]
     },
     {
-      "question": "Gdzie pocztowcy zostali brutalnie rozstrzelani?",
-      "good": "Przy murze",
-      "wrong": [
-        "W środku budynku poczty",
-        "Przy pomniku"
-      ]
-    },
-    {
       "question": "Ile osób pracowało na poczcie?",
       "good": "Ponad 100",
       "wrong": [
@@ -85,7 +77,7 @@
       ]
     },
     {
-      "question":"Jak długo miała utrzymać się obrona poczty polskiej",
+      "question":"Jak długo miała utrzymać się obrona poczty polskiej?",
       "good":"około 6 godzin",
       "wrong": [
         "około 5 godzin",
@@ -103,7 +95,7 @@
       ]
     },
     {
-      "question":"Kiedy utworzono Dyrekcję Poczt i Telegrafów Rzeczpostpolitej Polskiej",
+      "question":"Kiedy utworzono Dyrekcję Poczt i Telegrafów Rzeczpostpolitej Polskiej?",
       "good":"W 1921",
       "wrong": [
         "W 1919",
@@ -112,7 +104,7 @@
       ]
     },
     {
-      "question":"Gdzie mieściła się Dyrekcja Poczt i Telegrafów w Gdańsku",
+      "question":"Gdzie mieściła się Dyrekcja Poczt i Telegrafów w Gdańsku?",
       "good":"Przy placu Heweliusza, w gmachu dawnego dawnego pruskiego szpitala wojskowego",
       "wrong": [
         "Przy targu rybnym, w gmachu byłej niemieckiej szkoły",
@@ -121,7 +113,7 @@
       ]
     },
     {
-      "question":"Ile skrzynek pocztowych z Polskim godłem pocztowym",
+      "question":"Ile skrzynek pocztowych z Polskim godłem państwowym ustawiono w Gdańsku w 1930?",
       "good":"10",
       "wrong": [
         "5",
@@ -130,7 +122,7 @@
       ]
     },
     {
-      "question":"Co znajduje się obecnie w budynku urzędu pocztowego \"Gdańsk 1\"",
+      "question":"Co znajduje się obecnie w budynku urzędu pocztowego \"Gdańsk 1\"?",
       "good":"Muzeum Poczty Polskiej",
       "wrong": [
         "Muzeum Deutche Post",
@@ -140,7 +132,7 @@
       ]
     },
     {
-      "question":"Kiedy postawiono pomnik obrońców poczty polskiej",
+      "question":"Kiedy postawiono pomnik obrońców poczty polskiej?",
       "good":"W 1979",
       "wrong": [
         "W 1989",
@@ -191,7 +183,7 @@
       ]
     },
     {
-      "question":"Jaki był główny urząd pocztowy w Wolnym Mieście Gdańsku",
+      "question":"Jaki był główny urząd pocztowy w Wolnym Mieście Gdańsku?",
       "good":"Gdańsk 1",
       "wrong": [
         "Gdańsk 2",
