@@ -5,173 +5,197 @@
   "yourScore": "Twój wynik:",
   "questions": [
     {
-      "question": "Kiedy rozpoczął się atak na Westerplatte?",
-      "good": "1 września 1939 4:45",
+      "question": "Jak się nazywa szkoła, która jest częścią budynku Poczty Polskiej?",
+      "good": "Zespół Szkół Łączności",
       "wrong": [
-        "1 września 1939 4:55",
-        "1 września 1938 3:45",
-        "1 września 1939 6:56"
+        "Zespół Szkół Elektronicznych",
+        "Technikum nr 16",
+        "Zespół Szkół Rzemieślniczych",
+        "Technikum nr 2"
       ]
     },
     {
-      "question": "Jak nazywał sie statek, który zaatakował Westerplatte?",
-      "good": "Schleswig-Holstein",
+      "question": "Ilu pocztowcom udało się uciec?",
+      "good": "6",
       "wrong": [
-        "Schleswig",
-        "Shleswik-Holstin",
-        "Schleswig-Hamburg"
+        "12",
+        "16",
+        "5",
+        "2"
       ]
     },
     {
-      "question": "Kiedy, pierwotnie, miał zostać wykonany atak na Westerplatte?",
-      "good": "26 sierpnia",
+      "question": "Gdzie pocztowcy zostali brutalnie rozstrzelani?",
+      "good": "Przy murze",
       "wrong": [
-        "1 września",
-        "30 sierpnia",
-        "24 sierpnia"
+        "W środku budynku poczty",
+        "Przy pomniku"
       ]
     },
     {
-      "question": "Jaka część załogi stacjonowała na pozycjach w momencie wybuchu II Wojny Światowej?",
-      "good": "1/3",
+      "question": "Ile osób pracowało na poczcie?",
+      "good": "Ponad 100",
       "wrong": [
-        "1/4",
-        "1/2",
-        "3/4"
+        "Dokładnie 100",
+        "Mniej niż 100"
       ]
     },
     {
-      "question": "Jaka placówka została zaatakowana jako pierwsza?",
-      "good": "Prom",
+      "question": "W którym roku Rada Miasta Gdańska przyznała obrońcom Poczty Polskiej tytuły honorowych obywateli Gdańska?",
+      "good": "1998",
       "wrong": [
-        "Fort",
-        "Elektrownia",
-        "Tor"
+        "1989",
+        "2000",
+        "2004",
+        "1999"
       ]
     },
     {
-      "question": "Ile dni trwała obrona Westerplatte?",
-      "good": "7 dni",
+      "question": "Czy w 2022 oddział 'Gdańsk 1' Poczty Polskiej w Gdańsku funkcjonowała jako poczta polska?",
+      "good": "tak",
       "wrong": [
-        "12 godzin",
-        "10 dni",
-        "2 dni"
+        "nie"
       ]
     },
     {
-      "question": "Na co pozwolił niemiecki generał Friedrich Ebenhardt majorowi Sucharskiemu po kapitulacji?",
-      "good": "Zachować szablę oficerską",
+      "question":"O której godzinie rozpoczął się pierwszy atak na gmach poczty?",
+      "good":"4:45",
       "wrong": [
-        "Wykonać ostatnią przemowę przed swoim oddziałem",
-        "Wystrzelić ostatnią kulę ze swojej broni",
-        "Na nic mu nie pozwolił. Zabrał go do niewoli"
+        "4:00",
+        "5:30",
+        "11:25",
+        "3:45"
       ]
     },
     {
-      "question": "Były dwa budynki koszar. Jak się nazywały?",
-      "good": "Stare i nowe",
+      "question":"Który z podanych oddziałów i pododdziałów niemieckich NIE wziął udziału w ataku na pocztę?",
+      "good":"Dywizja Pancerna Holstein",
       "wrong": [
-        "Pierwsze i Drugie",
-        "Północne i Południowe",
-        "Piaskowe i Kamienne"
+        "Policja porządkowa (Schutzpolizei)",
+        "SS Wachsturmbann \"E\"",
+        "SS-Heimwehr Danzig"
       ]
     },
     {
-      "question": "Czym pierwotnie było Westerplatte?",
-      "good": "Wyspą",
+      "question":"Jak długo miała utrzymać się obrona poczty polskiej?",
+      "good":"około 6 godzin",
       "wrong": [
-        "Półwyspem",
-        "Morzem/Zatoką"
+        "około 5 godzin",
+        "4 godziny i 30 minut"
+        "około 8 godzin"
       ]
     },
     {
-      "question": "Jak wysoki jest pomnik Obrońców Wybrzeża?",
-      "good": "25 metrów",
+      "question":"Co zakładał plan ataku niemców na pocztę?",
+      "good":"Przebicie otworu w ścianie od strony Krajowego Urzędu Pracy",
       "wrong": [
-        "20 metrów",
-        "15 metrów",
-        "30 metrów"
+        "Przebicie otworu w ścianie od boku budynku",
+        "Wejście do budynku przez okna",
+        "Zrobienie otworu w dachu"
       ]
     },
     {
-      "question": "Z jakiej pozycji atakował niemiecki statek na początku II Wojny Światowej?",
-      "good": "Od południa. Z tzw. Zakrętu Pięciu Gwizdków na Martwej Wiśle",
+      "question":"Kiedy utworzono Dyrekcję Poczt i Telegrafów Rzeczpostpolitej Polskiej?",
+      "good":"W 1921",
       "wrong": [
-        "Od Wschodu. Z Zatoki Gdańkiej",
-        "Od Zachodu. Z ujścia Martwej Wisły",
-        "Od Północy. Z Zatoki Gdańskiej"
+        "W 1919",
+        "W 1930",
+        "W 1939"
       ]
     },
     {
-      "question": "W czasie obrony Westerplatte doszło do nalotu. Które budynki zostały uszkodzone?",
-      "good": "Koszary i Wartownia nr 5",
+      "question":"Gdzie mieściła się Dyrekcja Poczt i Telegrafów w Gdańsku?",
+      "good":"Przy placu Heweliusza, w gmachu dawnego dawnego pruskiego szpitala wojskowego",
       "wrong": [
-        "Elektrownia i Placówka Fort",
-        "Placówka Tor i Koszary",
-        "Wartonia nr 5 i Placówka Tor"
+        "Przy targu rybnym, w gmachu byłej niemieckiej szkoły",
+        "Przy ulicy Podwale Staromiejskie",
+        "Przy ulicy Podwale Przedmiejskie"
       ]
     },
     {
-      "question": "Kto był dowódcą garnizonu na Westerplatte?",
-      "good": "mjr Henryk Sucharski",
+      "question":"Ile skrzynek pocztowych z Polskim godłem państwowym ustawiono w Gdańsku w 1930?",
+      "good":"10",
       "wrong": [
-        "kpt Franciszek Dąbrowski",
-        "por Leon Pająk",
-        "st sierż Wojciech Najsarek"
-      ]
-    },
-    {
-      "question": "Jakie statki (oprócz Schleswig-Holstein) uczestniczyły w ataku na Westerplatte?",
-      "good": "Torpedowce",
-      "wrong": [
-        "Krążowniki",
-        "Niszczyciele",
-        "Żadne z podanych"
-      ]
-    },
-    {
-      "question": "Jak naprawdę rozpoczęła się II Wojna Światowa?",
-      "good": "Atakiem w kilku punktach granicznych",
-      "wrong": [
-        "Atakiem na Westerplatte",
-        "Atakiem na Hel",
-        "Atakiem na południe z terenów Prus Wschodnich"
-      ]
-    },
-    {
-      "question": "Ile żołnierzy pierwotnie stacjonowało w Wojskowej Składnicy Towarowej?",
-      "good": "88",
-      "wrong": [
-        "66",
-        "102",
+        "5",
+        "15",
         "20"
       ]
     },
     {
-      "question": "Jaka była liczebność załogi Westerplatte w momencie wybuchu wojny?",
-      "good": "~200",
+      "question":"Co znajduje się obecnie w budynku urzędu pocztowego \"Gdańsk 1\"?",
+      "good":"Muzeum Poczty Polskiej",
       "wrong": [
-        "~300",
-        "~100",
-        "~400"
+        "Muzeum Deutche Post",
+        "Muzeum II Wojny Światowej",
+        "Muzeum Poczt i Telegrafów",
+        "Hewelianum"
       ]
     },
     {
-      "question": "Jak nazywa się dzielnica Gdańska, w której obecnie znajduje się Westerplatte?",
-      "good": "Przeróbka",
+      "question":"Kiedy postawiono pomnik obrońców poczty polskiej?",
+      "good":"W 1979",
       "wrong": [
-        "Nowy Port",
-        "Port Północny",
-        "Stogi"
+        "W 1989",
+        "W 1945",
+        "W 1939"
       ]
     },
     {
-      "question": "Ile magazynów amunicyjnych zostało wybudowanych na Westerplatte?",
-      "good": "22",
+      "question":"Gdzie umieszczono rannych i poparzonych pocztowców?",
+      "good":"W szpitalu miejskim",
       "wrong": [
-        "24",
-        "19",
-        "26"
+        "W gmachu prezydium policji",
+        "W obozach koncentracyjnych"
+      ]
+    },
+    {
+      "question":"Dlaczego pocztowcy zostali skazani na śmierć?",
+      "good":"Za partyzantkę",
+      "wrong": [
+        "Za ucieczkę",
+        "Za dezercję"
+      ]
+    },
+    {
+      "question":"Jaki był skutek rewizji procesu pocztowców w 1995?",
+      "good":"Uniewinnienie",
+      "wrong": [
+        "Przedłużenie kary",
+        "Rozstrzelanie"
+      ]
+    },
+    {
+      "question":"Jaki traktat powołał do życia Wolne Miato Gdańsk?",
+      "good":"Traktat wersalski",
+      "wrong": [
+        "Traktat paryski",
+        "Traktat wiedeński",
+        "Traktat warszawski"
+      ]
+    },
+    {
+      "question":"Jaki był status trzech polskich urzęów pocztowych na terenie Wolnego Miasta Gdańska?",
+      "good":"Esterytorialność",
+      "wrong": [
+        "Samorządność",
+        "Suwerenność",
+        "Indywidualność"
+      ]
+    },
+    {
+      "question":"Jaki był główny urząd pocztowy w Wolnym Mieście Gdańsku?",
+      "good":"Gdańsk 1",
+      "wrong": [
+        "Gdańsk 2",
+        "Gdańsk 3"
+      ]
+    },
+    {
+      "question":"Kto przejął dowódctwo nad obroną gmachu poczty polskiej w 1939?",
+      "good":"Konrad Guderski",
+      "wrong": [
+        "Alfons Flisykowski",
+        "Adolf Hitler"
       ]
     }
   ]

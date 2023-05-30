@@ -5,173 +5,197 @@
   "yourScore": "Your score:",
   "questions": [
     {
-      "question": "When did the attack on Westerplatte begin?",
-      "good": "September 1, 1939 4:45",
+      "question":"What is the name of the school that is part of the Post Office building?",
+      "good":"Zespół Szkół Łączności",
       "wrong": [
-        "September 1, 1939 4:55",
-        "September 1, 1938 3:45",
-        "September 1, 1939 6:56"
+        "Zespół Szkół Elektronicznych",
+        "Technikum nr 16",
+        "Zespół Szkół Rzemieślniczych",
+        "Technikum nr 2"
+      ]
+    }
+    {
+      "question":"How many postal workers managed to escape?",
+      "good":"6",
+      "wrong": [
+        "12",
+        "16",
+        "5",
+        "2"
       ]
     },
     {
-      "question": "What was the name of the ship that attacked Westerplatte?",
-      "good": "Schleswig-Holstein",
+      "question":"Where postal workers were brutally executed?",
+      "good":"By the wall",
       "wrong": [
-        "Schleswig",
-        "Shleswik-Holstin",
-        "Schleswig-Hamburg"
+        "Inside the post office building",
+        "By the monument"
       ]
     },
     {
-      "question": "When was the attack on Westerplatte supposed to be made originally?",
-      "good": "August 26th",
+      "question":"How many people worked at the post office?",
+      "good":"Over 100",
       "wrong": [
-        "September 1st",
-        "August 30th",
-        "August 24th"
+        "Exactly 100",
+        "Less than 100"
       ]
     },
     {
-      "question": "What part of the crew was stationed in positions at the outbreak of World War II?",
-      "good": "1/3",
+      "question":"In what year did the Gdańsk City Council award the defenders of the Polish Post Office the titles of honorary citizens of Gdańsk?",
+      "good":"1998",
       "wrong": [
-        "1/4",
-        "1/2",
-        "3/4"
+        "1989",
+        "2000",
+        "2004",
+        "1999"
       ]
     },
     {
-      "question": "Which facility was attacked first?",
-      "good": "Prom",
+      "question":"In 2022, did the branch 'Gdansk 1' of the Polish Post Office in Gdansk function as the Polish Post Office?",
+      "good":"Yes",
       "wrong": [
-        "Fort",
-        "Power station",
-        "Track"
+        "No"
       ]
     },
     {
-      "question": "How many days did the defense of Westerplatte last?",
-      "good": "7 days",
+      "question":"At what time did the first attack on the post office building begin?",
+      "good":"4:45",
       "wrong": [
-        "12 hours",
-        "10 days",
-        "Two days"
+        "5:00",
+        "5:30",
+        "11:25",
+        "3:45"
       ]
     },
     {
-      "question": "What allowed the German general Friedrich Ebenhardt to Major Sucharski after the surrender?",
-      "good": "Keep the officer saber",
+      "question": "Which of the given German units and subunits did NOT take part in the attack on the post office?",
+      "good":"Panzer Division Holstein",
       "wrong": [
-        "Make a final speech in front of your ward",
-        "Fire the last bullet from your gun",
-        "He let him do nothing. He took him captive"
+        "Order police (Schutzpolizei)",
+        "SS Wachsturmbann \"E\"",
+        "SS-Heimwehr Danzig"
       ]
     },
     {
-      "question": "There were two barracks buildings. What were they called?",
-      "good": "Old and new",
+      "question": "How long was the defense of the Polish post office to last?",
+      "good": "approximately 6 hours",
       "wrong": [
-        "First and Second",
-        "North and South",
-        "Sand and Stone"
+        "about 5 hours",
+        "4 hours and 30 minutes",
+        "approximately 8 hours"
       ]
     },
     {
-      "question": "What was Westerplatte originally?",
-      "good": "An island",
+      "question": "What was the plan for the Germans to attack the post office?",
+      "good": "Breaking a hole in the wall on the side of the National Labor Office",
       "wrong": [
-        "Peninsula",
-        "By sea / bay"
+        "Breaking a hole in the wall from the side of the building",
+        "Entering the building through the windows",
+        "Making a hole in the roof"
       ]
     },
     {
-      "question": "How tall is the Monument to the Coastal Defenders?",
-      "good": "25 meters",
+      "question": "When the Directorate of Posts and Telegraphs of the Republic of Poland was established?",
+      "good": "In 1921",
       "wrong": [
-        "20 meters",
-        "15 meters",
-        "30 meters"
+        "In 1919",
+        "In 1930",
+        "In 1939"
       ]
     },
     {
-      "question": "From what position did the German ship attack at the beginning of World War II?",
-      "good": "From the south. From the so-called Five Whistles Bend on the Martwa Wisła",
+      "question": "Where the Directorate of Posts and Telegraphs in Gdansk was located?",
+      "good": "At Hevelius Square, in the building of the former Prussian military hospital",
       "wrong": [
-        "From the East. From the Gdańsk Bay",
-        "From the West. From the mouth of the Martwa Wisła",
-        "From the North. From the Gdańsk Bay"
+        "By the fish market, in the building of the former German school",
+        "At Podwale Staromiejskie Street",
+        "At Podwale Przedmiejskie Street
       ]
     },
     {
-      "question": "There was an air raid during the defense of Westerplatte. Which buildings were damaged?",
-      "good": "Barracks and Guardhouse No. 5",
+      "question": "How many mailboxes with the Polish national emblem were set up in Gdansk in 1930?",
+      "good": "10",
       "wrong": [
-        "Fort facility and Power Plant",
-        "Tor facility and Koszary facility",
-        "Wartonia nr 5 and Placówka Tor"
-      ]
-    },
-    {
-      "question": "Who was the commander of the garrison at Westerplatte?",
-      "good": "major Henryk Sucharski",
-      "wrong": [
-        "Captain Franciszek Dąbrowski",
-        "por Leon Pająk",
-        "st Sergeant Wojciech Najsarek"
-      ]
-    },
-    {
-      "question": "Which ships (apart from Schleswig-Holstein) participated in the attack on Westerplatte?",
-      "good": "Torpedowce",
-      "wrong": [
-        "Cruisers",
-        "Destroyers",
-        "None of the given"
-      ]
-    },
-    {
-      "question": "How did World War II really start?",
-      "good": "Attack at several border points",
-      "wrong": [
-        "The attack on Westerplatte",
-        "Attack on Hel",
-        "An attack to the south from East Prussia"
-      ]
-    },
-    {
-      "question": "How many soldiers were originally stationed in the Military Transit Depot?",
-      "good": "88",
-      "wrong": [
-        "66",
-        "102",
+        "5",
+        "15",
         "20"
       ]
     },
     {
-      "question": "What was the size of the Westerplatte crew at the outbreak of the war?",
-      "good": "~200",
+      "question": "What is now located in the post office building \"Danzig 1\"?",
+      "good": "Museum of the Polish Post",
       "wrong": [
-        "~300",
-        "~100",
-        "~400"
+        "Deutche Post Museum",
+        "World War II Museum",
+        "Museum of Posts and Telegraphs",
+        "Hewelianum"
       ]
     },
     {
-      "question": "What is the name of the Gdańsk district in which Westerplatte is currently located?",
-      "good": "Przeróbka",
+      "question": "When the monument to the defenders of the Polish post office was erected?",
+      "good": "In 1979",
       "wrong": [
-        "Nowy Port",
-        "Port Północny",
-        "Stogi"
+        "In 1989",
+        "In 1945",
+        "In 1939"
       ]
     },
     {
-      "question": "How many ammunition warehouses were built on Westerplatte?",
-      "good": "22",
+      "question": "Where were the injured and burned postal workers placed?",
+      "good": "At the city hospital",
       "wrong": [
-        "24",
-        "19",
-        "26"
+        "In the building of the police presidium",
+        "In concentration camps"
+      ]
+    },
+    {
+      "question": "Why were the postal workers sentenced to death?",
+      "good": "For partisanship",
+      "wrong": [
+        "For escaping",
+        "For desertion"
+      ]
+    },
+    {
+      "question": "What was the effect of the review of the postal workers' trial in 1995?",
+      "good": "Exoneration",
+      "wrong": [
+        "Extension of the penalty",
+        "Shooting"
+      ]
+    },
+    {
+      "question": "What treaty established the Free City of Danzig?",
+      "good": "Treaty of Versailles",
+      "wrong": [
+        "Treaty of Paris",
+        "Treaty of Vienna",
+        "Treaty of Warsaw"
+      ]
+    },
+    {
+      "question": "What was the status of the three Polish post offices in the Free City of Danzig?",
+      "good": "Extraterritoriality",
+      "wrong": [
+        "Self-governance",
+        "Sovereignty",
+        "Individuality"
+      ]
+    },
+    {
+      "question": "What was the main post office in the Free City of Gdańsk?",
+      "good": "Gdańsk 1",
+      "wrong": [
+        "Gdańsk 2",
+        "Gdańsk 3"
+      ]
+    },
+    {
+      "question": "Who took command of the defense of the Polish post office building in 1939?",
+      "good": "Konrad Guderski",
+      "wrong": [
+        "Alfons Flisykowski",
+        "Adolf Hitler"
       ]
     }
   ]
