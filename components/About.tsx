@@ -58,8 +58,8 @@ export const AboutComponent = () => {
             </CreatorBox>)}
         </CreatorFlex>
         <SectionTitle>{t("aboutProject")}</SectionTitle>
-        <AboutProject>{t("about")} <Link
-            href="https://github.com/BigBruhCoders/defenders-of-the-Polish-post-office">https://github.com/BigBruhCoders/defenders-of-the-Polish-post-office</Link></AboutProject>
+        <AboutProject>{t("about")} <a
+            href="https://github.com/BigBruhCoders/defenders-of-the-Polish-post-office" target="_blank" rel="noreferrer">https://github.com/BigBruhCoders/defenders-of-the-Polish-post-office</a></AboutProject>
         <div>
             <SectionTitle>{t("sources")}</SectionTitle>
             <Sources>
