@@ -216,9 +216,87 @@
     "src": "/images/gallery/znak_3.jpg"
   },
   {
-    "nameID": "pomnik-pocztowców",
+    "nameID": "pomnik-pocztowcow",
     "year": "2023",
     "author": "Piotr Lempkowski",
     "src": "/images/gallery/pomnik_pocztowców.jpg"
+  },
+  {
+    "nameID": "grobowiec-1",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/grobowiec_pocztowcow_1.jpg"
+  },
+  {
+    "nameID": "grobowiec-2",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/grobowiec_pocztowcow_2.jpg"
+  },
+  {
+    "nameID": "grobowiec-3",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/grobowiec_pocztowcow_3.jpg"
+  },
+  {
+    "nameID": "grobowiec-4",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/grobowiec_pocztowcow_4.jpg"
+  },
+  {
+    "nameID": "grobowiec-5",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/grobowiec_pocztowcow_5.jpg"
+  },
+  {
+    "nameID": "grobowiec-6",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/grobowiec_pocztowcow_6.jpg"
+  },
+  {
+    "nameID": "grobowiec-7",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/grobowiec_pocztowcow_7.jpg"
+  },
+  {
+    "nameID": "grobowiec-8",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/grobowiec_pocztowcow_8.jpg"
+  },
+  {
+    "nameID": "grobowiec-9",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/grobowiec_pocztowcow_9.jpg"
+  },
+  {
+    "nameID": "grobowiec-eng",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/grobowiec_pocztowcow_eng.jpg"
+  },
+  {
+    "nameID": "grobowiec-pol",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/grobowiec_pocztowcow_pol.jpg"
+  },
+  {
+    "nameID": "zaspa-kamien-1",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/zaspa_kamien_1.jpg"
+  },
+  {
+    "nameID": "zaspa-kamien-2",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/zaspa_kamien_2.jpg"
   }
 ]
