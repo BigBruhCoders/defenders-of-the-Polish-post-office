@@ -14,7 +14,7 @@ const light: Theme = {
     navbarBackgroundColor: "#c5c5c5",
     navbarTextColor: "#000000",
 
-    mainColor: "#2f50cc",
+    mainColor: "#203a9f",
     mainTextColor: "#ffffff",
 
     footerBorderTopColor: "#808080",
