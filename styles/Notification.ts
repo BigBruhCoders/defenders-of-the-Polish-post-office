@@ -13,6 +13,7 @@ export const NotifBox = styled.div<{$gotInfo: boolean}>`
   align-items: center;
   padding: 1rem 1.5rem;
   bottom: 1rem;
+  z-index: 9999;
   p {
     text-align: center;
     color: var(--global-text-color);
