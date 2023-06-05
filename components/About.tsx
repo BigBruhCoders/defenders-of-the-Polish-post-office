@@ -21,7 +21,7 @@ export const AboutComponent = () => {
 
     const authors = [
         {
-            imageSRC: "/images/lempek.jpg",
+            imageSRC: "/images/lempek.webp",
             name: "Piotr „Lempek” Lempkowski",
             links: [
                 {name: "github", link: "https://github.com/LempekPL"},
@@ -29,7 +29,7 @@ export const AboutComponent = () => {
             ]
         },
         {
-            imageSRC: "/images/wikapo.jpg",
+            imageSRC: "/images/wikapo.webp",
             name: "Wiktor „wiKapo” Polanowski",
             links: [
                 {name: "github", link: "https://github.com/wiKapo"},

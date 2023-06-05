@@ -7,7 +7,7 @@ export const MainComponent = () => {
 
     return <Main>
         <MainImageBox>
-            <Image src="/images/gallery/polish_post_office_front.jpg" alt="Post Office" fill/>
+            <Image src="/images/gallery/polish_post_office_front.webp" alt="Polish Post Office" fill/>
         </MainImageBox>
         <QuoteBox>
             <p>{t("quote")}</p>
