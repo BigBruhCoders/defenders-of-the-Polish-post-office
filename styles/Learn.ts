@@ -201,6 +201,7 @@ export const ContentSectionTitle = styled.p`
 export const ContentImage = styled.div`
   position: relative;
   height: 20rem;
+  margin: 1rem;
   
   img {
     cursor: pointer;
