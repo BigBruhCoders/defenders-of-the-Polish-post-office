@@ -16,7 +16,7 @@ const dark: Theme = {
 
     footerBorderTopColor: "#939393",
 
-    primaryButtonColor: "#424242",
+    primaryButtonColor: "#3b3b3b",
     primaryButtonTextColor: "#c2c2c2",
 }
 export default dark;

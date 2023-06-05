@@ -9,7 +9,7 @@ export const MainBox = styled.main<{$bigSection: boolean}>`
   grid-template-columns: 15rem 1fr 20rem;
   align-items: flex-start;
   
-  @media (max-width: 1000px) {
+  @media (max-width: 1200px) {
     grid-template-columns: 1fr 1fr;
     grid-template-areas: ${props => props.$bigSection ? '"topics sections" "content content"' : '"topics topics" "content content"'};
     align-items: initial;
@@ -32,7 +32,7 @@ export const TopicsBox = styled.div`
   padding: 1rem;
   top: calc(var(--navbar-height) + 1rem);
 
-  @media (max-width: 1000px) {
+  @media (max-width: 1200px) {
     position: relative;
     top: 0;
   }
@@ -209,9 +209,16 @@ export const ContentImage = styled.div`
   }
 `;
 
-export const ContentImageUnderText = styled.p`
-  margin-left: 5rem;
+export const ContentImageUnderText = styled.div`
+  position: relative;
+  height: 1rem;
+  
   a {
+    text-overflow: ellipsis;
+    width: 100%;
+    overflow: hidden;
+    position: absolute;
+    top: -1rem;
     color: ${props => props.theme.type === "light" ? "" : "royalblue"};
 
     :is(:hover, :focus-visible) {
@@ -241,7 +248,7 @@ export const SectionsBox = styled.div`
   background-color: var(--global-box-background-color-alt);
   padding: 1rem;
 
-  @media (max-width: 1000px) {
+  @media (max-width: 1200px) {
     position: relative;
     top: 0;
   }
