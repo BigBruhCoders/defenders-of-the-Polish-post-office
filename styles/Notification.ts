@@ -46,7 +46,6 @@ export const NotifButton = styled.button`
   text-align: center;
   cursor: pointer;
   text-decoration: none;
-  border-bottom: var(--main-color) solid .5rem;
   z-index: 1;
   overflow: hidden;
   transition: 200ms;
@@ -80,17 +79,5 @@ export const NotifButton = styled.button`
     z-index: -1;
     transition: 200ms;
     transition-timing-function: ease-out;
-  }
-
-  :after {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    right: .5rem;
-    height: .5rem;
-    width: .5rem;
-    transform: skewX(-45deg);
-    border-left: var(--main-color) solid .75rem;
-    border-right: var(--main-color) solid .75rem;
   }
 `;
