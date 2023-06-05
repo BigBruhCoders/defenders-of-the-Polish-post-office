@@ -1,9 +1,11 @@
 import {useEffect, useState} from "react";
 import {getCookie, setCookies} from "cookies-next";
 import {NotifBox, NotifButton} from "../styles/Notification";
+import useTranslation from "next-translate/useTranslation";
 
 export const Notification = () => {
     const [accepted, setAccepted] = useState(false);
+    const {t} = useTranslation("common");
 
     useEffect(() => {
         setAccepted(Boolean(getCookie("INFO")) ?? false);
@@ -15,7 +17,7 @@ export const Notification = () => {
     }
 
     return <NotifBox $gotInfo={accepted}>
-        <p>Strona używa ciasteczek do zapisywania języka oraz motywu strony</p>
+        <p>{t("cookies")}</p>
         <NotifButton onClick={clicked}>OK</NotifButton>
     </NotifBox>;
 }

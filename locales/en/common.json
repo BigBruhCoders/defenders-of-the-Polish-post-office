@@ -8,5 +8,6 @@
   "project": "Website made by Piotr Lempkowski and Wiktor Polanowski",
   "not-found": "Error 404 - NOT FOUND",
   "couldnt-find": "We couldn't find what you wanted...",
-  "goback": "Go back"
+  "goback": "Go back",
+  "cookies": "This website uses cookies to save language and theme"
 }
