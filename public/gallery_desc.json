@@ -3,300 +3,300 @@
     "nameID": "citizenship-1",
     "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/citizenship_1.jpg"
+    "src": "/images/gallery/citizenship_1.webp"
   },
   {
     "nameID": "citizenship-2",
     "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/citizenship_2.jpg"
+    "src": "/images/gallery/citizenship_2.webp"
   },
   {
-    "nameID": "mural",
+    "nameID": "citizenship-3",
     "year": "2023",
-    "author": "Piotr Lempkowski",
-    "src": "/images/gallery/mural.jpg"
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/citizenship_3.webp"
   },
   {
-    "nameID": "mural-irl-1",
+    "nameID": "postal-workers-monument-1",
     "year": "2023",
-    "author": "Piotr Lempkowski",
-    "src": "/images/gallery/mural_irl_1.jpg"
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/postal_workers_monument_1.webp"
   },
   {
-    "nameID": "mural-irl-2",
+    "nameID": "postal-workers-monument-2",
     "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/mural_irl_2.jpg"
+    "src": "/images/gallery/postal_workers_monument_2.webp"
   },
   {
-    "nameID": "polish-post-office",
+    "nameID": "image-1",
     "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/polish_post_office.jpg"
+    "src": "/images/gallery/image_1.webp"
+  },
+  {
+    "nameID": "image-2",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/image_2.webp"
+  },
+  {
+    "nameID": "fingertips-1",
+    "year": "2023",
+    "author": "Piotr Lempkowski",
+    "src": "/images/gallery/fingertips_1.webp"
+  },
+  {
+    "nameID": "fingertips-2",
+    "year": "2023",
+    "author": "Piotr Lempkowski",
+    "src": "/images/gallery/fingertips_2.webp"
+  },
+  {
+    "nameID": "fingertips-3",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/fingertips_3.webp"
+  },
+  {
+    "nameID": "fingertips-4",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/fingertips_4.webp"
+  },
+  {
+    "nameID": "polish-post-office-front-1",
+    "year": "2023",
+    "author": "Piotr Lempkowski",
+    "src": "/images/gallery/polish_post_office_front_1.webp"
+  },
+  {
+    "nameID": "polish-post-office-front-2",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/polish_post_office_front_2.webp"
+  },
+  {
+    "nameID": "polish-post-office-front-3",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/polish_post_office_front_3.webp"
+  },
+  {
+    "nameID": "polish-post-office-front-4",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/polish_post_office_front_4.webp"
+  },
+  {
+    "nameID": "polish-post-office-front-5",
+    "year": "2023",
+    "author": "Piotr Lempkowski",
+    "src": "/images/gallery/polish_post_office_front_5.webp"
   },
   {
     "nameID": "polish-post-office-back",
     "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/polish_post_office_back.jpg"
-  },
-  {
-    "nameID": "polish-post-office-board-left",
-    "year": "2023",
-    "author": "Piotr Lempkowski",
-    "src": "/images/gallery/polish_post_office_board_left.jpg"
-  },
-  {
-    "nameID": "polish-post-office-board-right",
-    "year": "2023",
-    "author": "Piotr Lempkowski",
-    "src": "/images/gallery/polish_post_office_board_right.jpg"
-  },
-  {
-    "nameID": "polish-post-office-front",
-    "year": "2023",
-    "author": "Piotr Lempkowski",
-    "src": "/images/gallery/polish_post_office_front.jpg"
+    "src": "/images/gallery/polish_post_office_back.webp"
   },
   {
     "nameID": "polish-post-office-monument-1",
     "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/polish_post_office_monument_1.jpg"
+    "src": "/images/gallery/polish_post_office_monument_1.webp"
   },
   {
     "nameID": "polish-post-office-monument-2",
     "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/polish_post_office_monument_2.jpg"
+    "src": "/images/gallery/polish_post_office_monument_2.webp"
   },
   {
     "nameID": "polish-post-office-monument-3",
     "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/polish_post_office_monument_3.jpg"
+    "src": "/images/gallery/polish_post_office_monument_3.webp"
   },
   {
-    "nameID": "polish-post-office-simple-sign",
+    "nameID": "polish-post-office-monument-4",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/polish_post_office_monument_4.webp"
+  },
+  {
+    "nameID": "polish-post-office-sign",
     "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/polish_post_office_simple_sign.jpg"
-  },
-  {
-    "nameID": "polish-zsl-school-1",
-    "year": "2023",
-    "author": "Piotr Lempkowski",
-    "src": "/images/gallery/polish_zsl_school_1.jpg"
-  },
-  {
-    "nameID": "polish-zsl-school-2",
-    "year": "2023",
-    "author": "Piotr Lempkowski",
-    "src": "/images/gallery/polish_zsl_school_2.jpg"
-  },
-  {
-    "nameID": "polish-zsl-school-3",
-    "year": "2023",
-    "author": "Piotr Lempkowski",
-    "src": "/images/gallery/polish_zsl_school_3.jpg"
-  },
-  {
-    "nameID": "polish-zsl-school-4",
-    "year": "2023",
-    "author": "Piotr Lempkowski",
-    "src": "/images/gallery/polish_zsl_school_4.jpg"
-  },
-  {
-    "nameID": "polish-zsl-school-side-1",
-    "year": "2023",
-    "author": "Piotr Lempkowski",
-    "src": "/images/gallery/polish_zsl_school_side_1.jpg"
-  },
-  {
-    "nameID": "polish-zsl-school-side-2",
-    "year": "2023",
-    "author": "Piotr Lempkowski",
-    "src": "/images/gallery/polish_zsl_school_side_2.jpg"
-  },
-  {
-    "nameID": "pup-plate",
-    "year": "2023",
-    "author": "Piotr Lempkowski",
-    "src": "/images/gallery/pup_plate.jpg"
-  },
-  {
-    "nameID": "tablica-dedykowana-obroncom",
-    "year": "2023",
-    "author": "Piotr Lempkowski",
-    "src": "/images/gallery/tablica_dedykowana_obroncom.jpg"
-  },
-  {
-    "nameID": "image",
-    "year": "2023",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/obraz.jpg"
-  },
-  {
-    "nameID": "fingertips-1",
-    "year": "2023",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/palce_1.jpg"
-  },
-  {
-    "nameID": "fingertips-2",
-    "year": "2023",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/palce_2.jpg"
-  },
-  {
-    "nameID": "post-office-1",
-    "year": "2023",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/poczta_1.jpg"
-  },
-  {
-    "nameID": "post-office-2",
-    "year": "2023",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/poczta_2.jpg"
-  },
-  {
-    "nameID": "post-office-3",
-    "year": "2023",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/poczta_3.jpg"
-  },
-  {
-    "nameID": "monument-1",
-    "year": "2023",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/pomnik_1.jpg"
-  },
-  {
-    "nameID": "monument-2",
-    "year": "2023",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/pomnik_2.jpg"
-  },
-  {
-    "nameID": "board",
-    "year": "2023",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/tablica.jpg"
-  },
-  {
-    "nameID": "plate",
-    "year": "2023",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/plyta.jpg"
+    "src": "/images/gallery/polish_post_office_sign.webp"
   },
   {
     "nameID": "entrance",
     "year": "2023",
     "author": "Wiktor Polanowski",
-    "src": "/images/gallery/wejscie.jpg"
+    "src": "/images/gallery/entrance.webp"
   },
   {
-    "nameID": "sign-1",
-    "year": "2023",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/znak_1.jpg"
-  },
-  {
-    "nameID": "sign-2",
-    "year": "2023",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/znak_2.jpg"
-  },
-  {
-    "nameID": "sign-3",
-    "year": "2023",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/znak_3.jpg"
-  },
-  {
-    "nameID": "pomnik-pocztowcow",
+    "nameID": "polish-post-office-board-left",
     "year": "2023",
     "author": "Piotr Lempkowski",
-    "src": "/images/gallery/pomnik_pocztowców.jpg"
+    "src": "/images/gallery/polish_post_office_board_left.webp"
   },
   {
-    "nameID": "grobowiec-1",
+    "nameID": "polish-post-office-board-right",
     "year": "2023",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/grobowiec_pocztowcow_1.jpg"
+    "author": "Piotr Lempkowski",
+    "src": "/images/gallery/polish_post_office_board_right.webp"
   },
   {
-    "nameID": "grobowiec-2",
+    "nameID": "plate-1",
     "year": "2023",
     "author": "Wiktor Polanowski",
-    "src": "/images/gallery/grobowiec_pocztowcow_2.jpg"
+    "src": "/images/gallery/plate_1.webp"
   },
   {
-    "nameID": "grobowiec-3",
+    "nameID": "plate-2",
     "year": "2023",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/grobowiec_pocztowcow_3.jpg"
+    "author": "Piotr Lempkowski",
+    "src": "/images/gallery/plate_2.webp"
   },
   {
-    "nameID": "grobowiec-4",
+    "nameID": "stamp-1",
     "year": "2023",
     "author": "Wiktor Polanowski",
-    "src": "/images/gallery/grobowiec_pocztowcow_4.jpg"
+    "src": "/images/gallery/stamp_1.webp"
   },
   {
-    "nameID": "grobowiec-5",
+    "nameID": "stamp-2",
     "year": "2023",
     "author": "Wiktor Polanowski",
-    "src": "/images/gallery/grobowiec_pocztowcow_5.jpg"
+    "src": "/images/gallery/stamp_2.webp"
   },
   {
-    "nameID": "grobowiec-6",
+    "nameID": "stamp-3",
     "year": "2023",
-    "author": "Wiktor Polanowski",
-    "src": "/images/gallery/grobowiec_pocztowcow_6.jpg"
+    "author": "Piotr Lempkowski",
+    "src": "/images/gallery/stamp_3.webp"
   },
   {
-    "nameID": "grobowiec-7",
+    "nameID": "virtuti-militari",
     "year": "2023",
     "author": "Wiktor Polanowski",
-    "src": "/images/gallery/grobowiec_pocztowcow_7.jpg"
+    "src": "/images/gallery/virtuti_militari.webp"
   },
   {
-    "nameID": "grobowiec-8",
+    "nameID": "tomb-1",
     "year": "2023",
     "author": "Wiktor Polanowski",
-    "src": "/images/gallery/grobowiec_pocztowcow_8.jpg"
+    "src": "/images/gallery/postal_workers_tomb_1.webp"
   },
   {
-    "nameID": "grobowiec-9",
+    "nameID": "tomb-2",
     "year": "2023",
     "author": "Wiktor Polanowski",
-    "src": "/images/gallery/grobowiec_pocztowcow_9.jpg"
+    "src": "/images/gallery/postal_workers_tomb_2.webp"
   },
   {
-    "nameID": "grobowiec-eng",
+    "nameID": "tomb-3",
     "year": "2023",
     "author": "Wiktor Polanowski",
-    "src": "/images/gallery/grobowiec_pocztowcow_eng.jpg"
+    "src": "/images/gallery/postal_workers_tomb_3.webp"
   },
   {
-    "nameID": "grobowiec-pol",
+    "nameID": "tomb-4",
     "year": "2023",
     "author": "Wiktor Polanowski",
-    "src": "/images/gallery/grobowiec_pocztowcow_pol.jpg"
+    "src": "/images/gallery/postal_workers_tomb_4.webp"
   },
   {
-    "nameID": "zaspa-kamien-1",
+    "nameID": "tomb-5",
     "year": "2023",
     "author": "Wiktor Polanowski",
-    "src": "/images/gallery/zaspa_kamien_1.jpg"
+    "src": "/images/gallery/postal_workers_tomb_5.webp"
   },
   {
-    "nameID": "zaspa-kamien-2",
+    "nameID": "tomb-6",
     "year": "2023",
     "author": "Wiktor Polanowski",
-    "src": "/images/gallery/zaspa_kamien_2.jpg"
+    "src": "/images/gallery/postal_workers_tomb_6.webp"
+  },
+  {
+    "nameID": "tomb-7",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/postal_workers_tomb_7.webp"
+  },
+  {
+    "nameID": "tomb-8",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/postal_workers_tomb_8.webp"
+  },
+  {
+    "nameID": "tomb-9",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/postal_workers_tomb_9.webp"
+  },
+  {
+    "nameID": "tomb-eng",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/postal_workers_tomb_sign_english.webp"
+  },
+  {
+    "nameID": "tomb-pol",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/postal_workers_tomb_sign_polish.webp"
+  },
+  {
+    "nameID": "zaspa-stone-1",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/zaspa_stone_1.webp"
+  },
+  {
+    "nameID": "zaspa-stone-2",
+    "year": "2023",
+    "author": "Wiktor Polanowski",
+    "src": "/images/gallery/zaspa_stone_2.webp"
+  },
+  {
+    "nameID": "zsl-school-1",
+    "year": "2023",
+    "author": "Piotr Lempkowski",
+    "src": "/images/gallery/zsl_school_1.webp"
+  },
+  {
+    "nameID": "zsl-school-2",
+    "year": "2023",
+    "author": "Piotr Lempkowski",
+    "src": "/images/gallery/zsl_school_2.webp"
+  },
+  {
+    "nameID": "zsl-school-3",
+    "year": "2023",
+    "author": "Piotr Lempkowski",
+    "src": "/images/gallery/zsl_school_3.webp"
+  },
+  {
+    "nameID": "zsl-school-4",
+    "year": "2023",
+    "author": "Piotr Lempkowski",
+    "src": "/images/gallery/zsl_school_4.webp"
+  },
+  {
+    "nameID": "zsl-school-side-1",
+    "year": "2023",
+    "author": "Piotr Lempkowski",
+    "src": "/images/gallery/zsl_school_side_1.webp"
+  },
+  {
+    "nameID": "zsl-school-side-2",
+    "year": "2023",
+    "author": "Piotr Lempkowski",
+    "src": "/images/gallery/zsl_school_side_2.webp"
   }
 ]
